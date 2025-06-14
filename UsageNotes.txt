@@ -1,0 +1,15 @@
+This document will aim to summarise some infrastructural stuff (github workflows & maybe other similar stuff) in a cheat-sheet style.
+
+FOR A NEW COMPUTER:
+  installing git
+  setting up SSH key
+  cloning ghcloud
+  pasting vimrc & gvimrc
+
+REGULAR USAGE:
+  pull
+  add
+  commit
+  push
+  diff
+  status
