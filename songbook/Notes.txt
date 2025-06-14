@@ -1,0 +1,633 @@
+##  20240108  #################################################################
+Notes from Jennifer Kyrnin's article at
+https://www.thoughtco.com/create-epub-file-from-html-and-xml-3467282:
+
+<li><strong>Build your HTML.&nbsp;</strong>Your book is <a href="https://www.thoughtco.com/preformatted-text-3468275" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">written in HTML</a>, with CSS for styling. But, it's not just HTML, it's XHTML. So, if you don't normally write in XHTML (closing your elements, using quotes around all attributes, and so on) you will need to convert your HTML to XHTML. You can use one or more XHTML files for your books. Most people separate the chapters into separate XHTML files. Once you have all the XHTML files, put them in a folder all together.</li>
+<li><strong>Create a MIME Type File.&nbsp;</strong>In your text editor, open a new document and type: <pre data-type="code">application/epub+zip </pre> Save the file as “mimetype” <em>without any extension</em>. Place that file in the folder with your XHTML files.</li>
+<li class="ql-indent-1"><strong>Add your style sheets.&nbsp;</strong>You should create two <a href="https://www.thoughtco.com/what-is-css-3466390" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="2">style sheets</a> for your book one for the pages called<br><pre data-type="code">page_styles.css</pre>: <pre data-type="code">@page {</pre></li>
+<li><pre data-type="code">margin-bottom: 5pt;</pre></li>
+<li><pre data-type="code">margin-top: 5pt</pre></li>
+<li><pre data-type="code">}</pre></li>
+<li class="ql-indent-1">Create one for the book styles called <pre data-type="code">stylesheet.css</pre>. You can give them other names, you'll just need to remember what they are. Save these files in the same directory with your XHTML and mimetype files.</li><span class="mntl-sc-block-adslot mntl-sc-block-adslot-inline"></span>
+<li><strong>Add your cover image.&nbsp;</strong>Your cover image should be a JPG file no more than 64KB. The smaller you can make it the better, but keep it good looking. <a href="https://www.thoughtco.com/best-image-use-for-kindle-books-3469088" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="3">Small images</a> can be very hard to read, and the cover is where you do your marketing of your book.</li>
+<li class="ql-indent-1"><strong>Build your title page.&nbsp;</strong>You don't have to use the cover image as your title page, but most people do. To add your title page, create an XHTML file called <pre data-type="code">titlepage.xhtml</pre>Here is an example of a title page using SVG for the image. Change the highlighted part to point to your cover image:</li>
+<li><pre data-type="code">Cover</pre></li>
+<li class="ql-indent-1"><strong>Build your "Table of Contents."&nbsp;</strong>Create a file called <pre data-type="code">toc.ncx</pre> in your text editor. This is an XML file, and it should point to all your HTML files in your book. Here is a sample with two elements in the table of contents. Change the highlighted parts to your book, and add additional <pre data-type="code">navPoint</pre> elements for additional sections:</li>
+<li><pre data-type="code"><em>How to Build a Website</em></pre></li>
+<li><pre data-type="code"><em>Hosting</em></pre></li>
+<li><pre data-type="code"><em>Do You Need a Domain Name?</em></pre></li>
+<li class="ql-indent-1"><strong>Add a container XML file.&nbsp;</strong>In your text editor, create a file called <pre data-type="code">container.xml</pre> and save it in a sub-directory below your HTML files. The file should read:</li><span class="mntl-sc-block-adslot mntl-sc-block-adslot-inline"></span>
+<li class="ql-indent-1"><strong>Create the contents list (</strong><strong></strong><strong></strong><strong></strong><strong><pre data-type="code">content.opf</pre>).</strong> This is the file that explains what your epub book is. It includes <a href="https://www.thoughtco.com/metadata-definition-and-examples-1019177" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="4">metadata</a> about the book (like the author, publish date, and genre). Here is a sample, you should change the parts in yellow to reflect your book:</li>
+<li><pre data-type="code">en</pre></li>
+<li><pre data-type="code"><em>How to Build a Website</em></pre></li>
+<li><em>Jennifer Kyrnin</em></li>
+<li>0101-01-01T00:00:00+00:00</li>
+<li>0c159d12-f5fe-4323-8194-f5c652b89f5c</li>
+<li>That's all the files you need, they should all be in a directory together (except for <pre data-type="code">container.xml</pre>, which goes in a sub-directory <pre data-type="code">META-INF</pre>). We like to then go to the container directory and make sure it has a name that reflects the title and author names.</li>
+<li>Once you have the directory of files named how you want it you should use a zip file archive program to zip the directory. My sample directory ends up as a zip file named “How to Build a Website — Jennifer Kyrnin.zip”</li>
+<li>Finally, change the file name extension from <pre data-type="code">.zip</pre> to <pre data-type="code">.epub</pre>. Your operating system may protest, but go ahead with it. You want this to have an epub extension.</li><span class="mntl-sc-block-adslot mntl-sc-block-adslot-inline"></span>
+<li>Lastly, <strong>test your book.&nbsp;</strong>It's hard to get the epub format correct on the first try, so you should always test your file. Open it in an epub reader like Calibre. And if it doesn't display correctly, you can use Calibre to correct problems.</li>
+
+WAIT! The good version is at
+https://studybookz.wordpress.com/2016/01/24/how-to-create-an-epub-file-from-html-and-xml-2/
+
+##  20240109  #################################################################
+https://idpf.org/epub/30/
+https://github.com/idpf/epub3-samples
+https://ebooks.stackexchange.com/questions/1186/how-do-i-add-a-cover-and-other-pictures-to-my-epub
+https://photos.google.com/share/AF1QipPFklnA94LsOrQgdUeo4j_6jGR6Try3ahEqsj4DenmuGfUL61dxRevGwPYZpt5XVQ/photo/AF1QipMgGPZP80pfvSguR6LaZFwjFPdz3W_kolYzcF-Z?key=NmdDRjhSWGRILXJPYXEtMGNCbUNsZVFBUDNTMmtn
+
+work on epub
+  relationship between TOC & file split?
+  python script to convert source to epub
+    switch to stop default cleanup after zipping, for debugging
+    several files if necessary
+    how to convert image to jpeg specifying max file size?
+
+I've unzipped two example epubs from the Kobo to have a look at. The Book of
+Wonder is I think from Standard eBooks, & possibly excessively complicated. Don
+Quijote is simpler & can probably serve as a model.
+
+##  20240111  #################################################################
+Irritatingly, my laptop didn't charge last night (investigate) so I'm not sure
+whether I can work on this for the whole commute or not.
+
+Make a template folder, to be copied to each book's temp folder, which will
+then be populated with the specific content.
+
+Also make a python script. Top-down dev, & just leave anything that I need to
+look up online.
+
+Basing template on gutenberg's quijote. The mimetype file and META-INF folder
+are fine; all required changes will be within the OEBPS folder. Within OEBPS:
+  done:
+    replaced cover image
+    updated cover link in wrap0000.html
+    checked pgepub.css
+    added div.song style in 0.css
+  manual adjustment needed:
+    tinker with 0.css for chord styling
+  programmatic work needed:
+    create the songs' actual html files
+    content.opf:
+      are the comments in this file needed or wanted?
+      I've manually adjusted some of the metadata; could finesse later
+      replace [[SONG ITEM ENTRIES]] and [[SONG ITEMREF ENTRIES]]
+    toc.ncx:
+      gut & replace innards with list of songs
+      what is 'playOrder'? Can I skip it?
+      why is this hierarchical? Can I ignore that? Try just 1 navPoint per song
+    get and try that eBook checker utility!
+
+Consider using the xml2epub module. Could greatly simplify my task.
+If xml2epub creates something that the kobo can't read, try processing it with
+  calibre & then manually checking for differences. Then alter code.
+
+Make resources folder with the templates & css files.
+
+https://pypi.org/project/xml2epub/
+
+Issues with the current implementation:
+  Consecutive lyrics are sometimes displayed on the same line.
+  At some point it's adding line breaks & white space, ruining alignment.
+  Styling:
+    Centre & style headings
+    Style 'structure'
+
+Copy current SongBook unzip to Template
+Simplify, using static names for css & cover image
+Reinstate temp folder logic
+copytree
+shutil.make_archive(epub_name_with_path, 'zip', self.EPUB_DIR)
+tidy temp folder (can just comment out when dev)
+
+Is language info necessary?
+
+If there are N songs,
+  they should become the files 1.xhtml to N.xhtml
+
+    <dc:identifier opf:scheme="UUID">GKKW15O20PII</dc:identifier>
+datetime.datetime.now().strftime("%Y-%m-%d")
+
+top of head in toc.ncx:
+    <meta name="dtb:uid" content="GKKW15O20PII"/>
+
+##  2024011317  ###############################################################
+I put this through an online validator at
+  https://draft2digital.com/book/epubcheck/upload
+  (though now also java -jar epubcheck-5.1.0/epubcheck.jar songbook.epub)
+and it returned hundreds of errors:
+
+ERROR(PKG-006): (-1,-1): Mimetype file entry is missing or is not the first file in the archive.
+
+ERROR(RSC-005): /OEBPS/content.opf(2,61): Error while parsing file: element "package" missing required attribute "unique-identifier"
+
+ERROR(OPF-048): /OEBPS/content.opf(2,61): Package tag is missing its required unique-identifier attribute and value.
+
+ERROR(RSC-005): /OEBPS/content.opf(11,14): Error while parsing file: element "metadata" incomplete; missing required element "dc:identifier"
+
+ERROR(RSC-005): /OEBPS/content.opf(13,100): Error while parsing file: attribute "properties" not allowed here; expected attribute "fallback", "fallback-style", "href", "id", "media-type", "required-modules" or "required-namespace"
+
+ERROR(RSC-005): /OEBPS/content.opf(16,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(17,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(18,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(19,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(20,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(21,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(22,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(23,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(24,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(25,69): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(26,71): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(27,71): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(28,71): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(29,71): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(30,71): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(31,71): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(32,71): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(33,71): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(34,71): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(39,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(40,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(41,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(42,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(43,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(44,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(45,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(46,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(47,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(48,25): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(49,26): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(50,26): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(51,26): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(52,26): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(53,26): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(54,26): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(55,26): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(56,26): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/content.opf(57,26): Error while parsing file: value of attribute "idref" is invalid; must be an XML name without colons
+
+ERROR(OPF-074): /OEBPS/content.opf(13,100): Package resource "OEBPS/img/cover.jpg" is declared in several manifest item.
+
+ERROR(OPF-030): /OEBPS/content.opf(-1,-1): The unique-identifier "null" was not found.
+
+ERROR(OPF-032): /OEBPS/content.opf(61,65): Guide references "https://42e980e0-37a7-4903-a7a1-b126fd64e933.epubcheck.w3c.org/OEBPS/img/cover.jpg" which is not a valid "OPS Content Document".
+
+ERROR(RSC-005): /OEBPS/toc.ncx(12,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(16,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(20,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(24,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(28,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(32,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(36,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(40,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(44,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(48,37): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(52,38): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(56,38): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(60,38): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(64,38): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(68,38): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(72,38): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(76,38): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(80,38): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(84,38): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(88,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(92,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(96,36): Error while parsing file: value of attribute "id" is invalid; must be an XML name without colons
+
+ERROR(RSC-005): /OEBPS/toc.ncx(16,36): Error while parsing file: The "id" attribute does not have a unique value
+
+ERROR(RSC-005): /OEBPS/toc.ncx(20,36): Error while parsing file: The "id" attribute does not have a unique value
+
+ERROR(RSC-005): /OEBPS/toc.ncx(24,36): Error while parsing file: The "id" attribute does not have a unique value
+
+ERROR(RSC-005): /OEBPS/toc.ncx(88,36): Error while parsing file: The "id" attribute does not have a unique value
+
+ERROR(RSC-005): /OEBPS/toc.ncx(92,36): Error while parsing file: The "id" attribute does not have a unique value
+
+ERROR(RSC-005): /OEBPS/toc.ncx(96,36): Error while parsing file: The "id" attribute does not have a unique value
+
+ERROR(RSC-005): /OEBPS/0.xhtml(8,50): Error while parsing file: element "img" not allowed here; expected element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/0.xhtml(8,50): Error while parsing file: attribute "href" not allowed here; expected attribute "alt", "class", "dir", "height", "id", "ismap", "lang", "longdesc", "src", "style", "title", "usemap", "width" or "xml:lang"
+
+ERROR(RSC-005): /OEBPS/0.xhtml(8,50): Error while parsing file: element "img" missing required attribute "alt"
+
+ERROR(RSC-005): /OEBPS/0.xhtml(9,9): Error while parsing file: element "body" incomplete; expected element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/1.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/1.xhtml(18,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/1.xhtml(35,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/1.xhtml(48,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/1.xhtml(63,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/1.xhtml(80,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(17,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(38,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(51,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(58,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(63,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(84,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(93,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(104,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/2.xhtml(111,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/3.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/3.xhtml(20,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/3.xhtml(34,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/3.xhtml(44,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/3.xhtml(47,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/3.xhtml(59,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/3.xhtml(61,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/4.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/4.xhtml(30,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/4.xhtml(44,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/4.xhtml(46,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/4.xhtml(59,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/4.xhtml(61,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/4.xhtml(74,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/4.xhtml(76,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/5.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/5.xhtml(31,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/5.xhtml(40,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/5.xhtml(57,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/5.xhtml(60,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/5.xhtml(62,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/5.xhtml(79,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/5.xhtml(88,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/5.xhtml(105,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/6.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/6.xhtml(17,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/6.xhtml(34,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/6.xhtml(47,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/6.xhtml(64,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/6.xhtml(67,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/7.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/7.xhtml(17,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/7.xhtml(36,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/7.xhtml(53,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/7.xhtml(64,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/7.xhtml(85,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/7.xhtml(87,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(17,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(26,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(35,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(44,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(53,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(56,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(65,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(74,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(77,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(80,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/8.xhtml(83,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/9.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/9.xhtml(17,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/9.xhtml(26,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/9.xhtml(46,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/9.xhtml(55,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/9.xhtml(57,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(18,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(28,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(36,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(38,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(47,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(49,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(60,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(69,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/10.xhtml(71,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(24,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(33,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(49,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(61,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(74,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(76,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(87,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(100,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(113,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/11.xhtml(117,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(17,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(32,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(38,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(45,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(55,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(72,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(74,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(83,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/12.xhtml(85,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/13.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/13.xhtml(33,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/13.xhtml(39,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/13.xhtml(40,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/13.xhtml(59,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/13.xhtml(61,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/13.xhtml(70,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/13.xhtml(72,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(55,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(64,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(68,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(73,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(80,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(83,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(86,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(89,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(96,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(107,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(116,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/14.xhtml(121,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/15.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/15.xhtml(17,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/15.xhtml(28,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/15.xhtml(33,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/15.xhtml(44,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/15.xhtml(46,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/15.xhtml(48,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/16.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/16.xhtml(31,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/16.xhtml(48,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/16.xhtml(66,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/16.xhtml(83,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/16.xhtml(85,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/17.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/17.xhtml(31,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/17.xhtml(39,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/17.xhtml(54,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/17.xhtml(56,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/17.xhtml(69,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/17.xhtml(71,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/18.xhtml(14,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/18.xhtml(17,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/18.xhtml(24,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/18.xhtml(33,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/18.xhtml(40,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/18.xhtml(49,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/18.xhtml(52,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/18.xhtml(61,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(RSC-005): /OEBPS/18.xhtml(66,7): Error while parsing file: element "br" not allowed here; expected the element end-tag or element "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" or "ul" (with xmlns:ns="http://www.w3.org/2000/svg")
+
+ERROR(CSS-008): /OEBPS/css/song.css(5,13): An error occurred while parsing the CSS: Token "span" not allowed here.
+
+ERROR(CSS-008): /OEBPS/css/song.css(5,13): An error occurred while parsing the CSS: Token "span" not allowed here.
+
+Work flow to check if errors are resolved:
+cls
+py makeSongBook.py
+java -jar epubcheck-5.1.0/epubcheck.jar songbook.epub
+
+Maybe take a look at
+https://steemit.com/utopian-io/@bloodviolet/creating-epub-files-in-python-part-4-creating-the-epub-file
+which covers the whole process of building an epub in python, & in particular
+shows a way to specify the zip archive order.
+ORDER PROBLEM SOLVED! Book reads no worse in Firefiox. Error count down to 227.
+
+Down to just two validation errors. I jsut saw a page from 2021 saying that NO
+major browser was yet implementing the 'has' selector, so ... it's very easy to
+believe that the Kobo isn't handling it yet (& that may in fact be the display
+issue). However, I can just programmatically determine whether a line has any
+chords, & assign a paragraph class accordingly. It may be a job for tomorrow,
+though, as it's nearly 1am.
+
+Making a vim script to assign
+  F2 = interpolate a chord
+  F3 = prepend [credit]
+  F4 = prepend [title]
+  F5 = prepent [structure]
+:so keysh.txt
+Also could be useful:
+:%s/} \( *\){/\1/g
+
+Add songs:
+  tears of a clown
+  On the Sunny Side of the Street, Louis Armstrong
+  Moondance, Van Morrison
+  Blue Run the Game, Jackson Frank
+  All the World is Green, Tom Waits
+
+
+EVERYBODY'S TALKIN'
+...8.t8.7..7.t7....8.t8.7..7.t7.|
+1     5     5   1     5     5   |1
+
+1.....5.....5...
+...1.31.7..7.37.
+
+THE TIDE IS HIGH
+ 553355  6 5 4321231155  2 4  3 2211555  2 4  3 2211       6 13272
+  1.51.1511.35.1351.51.1511.35.1351.51.1511.35.1351.51.1511.35.135
+  B       E    F# B       E    F# B       E    F# B       E    F# 
+
+RHIANNON
+

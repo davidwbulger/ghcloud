@@ -1,0 +1,3636 @@
+[comment] TEMP SCRATCH SPACE
+[comment] let @s="mxyyp:.s/./ /gkjddpk:j!kA BdiWji{pa}k:.,+1s/ *$//'x:.g/^$/d|+1kj"|nnoremap <F2> @s
+[comment] 
+[comment] Idea is that each line either
+[comment]   is blank
+[comment]   starts with [RESERVEDWORD]
+[comment]   is interpreted as a line of lyrics.
+[comment] Chords are interpolated in the lyrics within curly braces (see
+[comment] examples below) but will be displayed above the lyrics as usual.
+[comment] Reserved words:
+[comment]   comment: conversion script will ignore the remainder of the line.
+[comment]   title: title of a song (starts new page, creates heading)
+[comment]   credit: usually the songwriter or artist (creates subheading)
+[comment]   structure: sets line of text (e.g. Chorus) in bold italic underline
+[comment] 
+[comment] 
+
+[title] PRACTICE LIST APRIL 2025
+
+[title] America
+[credit] (transposed from D to C)
+[credit] Simon & Garfunkel
+{C  C/B  Am7  C/G  F % % %  C  C/B  Am7  C/G  F % % %}
+{C}Let us be {C/B}lovers we'll {Am}marry our {Am7/G}fortunes to{F}gether
+{C}I've got some {C/B}real estate {Am7}here in my bag
+{Em7}   So we bought a pack of {A7}cigarettes, and {Em7}Mrs. Wagner's {A7}pies
+And {D}walked {C}off to {G}look {Am7}for   {G/B}A  -  {C}me {G/B}  -  ri{Am7  C/G  F}ca
+
+{C}Cathy I {C/B}said as we {Am}boarded a {Am7/G}Greyhound in {F}Pittsburgh
+{C}Michigan {C/B}seems like a {Am7}dream to me now
+{G}It took me four days to hitchhike from Saginaw
+{D}I've {G}come to {D}look for A{Cmaj7}meri  -  {C}ca
+
+{Bbmaj7}       Laughing on the bus playing {Cmaj7}games with the faces
+{Bbmaj7}She said the man in the gabardine suit was a {Cmaj7}spy
+{F}I said be careful, his {Fmaj7}bowtie is really a {C}camera{ C/B   Am7   C/G   Am/F#     Fmaj7}
+
+{C}Toss me a {C/B}cigarette {Am}I think there's {Am7/G}one   in my {F}raincoat
+{C}We smoked the {C/B}last one an {Am7}hour ago
+{Em7}So I looked at the {A7}scenery; {Em7}she read her maga{A7}zine
+And the {D}moon {C}rose {G}o-{Am7}ver   {G/B}an    {C}o-{G/B}open {Am7}field{ C/G    F}
+
+{C}Cathy I'm {C/B}lost I {Am}said though I {Am7/G}knew she was {F}sleeping
+I'm {C}empty and {C/B}aching and {Am7}I don't know why
+{G}Counting the cars on the New Jersey Turnpike
+They've {D}all {G}come to {D}look for A{Cmaj7}meri - {C}ca   [x3]
+
+[title] Baker Street
+[credit] Gerry Rafferty
+
+[structure] Intro:
+{|E7sus4| Gm7  | Am7  |  %   | x3}
+{|  A   | A  C |  A   | A  C |  G   |E7sus4|  D   |  C   | x2}
+
+{E}  Winding your way down {Esus4}on    Ba {E}- ker Street{ Esus4}
+{E}  Light in your head, {Esus4}and    {E}dead on your feet, {Esus4}well
+An{Bm}other crazy day, you {D}drink the night away
+And for{A}get about ever{Asus4}y   -   {A}thing
+
+{E}  This city desert {Esus4}makes you {E}feel so cold, it's {Esus4}got
+{E}  So many people {Esus4}but it's {E}got no soul, and {Esus4}it's
+{Bm}Taken you so long to {D}find out you were wrong
+When you {A}thought it held ever{Asus4}y   -   {A}thing
+
+{Am7}    You used to think that it was {Em}so  {Esus2}ea  -  {Em}sy
+{Am7}    You used to say that it was {Em}so  {Esus2}ea  -  {Em}sy
+But {G}you're tryin, {D}you're tryin {A  Asus2  A  Asus4  A}now
+{Am7}    Another year and then you'd {Em}be  {Esus2}hap -  {Em}py
+{Am7}    Just one more year and then you'd {Em}be  {Esus2}hap -  {Em}py
+But {G}you're cryin', {D}you're cryin' {E}now   {C}
+
+[structure] Instrumental: last 16 bars of Intro
+
+{E}  Way down the street {Esus4}there's a {E}light in his place  {Esus4}
+He {E}opens the door; he's {Esus4}got that {E}look on his face, and {Esus4}he
+{Bm}Asks you where you've been, you {D}tell him who you've seen
+And you {A}talk about an{Asus4}y   -   {A}thing
+
+{E}  He's got this dream a{Esus4}bout   {E}buyin' some land, he's {Esus4}gonna
+{E}Give up the booze {Esus4}and the {E}one night stands   {Esus4}
+And {Bm}then he'll settle down, in some {D}quiet little town
+And for{A}get about ever{Asus4}y   -   {A}thing
+
+{Am7}    But you know he'll always {Em}keep {Esus2}mo  -  {Em}ving
+You {Am7}know he's never gonna {Em}stop {Esus2}mo  -  {Em}ving
+Cause {G}he's rollin', {D}he's a rolling {A  Asus2  A  Asus4  A}stone
+{Am7}    And when you wake up it's a {Em}new {Esus2}mor -  {Em}ning
+{Am7}    The sun is shining it's a {Em}new  {Esus2}mor  -  {Em}ning
+And {G}you're going, {D}you're going {E}home  {C}
+
+[title] Black Leg Miner
+[structure] Slow
+{Am}It's in the evening after {G}dark,
+When the {Am}blackleg miner {G}creeps to {Em}work,
+With his {Am}moleskin pants and {G}dirty {D}shirt,
+There {Am}goes the {Em}blackleg {Am}miner!
+
+Well he takes his tools and doon he goes
+To hew the coal that lies below,
+There's not a woman in this town-row
+Will look at the blackleg miner.
+
+[structure] Fast
+Oh, Delaval is a terrible place.
+They rub wet clay in the blackleg's face,
+And around the heaps they run a foot race,
+To catch the blackleg miner!
+
+So, dinna gan near the Seghill mine.
+Across the way they stretch a line,
+To catch the throat and break the spine
+Of the dirty blackleg miner.
+
+They grab his duds and his pick as well,
+And they hoy them down the pit of hell.
+Doon ye go, and fare ye well,
+You dirty blackleg miner!
+
+So join the union while you may.
+Don't wait till your dying day,
+For that may not be far away,
+You dirty blackleg miner!
+
+[title] Boys of Bedlam
+[credit] Traditional
+
+For to {Dm}see Mad {C}Tom of {G}Bedlam
+Ten {F}thousand {C}miles I've {Dm}traveled
+Mad {Dm}Maudlin {C}goes on {G}dirty toes
+For to {F}save her {C}shoes from {Dm}gravel
+
+[structure] CHORUS:
+{Dm}Still I sing bonny {C}boys, bonny mad {G}boys
+Bedlam {F}boys are {C}bonny
+For they {Dm}all go {C}bare and they {G}live by the air
+And they {F}want no {C}drink nor {Dm}money
+
+I went down to Satan's kitchen
+For to get me food one morning
+And there I got souls piping hot
+All on the spit a-turning
+
+[structure] REPEAT CHORUS
+
+And there I took up cauldron
+Where boiled ten thousand harlots
+Though full of flame I drank the same
+To the health of all such varlets
+
+[structure] REPEAT CHORUS
+
+My staff has murdered giants
+My bag a long knife carries
+For to cut mince pies from children's thighs
+And feed them to the fairies
+
+[structure] REPEAT CHORUS
+
+The spirits white as lightening
+Would on me travels guide me
+The stars would shake and the moon would quake
+Whenever they espied me
+
+[structure] REPEAT CHORUS
+
+And when that I'll be murdering
+The Man in the Moon to the powder
+His staff I'll break, his dog I'll shake
+And there'll howl no demon louder
+
+[structure] REPEAT CHORUS
+
+No gypsy, slut or doxy
+Shall win my mad Tom from me
+I'll weep all night, with stars I'll fight
+The fray shall well become me
+
+[structure] REPEAT CHORUS
+
+So drink to Tom O’Bedlam
+Go fill the seas in barrels
+I’ll drink it all well brewed with gall
+And Maudlin drunk we’ll quarrel
+
+[structure] REPEAT CHORUS
+
+For to see Mad Tom of Bedlam
+Ten thousand years I have traveled
+Mad Maudlin goes on dirty toes
+For to save her shoes from gravel.
+
+[structure] REPEAT CHORUS
+
+Now I repent that ever
+Poor Tom was so disdain'd
+My wits were lost when him I cross't
+Which makes me go thus chain'd
+
+[structure] REPEAT CHORUS
+
+My horn is made of thunder
+I stole it out of heaven
+The rainbow there is this I wear
+For which I thence was driven
+
+[structure] REPEAT CHORUS
+
+And now that I have gotten
+A lease than doomsday longer
+To live on earth with some in mirth
+Ten whales shall ease my hunger
+
+[structure] REPEAT CHORUS
+
+
+[title] Cajun Moon
+[credit] JJ Cale
+
+[structure] Solo over verse/chorus chords
+
+[structure] Chorus:
+Cajun {Ebm}moon, where does your {Ab}power lie?
+As you {Ebm}move across the {Ab}Southern sky
+You took my {Ebm}baby way too {Bb7}soon
+What have you {Ab}done, Cajun {Ebm}moon?
+
+Someday, babe, when you want your man
+And you find him gone, just like the wind
+Don't trouble your mind, whatever you do
+'Cause, Cajun moon took him from you
+
+[structure] Repeat chorus
+
+[structure] Repeat solo
+
+When daylight fades, the night comes on
+You can hear the silence of this song
+Don't trouble your mind whatever you do
+'Cause he got me like he got you
+
+[structure] Repeat chorus
+[structure] Repeat solo
+
+[title] Cars
+[credit] Gary Numan
+<i>Best to listen to the original. I propose removing one bridge near the end to give the following structure:</i>
+[structure]Structure: intro, verses, bridge, verses, bridge, intro
+[structure] Intro is over verse chords
+
+{A}Here in my car, I feel safest of all
+I can lock all my doors, it's the only way to live
+In {G}cars
+
+{A}Here in my car, I can only receive
+I can listen to you, it keeps me stable for nights
+In {G}cars
+
+[structure] Bridge: D
+
+{A}Here in my car, where the image breaks down
+Will you visit me please, if I open my door?
+In {G}cars
+
+{A}Here in my car, I know I've started to think
+About leaving tonight, although nothing seems right
+In {G}cars
+
+[title] City of New Orleans
+[credit] Steve Goodman
+{G}Riding on the {D}City of New {G}Orleans
+{Em}Illinois Central {C}Monday morning {G}rail
+{G}Fifteen cars and {D}fifteen restless {G}riders
+{Em}Three conductors and {D}twenty-five sacks of {G}mail
+All {Em}along the south bound odyssey, the {Bm}train pulls out of Kankakee
+{D}Rolls along past houses farms and {A}fields
+{Em}Passing trains that have no name, {Bm}freight yards full of old black men
+And the {D}graveyards of {D7}rusted automo{G}biles
+
+[structure] Chorus:
+{C}Good morning A{D7}merica, how {G}are you?
+Say, {Em}don't you know me, {C}I'm your native {G  D7}son
+{D9}I'm the {G}train they call the {D}City of New {Em}Orleans{  Em7  A7}
+I'll be {Bb}gone five {C}hundred {D}miles when the {D9}day is {G}done
+
+{G}Dealing card games with the {D}old men in the {G}club car
+{Em}Penny a point ain't {C}no one keeping {G}score
+{G}Pass the paper {D}bag that holds the {G}bottle
+{Em}Feel the wheels {D}rumbling 'neath the {G}floor
+And the {Em}sons of Pullman porters and the {Bm}sons of engineers
+Ride their {D}father's magic carpets made of {A}steel
+{Em}Mothers with their babes asleep {Bm}rocking to the gentle beat
+And the {D}rhythm of the {D7}rails is all they {G}feel
+
+[structure] Repeat chorus
+
+{G}Nightime on the {D}City of New {G}Orleans
+{Em}Changing cars in {C}Memphis Tennes{G}see
+{G}Half way home {D}we'll be there by {G}morning
+through the {Em}Mississippi darkness {D}rolling down to the {G}sea
+But {Em}all the towns and people seem to {Bm}fade into a bad dream
+And the {D}steel rail still ain't heard the {A}news
+The con{Em}ductor sings his songs again, the {Bm}passengers will please refrain
+This {D}train got the disappearing {D7}railroad {G}blues
+
+[structure] Repeat chorus (but with "Good night" and "when the night is done")
+
+[title] DO IT AGAIN
+[credit] STEELY DAN
+In the {Bm}mornin' you go gunnin' for the man who stole your water
+And you fire till he's done in but they catch you at the border
+And the mourners are all singin' as they drag you by your feet
+But the hangman isn't hangin' so they put you on the street
+[structure] CHORUS:
+You go {Em7}back, {F#m7}Jack, {Gmaj7}do it a{F#m7}gain, {Bm}   wheels turinin' round and round
+You go {Am7}back, {Bm7}Jack, {Gmaj7}do it a{F#m7  Bm  F#7}gain,
+
+Well you know she's no high climber, then you find your only friend
+In a room with your two timer, but you're sure you're near the end
+Then you love a little wild one, and she brings you only sorrow
+All the time you know she's smilin', you'll be on your knees tomorrow
+[structure] REPEAT CHORUS
+Now you swear and kick and beg us that you're not a gamblin' man;
+Then you find you're back in Vegas with a handle in your hand
+Your black cards can bring you money so you hide them when you're able
+In the land of milk and honey you must put them on the table
+[structure] REPEAT CHORUS
+
+[title] Down on the Corner
+[credit] Creedence Clearwater Revival
+
+{C}Early in the evenin', {G}just about supper {C}time
+Over by the courthouse, they're {G}starting to un{C}wind
+{F}Four kids on the corner, {C}trying to bring you up
+Willy picks a tune out and he {G}blows it on the {C}harp
+
+[structure] Chorus:
+{F}Down on the {C}corner, {G}out in the {C}street
+Willy and the {F}Poorboys are {C}playin', bring a {G}nickel, tap your {C}feet
+
+{C}Rooster hits the washboard, and {G}people just gotta {C}smile
+Blinky thumps the gut bass and {G}solos for a {C}while
+{F}Poor-boy twangs the rhythm out {C}on his Kalamazoo
+And Willy goes in to a dance and {G}doubles on Ka{C}zoo
+
+[structure] Repeat chorus
+
+{C}You don't need a penny {G}just to hang a{C}round
+But if you got a nickel won't you {G}lay your money {C}down
+{F}Over on the corner, {C}there's a happy noise
+People come from all around to {G}watch the magic {C}boys
+
+[structure] Repeat chorus x2
+
+[title] Everybody's Talkin' 
+[credit] Fred Neil
+{E  Emaj7/B  x4}
+
+{E  Emaj7/B}Everybody's {E}talking {Emaj7/B}at me
+{E7  C#m/B}I don't hear a {E7}word they're {C#m/B}saying
+{A/F#  B7}  Only the {A/F#}echoes {B7}   of my {C#m/E  E/B  C#m/E  E/B}mind
+
+{E     Emaj7/B}      People {E}stopping, {Emaj7/B}staring
+{E7     C#m/B}    I can't {E7}see their {C#m/B}faces
+{A/F#  B7}  Only the {A/F#}shadows {B7}   of their {C#m/E  E/B  C#m/E  E/B}eyes
+
+[structure] Chorus:
+{F#m}    I'm going where the {B7}sun keeps shining
+{E}  Through the {Emaj7/B}pouring  {E7}rain {E7/B}
+{F#m}     Going where the {B7}weather    suits my {E  Emaj7/B  E7  E7/B}clothes
+{F#m}    Banking off of the {B7}northeast winds
+{E}Sailing on a {Emaj7/B}summer   {E7}breeze {E7/B}
+{F#m}    And skipping over the {B7}ocean    like a {E  Emaj7/B  E7  C#m/B}stone
+
+{(E  Emaj7/B) x2  (E7  C#m/B) x2  (A/F#  B7) x2  (C#m/E  E/B) x2}Wah-wah wah-wah, wah wah-wah...
+
+[structure] REPEAT CHORUS & FIRST VERSE
+
+{F#m}I won't {B7}let you {F#m}leave {B7}my love be{C#m/E  E/B  C#m/E  E/B}hind
+
+[title] Golden Brown
+[credit] The Stranglers
+ 
+{Am     Em     F     C    x3}
+{Am     Em     G     F     Dm     C     Dm     C }
+
+{Dm}  Golden {C}Brown, {Dm}texture like {C}sun
+{Dm}  Lays me {C}down,   {Dm}with my might {C}she runs
+{Dm}Throughout the {C}night {Dm}no need to {C}fight
+{Dm}Never a {C}frown w{Dm}ith golden {C   Dm  C   Dm  C}brown
+
+{Dm}  Every {C}time, {Dm}just like the {C}last
+{Dm}  On her {C}ship {Dm}tied to the {C}mast
+{Dm}To distant {C}lands {Dm}takes both my {C}hands
+{Dm}Never a {C}frown {Dm}with golden {C}brown
+
+[structure] Repeat intro
+
+{Dm}  Golden {C}Brown, {Dm}finer temp{C}tress
+{Dm}  Through the {C}ages {Dm}she's heading {C}west
+{Dm}From far a{C}way {Dm}stays for a {C}day
+{Dm}Never a {C}frown {Dm}with golden {C}brown
+
+[structure] Repeat intro, end on Dm
+
+[title] Hang Me, Oh, Hang Me
+[credit] Dave Van Ronk
+
+{D}Hang me, oh, hang me, and {G}I'll be dead and {D}gone
+Hang me, oh, {Bm}hang me, and {G}I'll be dead and {D}gone
+Wouldn't mind the {Bm}hangin', but the {D}layin' in the grave so {Bm}long
+Poor boy, I been {Bb}all a{A}round this {D}world
+
+I been all around Cape Girardeau, parts of Arkansas
+All around Cape Girardeau, parts of Arkansas
+Got so goddamn hungry, I could hide behind a straw
+Poor boy, I been all around this world
+
+Went up on the mountain, there I made my stand
+Went up on the mountain, there I made my stand
+Rifle on my shoulder and a dagger in my hand
+Poor boy, I been all around this world
+
+[structure] Repeat chorus
+
+Put the noose around my neck, hung me up so high
+Put the noose around my neck, hung me up so high
+Last words I heard 'em say, "Won't be long now fore you die"
+Poor boy, I been all around this world
+
+[structure] Repeat chorus
+
+[title] Jet
+[credit] Wings
+
+[structure] Intro: Bm C#m7 D6, Bm C#m7 D6, C#m7
+{A}Jet, Jet, Jet
+I can almost remember their {D/A}funny fac{A}es
+That time you told them you were going to be marrying soon
+And {C#m7}Jet, I thought the {Bm}only lone{C#m7}ly      {D6}place was on the {A}moon
+
+Jet, Jet, Jet
+Was your father as bold as the {D/A}sergeant maj{A}or?
+Well how come he told you that you were hardly old enough yet?
+And {C#m7}Jet, I thought the {Bm}major was {C#m7}a       {D6}lady suffra{A}gette
+Jet, Jet
+{Bm}Ah Mater want Jet to always love me
+Ah Mater want Jet to always love me
+Ah Mater, {A}much later
+
+And Jet, I thought the major was a little lady suffragette
+Jet, Jet
+Ah Mater want Jet to always love me
+Ah Mater want Jet to always love me
+Ah Mater, much later
+Jet
+With the wind in your hair of a thousand laces
+Climb on the back and we'll go for a ride in the sky
+And Jet, I thought that the major was a little lady suffragette
+Jet, Jet
+And Jet, you know I thought you was a little lady suffragette
+Jet
+A little lady
+My little lady, yes, oh!
+
+[title] Life's What You Make It
+[credit] Talk Talk
+
+[structure] Intro:
+{Ab  E  Gb  (x4)}
+
+Ab  Db  Dbs4
+
+{Ab }Baby, life's what you {Db}make it
+{Dbs4}Can't es{Ab}cape it{ Db  Dbs4  Ab}
+Baby, yesterday's {Db}favorite
+{Dbs4}Don't you {Ab}hate it
+
+[structure] Repeat Intro
+
+{Ab }Baby life's what you {Db}make it
+{Dbs4}Don't back{Ab}date it{ Db  Dbs4  Ab}
+Baby, don't try to {Db}shade it
+{Dbs4}Beauty is {Ab}naked
+
+[structure] Repeat Intro
+
+[structure] Piano solo
+
+{Ab }Baby, life's what you {Db}make it
+{Dbs4}Cele{Ab}brate it
+Antici{Db}pate it
+{Dbs4}Yesterday's {Ab}faded
+Nothing can {Db}change it
+{Dbs4}Life's what you {Ab}make it
+
+[structure] Repeat Intro
+
+[title] Love Her Madly
+[credit] The Doors
+
+{Am }Don't you love her madly, don't you need her badly
+Don't you {D}love her ways, tell me {Am}what you say
+Don't you {Am}love her madly, {C}  wanna {F}be her daddy{ D/F#}
+Don't you {Am}love her as she's {E}walkin' out the {Am}door
+Like she did one {E}thousand times be{Am}fore
+
+Don't you {D}love her ways, tell me {Am}what you say
+Don't you {Am}love her as she's {E}walkin' out the {Am}door{ E Am}
+
+{Dsus2}All {D}your {Dsus4}love{ D Dsus2} [x3]
+{Dsus4} {D}All your {Dsus2}love{ D}
+
+All your {G}love is gone, so sing a {C}lonely song
+Of a {A}deep blue dream, seven {D}horses seem, {F}to {D}be {G}on {E}the {Am}mark
+
+
+[title] New Slang
+[credit] The Shins
+
+{Am C F C G C Am G (x4) C}
+
+{Am}Gold teeth and a {C}curse for this {F}town
+Were {C}all in my {G}mouth
+Only {C}I don't know {F}how they got {Am}out, {G}dear
+
+{Am}Turn me back {C}into the {F}pet
+I {C}was when we {G}met
+I was {C}happier {F}then with no {Am}mind {G}set
+
+[structure] CHORUS:
+And if you'd {G}took to {C}me like
+A {F} gull {C}takes to the {G}wind
+Well, I'd {G}jumped from {C}my trees
+And {F}I'd have {C}danced like the {F}king of the{C} eyesores
+And the {F}rest of our {C}lives would've {G}fared well
+
+{Am}New slang when you {C}notice the {F}stripes
+The {C}dirt in your {G}fries
+Hope it's {C}right when you {F}die
+Old and {Am}bo-{G}ny
+
+{Am}Dawn breaks like a {C}bull through the {F}hall
+Ne{C}ver should've {G}called
+But my {C}head's to the {F}wall
+And I'm {Am}lone{G}ly
+
+[structure] Repeat chorus
+
+{G F C F G C G F C F G C Am G C}
+
+{Am}Godspeed all the {C}bakers at {F}dawn
+May they {C}all cut their {G}thumbs
+And bleed {C}into their {F}buns
+'Till they {Am}melt a{G}way
+
+I'm looking {G}in on the {C}good life
+I might be {F}doomed {C}never to {G}find
+Without a {G}trust or fla{C}ming fields
+Am I {F}  too {C}dumb to re{G}fine?
+And if you'd {G}took to {C}me like
+Well {F}I'd have {C}danced like the {F}queen of the{C} eyesores
+And the {F}rest of our {C}lives would've fared{G} well
+
+{G F C F G C G F C F G C Am G C}
+
+{Am C F C G C Am G (x2) C}
+
+[title] Raglan
+[credit] Grace Cummings
+
+{D Am C Em/B (x2)}
+
+{D} Buddy, is it {Am}time for a {Em}little bit more? {D Am C Em/B}
+{D} Don't know if I can {Am}feel any{Em}thing before {D Am C Em/B}
+
+{C Em} I put my hand {D} in
+{C Em} To do some picking {D Am C Em/B (x2)}
+
+{D} Me, I'm just {Am}here {Em}watching the record {D} spin {Am C Em/B}
+{D} High{Am}way Sixty-{Em}one again {D Am C Em/B}
+
+{C Em} Don't know where I've {D} been
+{C Em} But Raglan... {D Am C Em/B}
+
+{D} Way over the {Am}hill {C Em/B}  (x4)
+
+[title] Ride Like the Wind
+[credit] Christopher Cross
+[structure] Intro:  (Cm7 Bb Cm7 Bb Abmaj9 Bb Cm7 Bb) ×2
+
+[structure] Verse 1:
+It is the {Cm7}night. My body's {Bb}weak
+I'm on the {Cm7}run. No time for {Bb}sleep
+I've got to {Abmaj9}ride, ride like the {Bb}wind, to be {Cm7}free again {Bb}
+
+[structure] Chorus:
+And I {Abmaj9}got such a long way to {Gm9}go
+To {Abmaj9}make it to the border of {Gm9}Mexico
+So I'll {Cm7}ride like the {Bb}wind
+Ride like the {Cm7}wind {Bb}
+
+I was {Cm7}born the son of a {Bb}lawless man
+Always {Cm7}spoke my mind with a {Bb}gun in my hand
+{Abmaj9}Lived nine lives, gunned down {Bb}ten
+Gonna ride like the {Cm7}wind {Bb}
+
+[structure] Repeat Chorus
+
+[structure] Break:
+Gonna ride like the wind
+[structure] [All /C:] (Cm Dm Eb, Cm Eb Dm, Cm Dm Eb, Eb Dm Cm Bb) ×2
+
+Ac{Cm7}cused and tried and {Bb}told to hang
+I was {Cm7}nowhere in sight when the {Bb}church bells rang
+Never was the {Abmaj9}kind to do as I was {Bb}told
+Gonna ride like the {Cm7}wind before I get {Bb}old
+
+[structure] Repeat Verse 1
+[structure] Repeat Chorus ×2
+[structure] Repeat Break
+
+[title] ROCKET MAN
+[credit] ELTON JOHN
+
+{Em7}  She packed my bags last night, pre-{A9}flight,  {Em7}Zero hour, nine a.{A9}m.
+{C}And I'm gonna be {G}high as a {Am}kite by {D}then
+{Em}I miss the earth so much, I {A9}miss my wife, it's {Em7}lonely out in {A9}space
+{C}On such a {G}timeless {Am}flight as {D}this
+
+[structure] Chorus:
+{G}And I think it's gonna be a long long {C}time
+Till touchdown brings me round again to {G}find
+I'm not the man they think I am at {C}home
+Oh no, no, {G}no, I'm a {A9}Rocket Man
+{C}Rocket Man, burning out his fuse up {G}here alone
+
+{Em7}Mars ain't the kind of place to {A9}raise your kids, {Em7}  in fact its cold as {A9}hell
+{C}And there's no-one {G}there to {Am}raise them, if you {D}did
+{Em7}And all this science, I don't {A9}understand, {Em7}it's just my job 5 days a {A9}week
+{C}Rocket {G}man {Am}   Rocket {D}man
+
+[structure] Repeat Chorus
+
+[title] Show Me the Way
+[credit] Peter Frampton
+
+I {D}wonder how you're feeling
+There's {Dmaj7}ringing in my ears
+And {Bm}no one to relate to 'cept the {Bb}sea{  C}
+{D}Who can I believe in?
+I'm {Dmaj7}kneeling on the floor
+There {Bm}has to be a force
+Who {Bb}do I phone?
+
+The {A7sus4}stars are out and shining
+But all I {G}really wanna know
+Oh, {A}won't {Bm}you show {A}me the {G}way everyday?
+I {A}want {Bm}you to show {A}me the {G}way, yeah{  A7sus4}
+
+Well, I can see no reason
+You're living on your nerves
+When someone drops a cup
+And I submerge
+I'm swimming in a circle
+I feel I'm going down
+There has to be a fool
+To play my part
+
+Well, someone thought of healing
+But all I really wanna know
+Oh, won't you show me the way everyday?
+I want you to show me the way
+Oh, I want you day after day, yeah
+
+Well, I wonder if I'm dreaming
+I feel so unashamed
+I can't believe this is happening to me
+I watch you when you're sleeping
+And then I wanna take your love
+
+Oh, won't you show me the way everyday?
+I want you, show me the way, one more time
+I want you day after day, hey
+I want you day after day, hey
+I want you, show me the way everyday
+I want you, show me the way night and day
+I want you day after day, yeah, oh
+
+[title] Sister Golden Hair
+[credit] America
+
+[structure] INTRO:  Bm   G   D   Dsus4   D   F#m   Bm   A   G
+        
+Well I {D}tried to make it Sunday but I {F#m}got so damned depressed
+That I s{G}et my sights on {D}monday and I {F#m}got myself undressed,
+I ain't {G}ready for the {Em}altar, but I {Bm}do  be{F#m}lieve there's {G}times
+When a {Em}woman sure can {G}be a friend of {D}mine{Dsus2        D}
+ 
+Well I {D}keep on thinkin 'bout you Sister {F#m}Golden Hair so bright
+That I {G}just can't live with{D}out you can't you {F#m}see it in my eyes
+I've been {G}one poor corres{Em}pondent, I've been {Bm}too too {F#m}hard to {G}find
+But it {Em}doesn't mean you {G}ain't been on my {D}mind{Dsus2        D}
+
+[structure] CHORUS:
+Will you {A}meet me in the middle will you {G}meet me in the {D}air
+Will you {A}love me just a little just {G}enough to show you {D}care
+Well I {Em}tried to fake it I {F#m}don't mind saying I {G}just can't make it
+
+[structure] REPEAT INTRO, SECOND VERSE & CHORUS
+[structure] INSTRUMENTAL:  (A   G   D) 4X
+
+[title] Sketchy Joe's Blues (I Work in the Graveyard Now)
+[credit] David Bulger
+Well I {G#m} seen old Sketchy {F#7}Joe, he was {E9}drinking something {D#}brown{ Gm/D}
+I {C#m}asked him how he {Bdim7}was, he {C#m}drank the bottle {D#7}down
+And said, "I {G#m}got a steady {F#7}job." I said, "{E9}You, Joe? {D#}How?"{ Gm/D}
+He {C#m}said, "I work in the {D#7}graveyard {G#m}now."
+
+"Well I used to bootleg liquor, but they made it legal again
+I tried smuggling drugs but I crashed the boss's plane
+One time I rustled some cattle, but that was no cash cow
+So I work in the graveyard now."
+
+"I used to amount to nothing, no use to anyone,
+But everybody needs me now, when their story's done
+I'll see you when you've had all the days the Fates will allow
+I work in the graveyard now."
+
+[title] Smooth Operator
+[credit] Sade
+
+{Dm Dm/Db Am7/C Am7/B (x4)}
+
+{Dm}Diamond {Am7}life {Gm7 Am7}                {Dm}lover {Am7}boy {Gm7 Am7}
+We {Dm}move in space {Am7}      with {Gm7}minimum waste {Am7}    and {Dm}maximum {Am7}    joy {Gm7 Am7}
+{Dm}City {Am7}lights {Gm7 Am7}           and {Dm}business {Am7}nights {Gm7 Am7}
+When {Dm}you re{Am7}quire street{Gm7}car de{Am7}sire for {Dm}higher {Am7}heights {Gm7 Am7}
+
+{Gm7}    No place for be{Am7}ginners or sensitive {Dm}hearts {Dm/Db Am7/C Am7/B}
+{Gm7}    When senti{Am7}ment is left to {Dm}chance {Dm/Db Am7/C Am7/B}
+{Gm7}    No place to be {Am7}ending but somewhere to {Dm}start.
+{NC}   No need to ask.
+
+He's a {Dm}smooth ope{Am7}rator {Gm7 Am7}
+{Dm}Smooth {Am7}    ope{Gm7}rator {Am7}
+{Dm}Smooth ope{Am7}rator {Gm7 Am7}
+{Dm}Smooth {Am7}    ope{Gm7}rator {Am7}
+
+{Dm}Coast to {Am7}coast L{Gm7}A to Chi{Am7}cago, {Dm}western {Am7}male {Gm7 Am7}
+A{Dm}cross the {Am7}north and {Gm7}south, to Key {Am7}Largo, {Dm}love for {Am7}sale {Gm7 Am7}
+
+{Dm Gm7 Am7 (x2)}
+{Dm Am7/C Gm7 Am7 (x4)}
+
+{Dm}Face to {Am7}    face {Gm7 Am7}          each {Dm}classic {Am7}case {Gm7 Am7}
+We {Dm}shadow {Am7}box and {Gm7}double{Am7}cross,
+Yet {Dm}need the {Am7}chase {Gm7 Am7}
+
+{Gm7}    A license to {Am7}love, insurance to {Dm}hold {Dm/Db Am7/C Am7/B}
+{Gm7}    Melts all your {Am7}memories and change into {Dm}gold {Dm/Db Am7/C Am7/B}
+{Gm7}    His eyes are like {Am7}angels but his heart is {Dm}cold.
+{NC}No need to ask.
+
+He's a {Dm}smooth ope{Am7}rator {Gm7 Am7}
+{Dm}Smooth {Am7}    ope{Gm7}rator {Am7}
+{Dm}Smooth ope{Am7}rator {Gm7 Am7}
+{Dm}Smooth {Am7}    ope{Gm7}rator {Am7}
+
+{Dm}Coast to {Am7}coast L{Gm7}A to Chi{Am7}cago, {Dm}western {Am7}male {Gm7 Am7}
+A{Dm}cross the {Am7}north and {Gm7}south, to Key {Am7}Largo, {Dm}love for {Am7}sale {Gm7 Am7}
+
+{Dm}Smooth ope{Am7}rator {Gm7 Am7}
+{Dm}Smooth {Am7}    ope{Gm7}rator {Am7}
+
+
+[title] Summersong
+[credit] The Decemberists 
+
+[structure] Riff:
+[structure]   Accordion: agae,dedc,bcbe Guitar: egg,g#,a
+[structure]   Accordion: agae,dedc,bcbe Guitar: egg,g#
+
+{Am}   Ramblin' {C}where to begin
+{Em}   I taste the summer on your {G}peppery skin
+{Am}   Been saved the {C}warmer the waves
+{Em}   I felt a slip into a {G}watery grave
+ 
+{Am (a,c)}   My girl, {C (e,g)}linen and curls
+{Em (d)}   Lips parting like a {G (c,b)}flag all unfurled
+She's grand the bend of her hand
+Digging deep into the sweep of the sand
+ 
+[structure] Chorus:
+{G}  Summer ar{Am (c,d,e,b)}rives            {Em}   with a length of {Am}lights
+{Em}   Summer {Am}blows a{F}way
+And {C}quietly gets {G}swallowed by a {Riff}wave
+It gets swallowed by a wave 
+ 
+Waylay the din of the day
+Boats bobbing in the blue of the bay
+In deep far beneath all the dead sailors
+Slowly slipping to sleep
+ 
+My girl, linen and curls
+Lips parting like a flag all unfurled
+She's grand the bend of her hand
+Digging deep into the sweep of the sand
+ 
+[structure] Repeat Chorus
+
+
+
+
+[title] Time After Time
+[credit] Cyndi Lauper
+[structure] F G Em F  (x2)
+
+{Dm}Lying {C}in my {Dm}bed I {C}hear the {Dm}clock {C}tick and {Dm}think of {C}you
+{Dm}Caught {C}up in {Dm}circ{C}les, con{Dm}fu - {C}sion is {Dm}nothing {C}new
+{F}Flash{G}back, {Em}warm {F}nights, almost {G}left be{Em}hind
+{F}Suit{G}case of {Em}memo{F}ries, time {G}after
+
+{Dm}Some{C}times you {Dm}picture {C}me, I'm {Dm}wal{C}king too {Dm}far a{C}head
+{Dm}You're {C}calling {Dm}to {C}me, I {Dm}can't {C}hear what {Dm}you’ve {C}said
+Then {F}you {G}say {Em}go {F}slow, I {G}fall be{Em}hind, {F}  the se{G}cond {Em}hand un{F}winds
+
+[structure] Chorus:
+If you're {G}lost you can look and you {Am}will find me, {F}time {G}after {C}time
+If you {G}fall I will catch you I'll {Am}be waiting, {F}time {G}after {C}time
+
+[structure] Repeat chorus
+
+[structure] G Am F G C  2x
+
+{Dm}Af - {C}ter my {Dm}picture {C}fades and {Dm}dark{C}ness has {Dm}turned to {C}grey
+{Dm}Watch{C}ing through {D}win{C}dows, you're {Dm}wonde{C}ring if {Dm}I’m o{C}kay
+{F}Se{G}crets {Em}sto{F}len from {G}deep in{Em}side, the {F}drum {G}beats {Em}out of {F}time
+
+[structure] Repeat chorus
+
+{F}You {G}say {Em}go {F}slow, {G}  I fall be{Em}hind, the {F}se{G}cond {Em}hand un{F}winds
+
+[structure] Repeat chorus (x2)
+
+{F}Time {G}after {C}time (x6)
+
+[title] Tin Man
+[credit] Dewey Bunnell (America)
+
+{Cmaj7}Sometimes late when things are {Fmaj7}real
+And people share the {Cmaj7}gift of gab
+Between them{Fmaj7}selves
+{Cmaj7}Some are quick to take the {Fmaj7}bait
+And catch the perfect {Cmaj7}prize
+That waits among the {Fmaj7}shells
+
+[structure] "Oz":
+But {Am7}Oz never did give nothing to the {Cmaj7}Tin Man
+That he {Am7}didn't, didn't already {Cmaj7}have
+And {Am7}cause never was the reason for the {Cmaj7}evening
+Or the {Am7}Tropic of Sir Gala{Cmaj7}had
+So {Gsus4}please believe in {G5}me
+
+[structure] "Spinning":
+When I {Cmaj7}say I'm spinning round, round, round, round
+{Fmaj7}Smoke, glass, stained bright colors
+{Cmaj7}Image going down, down, down, down
+{Fmaj7}Soap suds, green light, bubbles
+
+[structure] Instrumental:
+Cmaj7  Fmaj7  Cmaj7  Fmaj7
+Ooh
+
+[structure] Repeat Oz, Spinning, Instrumental, Oz, Instrumental
+
+[title] Vienna
+[credit] Billy Joel
+
+[structure] Verses:
+{Gm}   Slow down you {Bb}crazy child
+You're {F}so ambitious for a {Ab}juvenile
+But then if {Eb}you're so smart tell me {Bb}why
+Are you still so a{C}fraid{ D9sus  D}
+ 
+Where's the fire, what's the hurry about
+You better cool it off before you burn it out
+You got so much to do and only
+So many hours in a day
+ 
+[structure] Chorus:
+{Eb}   But you know that when the {F}truth is told
+That you can {Bb}get what you want{ Dm/A}
+Or you can {Gm}just get old{ Bb/F}
+You're gonna {Eb}kick off
+Before you {Am7}even get half {D7}-  way {Gm7}through{  C7}
+When will you {Gb7}realize
+{F}  Vienna waits for {Bb}you
+ 
+[structure] Verse chords:
+Slow down you're doing fine
+You can't be everything you want to be
+Before your time
+Although it's so romantic
+On the borderline tonight, tonight
+ 
+Too bad but it's the life you lead
+You're so ahead of yourself
+That you forgot what you need
+Though you can see when you're wrong
+You know you can't always see
+When you're right, you're right
+ 
+[structure] Chorus chords:
+ 
+You got your passion, you got your pride, but
+Don't you know that only fools are satisfied
+Dream on
+But don't imagine they'll all come true
+When will you realize, Vienna waits for you
+ 
+[structure] Accordion solo over verse chords
+
+[structure] Chorus chords henceforth:
+ 
+Slow down you crazy child
+And take the phone off the hook
+And disappear for a while
+It's alright
+You can afford to lose a day or two
+When will you realize, Vienna waits for you
+ 
+And you know that when the truth is told
+That you can get what you want
+Or you can just get old
+You're gonna kick off
+Before you even get halfway through
+Why don't you realize, Vienna waits for you
+ 
+[structure] Outro:
+{G7}  When will you {Gb7}realize,{F}  Vienna waits for {Bb}you
+
+[title] What Is Life
+[credit] George Harrison
+
+{E  B  A  x6}
+
+What I {E}feel, I can't {B}say
+But my {C#m}love is there for you {D}any {A}time of {B}day{B7}
+But if it's not {E}love that you {B}need
+Then I'll {C#m}try my best to make
+{D}every{A}thing suc{B}ceed{ B7}
+ 
+Tell me, {E}what {B}is my {A}life without your {E}lo{B} v{A}e?
+Tell me, {E}who {B}am {A}I without {E}yo{B}u,{A} by my {D}side{C  B}?
+ 
+What I know, I can do
+If I give my love now to everyone like you
+But if it's not love that you need
+Then I'll try my best to make
+everything succeed
+ 
+[structure] Repeat Chorus
+ 
+[structure] Repeat Intro, Verse 1 & Chorus
+
+[title] A Whiter Shade of Pale
+[credit] Procol Harum
+
+{C} We {C/B}skipped the light fan{Am}dango {Am/G}
+{F} Turned {F/E}cartwheels 'cross the {Dm}floor {Dm/C}
+{G} I was {G/F}feeling kinda {Em}seasick {Em/D}
+{C} But the {C/B}crowd called out for {Am}more {Am/G}
+{F} The {F/E}room was humming {Dm}harder {Dm/C}
+{G} As the {G/F}ceiling flew a{Em}way {Em/D}
+{C} When we {C/B}called out for an{Am}other {Am/G}drink
+{F} The {F/E}waiter brought a {Dm}tray
+
+[structure] Chorus:
+{G7}And so it {C}was {C/B}  that {Am}later {Am/G}
+{F} As the {F/E}miller told his {Dm}tale {Dm/C}
+{G} That her {G/F}face, at first just {Em}ghostly {Em/D}
+Turned a {C}whiter {F} shade of {C}pale {G6add11}
+
+She said, "There is no reason
+And the truth is plain to see"
+But I wandered through my playing cards
+And would not let her be
+One of sixteen vestal virgins
+Who were leaving for the coast
+And although my eyes were open
+They might just as well have been closed
+
+[structure] Repeat chorus
+
+[title] Wichita Lineman
+[credit] Jimmy Webb
+
+{C11}     I am a lineman for the {Bbmaj7}county
+{Fmaj7/A}          And I drive the main {C11}road
+{Dm7}Searching in the {Am7}sun for a{G4}nother {G}over - {D}load {D4    D}
+I hear you singing in the {Cadd9}wires
+I can hear you through the {G/B}whine  {Gm/Bb}
+And the Wichita {D/A}lineman {A7sus4}
+Is still on the {Bbmaj7}line     {Csus2         Bbmaj7}
+
+{C11}     I know I need a small va{Bbmaj7}cation
+{Fmaj7/A}         But it don't look like {C11}rain, and {Dm7}if it snows
+That {Am7}stretch down south won't {G4}ever {G}stand the {D}strain {D4    D}
+And I need you more than {Cadd9}want you
+And I want you for all {G/B}time  {Gm/Bb}
+And the Wichita {D/A}lineman  {A7sus4}
+Is still on the {Bbmaj7}line    {Csus2       Bbmaj7}
+
+{| C11 | Bbmaj7 | Fmaj7/A | C11 | Dm7 Am7 | G4 G | D D4 | D |}
+
+And I need you more than {Cadd9}want you
+And I want you for all {G/B}time  {Gm/Bb}
+And the Wichita {D/A}lineman  {A7sus4}
+Is still on the {Bbmaj7}line    {Csus2       Bbmaj7        C11}
+
+{||: Bbmaj7 | C :||}
+
+[title] Wicked Game
+[credit] Chris Isaak
+The {Bm}world was on fire and {A}no one could save me but {E}you
+It's strange what desire will make foolish people do
+I never dreamed that I'd meet somebody like you
+And I never dreamed that I'd lose somebody like you
+No, I don't wanna fall in love (this world is only gonna break your heart)
+No, I don't wanna fall in love (this world is only gonna break your heart)
+With you
+With you (This world is only gonna break your heart)
+What a wicked game you play, to make me feel this way
+What a wicked thing to do, to let me dream of you
+What a wicked thing to say, you never felt this way
+What a wicked thing to do, to make me dream of you
+And I don't wanna fall in love (this world is only gonna break your heart)
+No, I don't wanna fall in love (this world is only gonna break your heart)
+With you
+The world was on fire and no one could save me but you
+Strange what desire will make foolish people do
+I never dreamed that I'd love somebody like you
+And I never dreamed that I'd lose somebody like you
+No, I don't wanna fall in love (this world is only gonna break your heart)
+No, I don't wanna fall in love (this world is only gonna break your heart)
+With you (this world is only gonna break your heart)
+With you (with you)
+(This world is only gonna break your heart)
+No, I (this world is only gonna break your heart)
+(This world is only gonna break your heart)
+Nobody loves no one
+
+[title] YOU CAN CALL ME AL
+[credit] PAUL SIMON
+
+{D}  A man walks down the street
+He says{Em7},  Why am I {Asus4}soft in the {A}middle now?
+{D} Why am I soft in the middle?
+When the{Em7}   rest of my {Asus4}life is {A}so hard!
+{D} I need a photo-opportunity
+{Em7}   I want a {Asus4}shot at redemp {A}- tion
+{D}Don't want to end up a cartoon
+In a {Em7}cartoon {Asus4}grave - {A}yard
+{D}Bonedigger, Bonedigger,
+{Em7}   Dogs in the {A}moonlight
+{D} Far away, my {Em7}well-lit door{A}
+Mr {D}Beerbelly, Beerbelly
+{Em7}Get these mutts a{A}way from me! You know,
+{D} I don't find this stuff a{Em7}musing any{A}more
+
+[structure] Chorus:
+If you'll {D}be my {A}bodyguard{Em7}
+I can {D}be your {A}long lost {D}  pal
+{D  A  Em7  D  A  D}
+I can {D}call you {A}Betty {Em7}
+And Betty, {D}when you {A}call me
+You can {D}call    me Al
+{D  A  Em7  D  A  D}
+
+A man walks down the street
+He says, Why am I short of attention?
+Got a short little span of attention
+And whoa, my nights are so long!
+Where's my wife and family?
+What if I die here?
+Who'll be my role-model?
+Now that my role-model is
+Gone, gone
+He ducked back down the alley
+With some roly-poly, little bat-faced girl
+All along, along
+There were incidents and accidents
+There were hints and allegations
+
+[structure] Repeat Chorus
+
+A man walks down the street
+It's a street in a strange world
+Maybe it's the Third World
+Maybe it's his first time around
+He doesn't speak the language
+He holds no currency
+He is a foreign man
+He is surrounded by the 
+Sound, the sound 
+Cattle in the marketplace
+Scatterlings and orphanages
+He looks around, around
+He sees angels in the architecture
+Spinning in infinity
+He says, Amen! Hallelujah!
+
+[structure] Repeat Chorus
+
+[title] You've Got to Hide Your Love Away (in D)
+[credit] The Beatles
+{D}Here I {A}stand {C}head in {D}hand
+{G}Turn my face to the {C}wall {G}
+{D}If she's {A}gone I {C}can't go {D}on
+{G}Feelin' two-foot {C}small {G   A}
+
+Everywhere people stare
+Each and every day
+I can see them laugh at me
+And I hear them say
+
+{D}Hey you've got to {G}hide your love a{Asus4  A  Asus2  A}way  x2
+
+How could I even try
+I can never win
+Hearing them, seeing them
+In the state I'm in
+
+How could she say to me
+Love will find a way
+Gather round all you clowns
+Let me hear you say
+
+Hey you've got to hide your love away
+Hey you've got to hide your love away
+
+
+[title] MALKWEED AND RUMSUCKLE
+[credit] Set list April 2024
+
+[title] Tom Dooley
+[credit] Doc Watson
+
+[structure] Chorus:
+{A}Hang your head, Tom {D}Dooley, hang your head and {A}cry
+You {E}killed poor Laurie {A}Foster and you {D}know you're bound to {A}die
+
+You left her by the roadside where you begged to be excused
+You left her by the roadside, then you hid her clothes and shoes
+
+[structure] Repeat chorus
+
+You took her on the hillside for to make her your wife
+You took her on the hillside and there, you took her life
+You dug the grave four feet long and you dug it three feet deep
+You rolled the cold clay over her and tromped it with your feet
+
+[structure] Repeat chorus
+
+Trouble, oh, it's trouble a-rollin' through my breast
+As long as I'm a-livin', boys, they ain't a-gonna let me rest
+I know they're gonna hang me, tomorrow, I'll be dead
+Though I never even harmed a hair on poor little Laurie's head
+
+[structure] Repeat chorus
+
+In this world and one more, then reckon where I'll be
+If it wasn't for Sheriff Grayson, I'd be in Tennessee
+You can take down my old violin and play it all you please
+For at this time tomorrow, boys, it'll be of no use to me
+
+[structure] Repeat chorus
+
+At this time tomorrow, where do you reckon I'll be?
+Away down yonder in the holler, hangin' on a white oak tree
+
+[structure] Repeat chorus
+
+[title] Shady Grove
+[credit] Traditional American
+
+{Dm}Peaches in the {C}summertime
+{Dm}Apples {C}in the {Dm}fall
+If I can't have the {C}girl I love
+I {Am}don't want none at {Dm}all
+
+{Dm}Shady grove, {C}my little love
+{Dm}Shady {C}grove, I {Dm}say
+{Dm}Shady grove, {C}my little love
+I'm {Am}bound to go a{Dm}way
+
+I wish I had a banjo string
+Made of golden twine
+Every tune I'd play on it
+I wish that girl was mine
+
+[structure] Repeat chorus
+
+I wish I had a needle and thread
+Fine as I could sew
+Sew that pretty girl to my side
+And down the road I'd go
+
+[structure] Repeat chorus
+
+Some come here to fiddle and dance
+Some come here to tarry
+Some come here to fiddle and dance
+I come here to marry
+
+[structure] Repeat chorus
+
+Every night when I go home
+Wife, I try to please her
+The more I try, the worse she gets
+Damned if I don't leave her
+
+[structure] Repeat chorus
+
+Fly around, my pretty little miss
+Fly around, my Daisy
+Fly around, my pretty little miss
+Nearly drive my crazy
+
+[structure] Repeat chorus
+
+[title] Wayfaring Stranger
+[credit] Traditional American
+
+I am a {Bbm}poor way{Bbm/Ab}faring   {Bbm}stranger
+While journeying {Ebm}through this world of {Bbm}woe
+Yet there's no {Bbm}sickness, {Bbm/Ab}toil nor {Bbm}danger
+In that bright {Gb7}land {F7}to which I {Bbm}go
+
+I'm going {Gb}there to see my {Bbm}father
+I'm going {Gb}there, no more to {F7sus4}roam{    F}
+I'm going {Gb}there to see my {Bbm}father
+I'm only {Gb7}going, go{F7}ing over {Bbm}home
+
+I know dark {Bbm}clouds will {Bbm/Ab}gather   {Bbm}o’er me
+I know my {Ebm7}way, my way is rough and {Bbm}steep
+Yeah, and beautiful {Bbm}fields lie {Bbm/Ab}just   be{Bbm}fore me
+In God's re{Gb7}deem{F7}ing, their vigils {Bbm}keep
+
+[structure] Repeat chorus
+
+[structure] Instrumental Verse
+
+[structure] Repeat chorus
+
+I want to {Bbm}wear that {Bbm/Ab}crown of {Bbm}glory
+When I get {Ebm7}home to that good {Bbm}land
+When I want to {Bbm}shout sal{Bbm/Ab}vation's {Ebm}story
+In concert {Gb7}with, {F7}  oh the bloodwashed {Bbm}band
+
+[structure] Repeat chorus
+
+Well I'm only {Gb}going, going over {Bbm}Jordan
+Yeah, I'm only {Gb7}go - {F7}ing over {Bbm}home
+
+[title] Cripple Creek
+[credit] Traditional American
+
+[structure] Chords: ||: G  G | C  G | G  G | D  G :||
+
+
+
+[title] DAVID'S CURRENT PRACTICE LIST
+[credit] April 2024
+
+[title] ALL THINGS ARE QUITE SILENT
+[credit] STEELEYE SPAN 
+
+{[Am  G  Em]x2}
+All {Am}things are quite {D}silent, each mortal at {Am}rest,
+When me and {Em}my  {D}true love lay {Em}snug in one nest,
+When a {D}bold set of {C}ruffians broke {D}into our {C}cave,
+And they {Am}forced my dear {D}jewel to plough the salt {[Am  G  Em]x2}wave.
+
+I begged hard for my darling as I would for my life.
+But they'd not listen to me although a fond wife,
+Saying: The king must have sailors, to the seas he must go,
+And they left me lamenting in sorrow and woe.
+
+Through green fields and meadows we of times have walked,
+And the fond recollections together have talked,
+Where the lark and the blackbird so sweetly did sing,
+And the lovely thrushes' voices made the valleys to ring.
+
+Now although I'm forsaken, I won't be cast down.
+Who knows but my true love some day may return
+And will make me amends for my trouble and strife,
+And me and my true love might live happy for
+{Am G Em Am G E}life.
+
+[title] Fifty Ways to Leave your Lover
+[credit] PAUL SIMON
+{Bm}   The problem is {A}all inside your {Gmaj7}head she said to {F#/E}me,
+{Bm}   The answer is {A}easy if you {F#m7}take it logical{A#/F#   F#}ly.
+{Bm}   I'd like to {A}help you in your {Gmaj7}struggle to be {F#/E}free.
+There must be {Bm}   fifty {C#m7b5}ways to leave your {Bm}lover.
+{Bm}   She said it's {A}really not my {Gmaj7}habit to in{F#/E}trude,
+Further{Bm}more I hope my {A}meaning won't be {F#m7}lost or miscon{A#/F#}strued, {F#}
+But I'll re{Bm}peat myself, {A}  at the {Gmaj7}risk of being {F#/E}crude.
+There must be {Bm}   fifty {C#m7b5}ways to leave your {Bm}lover, fifty {C#m7b5}ways to leave your {Bm}lover.
+[structure] Chorus:
+Just slip out the {D}back, Jack, make a new {F}plan, Stan,
+No need to be {G7/D}coy, Roy, just get yourself {D}free
+Hop on the {D}bus, Gus, you don't need to dis{F}cuss much,
+Just drop off the {G7/D}key, Lee, and get yourself {D}free
+{Bm}   She said it {A}grieves me so to {Gmaj7}see you in such {F#/E}pain
+I wish there {Bm}was something I could {A}do to {F#m7}make you smile a{A#/F#}gain    {F#}
+I said I ap{Bm}preciate that, {A}  and {Gmaj7}would you please ex{F#/E}plain
+'Bout the {Bm}fifty ways{ C#m7b5     Bm}
+{Bm}   She said why {A}don't we both just {Gmaj7}sleep on it to{F#/E}night,
+And I be{Bm}lieve that in the {A}morning you'll be{F#m7}gin to see the {A#/F#}light.  {F#}
+And then she {Bm}kissed me and I {A}realised, she {Gmaj7}probably was {F#/E}right,
+There must be {Bm}   fifty {C#m7b5}ways to leave your {Bm}lover, fifty {C#m7b5}ways to leave your {Bm}lover.
+[structure] REPEAT CHORUS
+
+[title] For My Own True Love Lost at Sea (in A minor)
+[credit] The Decemberists
+[structure] Intro:  Am  Am/E  Am  Am/E  Am/F  Am  Am/E  Am  Am/E  Am/F 
+{Am}Four score {Am/E}years
+{Am}Living {Am/E}down in {Am/F}this   {D}rain swept {Am    Am/E  Am  Am/E  Am/F}town
+{Am}Sea salt {Am/E}tears
+{Am}Swimming {Am/E}round as {Am/F}the   {D}rain comes {Am   Am/E  Am  Am/E  Am/F#}down
+
+[structure] CHORUS:
+{G}  Mr Postman, do you have a {Am}letter for {Am/E  Am  Am/E  Am/F#}me?
+{G}  Mr Postman, do you have a {Am}letter for {Am/E}me?
+A {F}letter for me
+From my {Am}own true {Am/E   Am  Am/E  Am/F#}love
+{G}Lost at sea
+{G}Lost {G/G#}at      {Am  Am/E  Am  Am/E}sea
+
+[structure] Bridge and repeat chorus
+
+[title] Get it Right Next Time
+[credit] Gerry Rafferty
+
+[structure] Intro chords:
+{F/D  E/D  C/D  D  x3}
+{F/D  E/D  Cmaj7/D}
+
+{D}Out on the street I was {G/B}talkin' to a {D}man
+He said there's {C}so much in this {G/B}life of mine
+That {C}I don't {G/B}under{D}stand{ G}
+{D}  You shouldn't worry I said
+{G/B}That ain't no {D}crime
+Cause {C}if you get it {G/B}wrong
+You'll get it {C}right {G/B}next {D}time
+{G}Next {(F/D  E/D  C/D  D) x3, F/D  E/D  Cmaj7/D}time
+
+You need direction, yeah you need a name
+When you're standing in the crossroads
+Every highway looks the same
+After a while you can recognize the signs
+So if you get it wrong
+You'll get it right next time, next time
+
+Life is a liar yeah life is a cheat
+It'll lead you on and pull the ground
+From underneath your feet
+No use complainin'
+Don't you worry, don't you whine
+Cause if you get it wrong
+You'll get it right next time, next time
+
+You gotta grow
+You gotta learn by your mistakes
+You gotta die a little every day
+Just to try to stay awake
+When you believe,
+There's no mountain you can't climb
+And if you get it wrong
+You'll get it right next time, next time
+
+[title] House of the Risin' Sun
+[credit] Traditional American
+
+There {Am}is a {C/G}house down in {D/F#}New Orleans{ F}   they {Am}call the {C/G}rising {E7}sun
+And it's {Am}been the {C/G}ruin of {D/F#}many a poor girl{ F}   and {Am}me, oh {E7}lord, I'm {Am}one{  E7}
+
+My mother was a tailor, she sewed these new blue jeans
+My sweetheart was a gamblin' man, down in New Orleans
+
+Now the only thing a gambler needs is a suitcase and a trunk
+And the only time when he's satisfied is when he's on a drunk
+
+Oh tell my baby sister not to do what I have done
+But shun that house in New Orleans they call the Rising Sun
+
+With one foot on the platform and the other foot on the train
+I'm going back to New Orleans to wear that ball and chain
+
+I'm going back to New Orleans, my race is almost run
+I'm going back to end my life down in the Rising Sun
+
+[title] Life on Mars?
+[credit] David Bowie
+
+{F}  It's a {Am}god-awful small affair
+{Cm/Eb}      To the {D7}girl with the mousy hair
+{Gm}   But her {Bb}mummy is yelling "No"
+{C7}   And her daddy has told her to go
+{F}  But her {Am}friend is nowhere to be seen
+{Cm/Eb}      Now she {D7}walks through her sunken dream.
+{Gm}   To the {Bb}seat with the clearest view
+{C7}   And she's hooked to the silver screen
+ 
+{Ab}   But the {Eaug}film is a saddening bore
+{Fm}   For she's {Ab7}lived it ten times or more
+{Db}   She could {Aaug}spit in the eyes of fools
+{Bbm}    As they {Db7}ask her to focus on
+ 
+{Bb}   Sailors {Eb}fighting in the dance hall
+{Gm7}    Oh man! {Gbaug}look at those cavemen {F}go
+{Fm}   It's the freakiest {Cm7}show
+{Ebm7}     Take a look at the {Bb}lawman
+{Eb}Beating up the wrong guy
+{Gm}   Oh man! {Gbaug}Wonder if he'll ever know
+{F   Fm}   He's in the best selling {Cm7}show
+{Ebm7}     Is there life on {Gm7}Mars?{ Gbaug  Bb/F  C/E}
+ 
+{F   Gbdim   Gm   Ddim   Am   Bb   Bbm}
+ 
+[structure] Same chords all over again:
+ 
+It's on Amerika's tortured brow
+That Mickey Mouse has grown up a cow
+Now the workers have struck for fame
+'Cause Lennon's on sale again
+See the mice in their million hordes
+From Ibiza to the Norfolk Broads
+Rule Britannia is out of bounds
+To my mother, my dog, and clowns
+ 
+But the film is a saddening bore
+For I've writ it ten times or more
+It's about to be writ again
+As I ask you to focus on
+ 
+Sailors fighting in the dance hall
+Oh man! look at those cavemen go
+It's the freakiest show
+Take a look at the lawman
+Beating up the wrong guy
+Oh man! Wonder if he'll ever know
+He's in the best selling show
+Is there life on Mars?
+
+[title] Mountain'r Lower
+[credit] Jessica Pratt
+
+{Dsus2   G6   F6   D  (x2)}
+ 
+{D}  Well the {G6}bed lies {D}empty, {G6}Lord, I
+{D}see your {G}head hanging {Cadd9}low with the bottle {Dsus2   G6   F6   D  (x2)}told
+
+Well {D}inside was {Dsus4}nowhere {D}to hide
+nowhere to {Dm}hide {Cadd9}them
+And in{D}side was {Dsus4}nowhere {D}to hide
+nowhere to {Dm}hide {Cadd9}them if you'd {G6}called or {D}helped
+ 
+{D}  Heavy {G6}heart flame {D}from the {G6}bed that {D}rains
+for the {G}raiders {Cadd9}comin' down
+when the {G6}game spun 'round
+
+{Cadd9}    Keep me {D}darling {Cadd9}    in your {D}darkest {Cadd9}hours
+like a {D}mother {G6}made of stone
+{Cadd9}    He sings {D}low for{Cadd9} the     {D}long pour
+{Cadd9}    there's a {Dsus2}hundred {G6}mighty men or {D}more
+ 
+{D   F6   Cadd9   D  (x2)}
+ 
+And his {D}eyes were {Dsus4}so fixed {D}on light
+so fixed on {Dm}the {Cadd9}light
+That {D}right hand {Dsus4}guide him {D}too low
+guide him to {Dm}down {Cadd9}home at {G6}night{  D}
+ 
+{D}If  {F6}he comes {Cadd9}home, home, home
+{D}And {F6}do  {Cadd9}wrong, wrong wrong
+ 
+[title] The Bones of You
+[credit] Elbow
+So I'm {A7}there, {Dm6}charging around with a {A7}juggernaut brow, {Dm6}overdraft, speeches and
+{A7}Deadlines to make, {Dm6}cramming commitments like {A7}cats in a sack, {Dm6}telephone burn
+And a {A7}purposeful gait, when {Dm6}out of a doorway the {A7}tentacles stretch, of a {Dm6}song that I know
+And the {A7}world moves in {Dm6}slow-mo, {A7}straight to my head like the {Dm6}first cigarette of the {A7}day
+
+[structure] Chorus:
+And it's {Dm6}you, and it's {A7}May, and we're {Dm6}sleeping through the {A7}day
+And I'm {Dm6}five years {A7}ago, and three {Dm6}thousand miles a{E7  Am6  E7  Am6}way
+
+Do I {A7}have time? A {Dm6}man of my calibre {A7}stood in the street like a {Dm6}sleepwalking teenager
+{A7}No.  And I {Dm6}dealt with this years ago, {A7}I took a hammer to {Dm6}every memento
+But {A7}image on image like {Dm6}beads on a rosary, {A7}pulled through my head as the {Dm6}music takes hold
+and the {A7}sickener hits; I can {Dm6}work till I break, but {A7}I love the bones of you, {Dm6}that I will never es{A7}cape
+
+[structure] Repeat Chorus
+
+[structure] Alt chorus:
+And I {Dm6}can't move my {A7}arm, through the {Dm6}fear that you will {A7}wake
+And I'm {Dm6}five years {A7}ago, and three {Dm6}thousand miles a{A7}way
+
+[title] Yankee Bayonet
+[credit] The Decemberists
+{Cadd9}Heart-carved tree trunk, {Am}Yankee bayonet, a {Cadd9}sweetheart left be{Am}hind
+{Cadd9}Far from the hills and the {Am}sea-swal'ed Carolinas, {Cadd9}that's where my true love {Am}lies
+
+{Cadd9}Look for me when the {Am}sun-bright swallow sings u{Cadd9}pon the birch-bough {Am}high
+But {Cadd9}you are in the ground with the {Am}voles and the weevils all a'{Cadd9}chew 'pon your bones so {Am}dry
+
+[structure] Chorus:
+{A}  But when the {Cmaj7}sun breaks {A}  to no more {C}bullets in {G}Battle Creek
+{A}  Then will you {Cmaj7}make a grave
+{A}For I will be {F}home then, I will be {Gsus4}home then
+I will be {F}home then, I will be {Gsus4}home then
+
+When I was a girl how the hills of Oconee made a seam to hem me in 
+There at the fair when our eyes caught, careless, got my heart right pierced by a pin 
+
+But oh, did you see all the dead of Manassas, all the bellies and the bones and the bile 
+No, I lingered here with the blankets barren and my own belly big with child 
+
+[structure] Repeat Chorus
+
+{F}And stems and bones and stone wa{G}lls too
+{G}Could keep me from you
+{F}This skein of skin is all too {E}few
+{G}To keep me from you
+
+But oh my love, though our bodies may be parted, though our skin may not touch skin 
+Look for me with the sun-bright sparrow; I will come on the breath of the wind
+
+[title] ON THE BACK BURNER
+
+[title] Midnight Special
+[credit] Traditional American
+
+{D} Well, you wake up in the mornin'{ G}
+You hear the work bell ring{ D}
+And they march you to the table{ A7}
+You see the same old thing{ D}
+Ain't no food upon the table{ G}
+And no pork up in the pan{ D}
+But you better not complain, boy{ A7}
+You get in trouble with the man{ D}
+
+[structure] Chorus:
+Let the Midnight {G}Special shine a light on {D}me
+Let the Midnight {A7}Special shine a light on {D}me
+Let the Midnight {G}Special shine a light on {D}me
+Let the Midnight {A7}Special shine a ever lovin' light on {D}me
+
+Yonder come Miss {G}Rosie
+How in the world did you {D}know?
+By the way she wears her {A7}apron
+And the clothes she {D}wore
+Umbrella on her {G}shoulder
+Piece of paper in her {D}hand
+She come to see the {A7}gov'nor
+She want to free her {D}man, oh
+
+[structure] Repeat chorus
+
+If you're ever in Houston
+Well, you better do right
+You better not gamble
+There, you better not fight, at all
+Or the sheriff will grab ya
+And the boys will bring you down
+The next thing you know, boy
+Whoa, you're prison bound
+
+[structure] Repeat chorus x2
+
+[title] Oh Susanna
+[credit] Stephen Foster
+
+{A}I come from Alabama with my banjo on my {E}knee
+I'm {A}goin' to Lousiana, my {E}true love for to {A}see
+It rained all night the day I left, the weather it was {E}dry
+The {A}sun so hot I froze to death, Su{E}sanna don't you {A}cry
+
+[structure] Chorus:
+{D}Oh, {A}Su{E}sanna, {A}don't you cry for {E}me
+I've {A}come from Alabama with my {E}banjo on my {A}knee
+
+[structure] Repeat chorus chords
+
+I had a dream the other night when everything was still
+I thought I saw Susanna dear a-comin' down the hill
+Sweetness on her rosy lips, a tear was in her eye
+I said to her Susanna dear, Susanna don't you cry
+
+[structure] Repeat chorus x2
+
+
+
+
+[title] My Own Version of You
+[credit] Bob Dylan 
+
+[structure] Intro: Am  Am/G  Am/F#  Am/F  x2
+
+{Am}All {Am/G}throug{Am/F#}h the s{Am/F}ummers, into January
+{Am}I've{Am/G} been {Am/F#}visitin{Am/F}g morgues and monasteries
+{Dm}Look{Dm/C}ing fo{Dsus/B}r the ne{Dsus#4/Bb}cessary bo{(x10234)}dy parts
+{Am}Limb{Am/G#}s and l{Am/G}ivers {Am/F#}and brains and hearts
+{F}I'll bring someone to life, is what I wanna do
+{F7}I wanna create my own version of you
+
+Well, it must be the winter of my discontent
+I wish you'd've taken me with you, wherever you went
+They talk all night and they talk all day
+But not for a minute do I believe anything they say
+I'm gonna bring someone to life, someone I've never seen
+You know what I mean, you know exactly what I mean
+
+I'll take the <i>Scarface</i> Pacino and the <i>Godfather</i> Brando
+Mix it up in a tank, and get a robot commando
+If I do it up right and put the head on straight
+I'll be saved by the creature that I create
+I'll get blood from a cactus, gunpowder from ice
+I don't gamble with cards and I don't shoot no dice
+Can you look in my face with your sightless eyes?
+Can you cross your heart and hope to die?
+I'll bring someone to life, someone for real
+Someone who feels the way that I feel
+
+I study Sanskrit and Arabic to improve my mind
+I wanna do things for the benefit of all mankind
+I say to the willow tree, "Don't weep for me"
+I'm saying to hell with all things that used to be
+Well, I get into trouble, then I hit the wall
+No place to turn, no place at all
+I'll pick a number between one and two
+And I ask myself, "What would Julius Caesar do?"
+I will bring someone to life in more ways than one
+Don't matter how long it takes, it'll be done when it's done
+ 
+I'm gonna make you play the piano like Leon Russell
+Like Liberace, like St. John the Apostle
+I'll play every number that I can play
+I'll see you maybe on Judgment Day
+After midnight, if you still wanna meet
+I'll be at the Black Horse Tavern on Armageddon Street
+Two doors down, not that far to walk
+I'll hear your footsteps, you won't have to knock
+I'll bring someone to life, balance the scales
+I'm not gonna get involved in any insignificant details
+
+You can bring it to St. Peter, you can bring it to Jerome
+You can bring it all the way over, bring it all the way home
+Bring it to the corner where the children play
+You can bring it to me on a silver tray
+I'll bring someone to life, spare no expense
+Do it with decency and common sense
+
+Can you tell me what it means, to be or not to be?
+You won't get away with fooling me
+Can you help me walk that good land mile?
+Can you give me the blessings of your smile?
+I'll bring someone to life, use all of my powers
+Do it in the dark in the wee, small hours
+
+I can see the history of the whole human race
+It's all right there, it's carved into your face
+Should I break it all down? Should I fall on my knees?
+Is there light at the end of the tunnel, can you tell me please?
+Stand over there by the cypress tree
+Where the Trojan women and children were sold into slavery
+Long before the first Crusade
+Way back before England or America were made
+Step right into the burnin' hell
+Where some of the best-known enemies of mankind dwell
+Mr. Freud with his dreams, Mr. Marx with his ax
+See the raw hide lash rip the skin from their backs
+Got the right spirit, you can feel it you can hear it
+You've got what they call the immortal spirit
+You can feel it all night, you can feel it in the morn
+It creeps in your body, the day you were born
+One strike of lightning is all that I need
+And a blast of electricity that runs at top speed
+Shimmy your ribs, I'll stick in the knife
+Gonna jump-start my creation to life
+I wanna bring someone to life, turn back the years
+Do it with laughter and do it with tears
+
+[title] Summer Breeze
+[credit] Seals & Croft
+
+[structure] Intro:
+{Em7   Am7   x4}
+ 
+[structure] Verse:
+{E}  See the curtains {G}hanging in the window
+{D}  In the evening {A}on a Friday {E}nig{Am7}ht
+{E}  A little light {G}shining through the window
+{D}  Lets me know {A}everything's al{E}right
+ 
+[structure] Chorus:
+{Am7}    Summer breeze, {Bm7}makes me feel fine
+{Am7}Blowin' through the jasmine
+In my {G}min{F6sus2}d  [whol{Em7}e cho{G}rus x2]
+ 
+[structure] Repeat Intro
+ 
+See the paper laying on the sidewalk
+A little music from the house next door
+So I walk on up to the doorstep
+Through the screen and across the floor
+ 
+[structure] Repeat Chorus
+ 
+{Em7}Sweet days of {Am7}summer, the {Em7}jasmine's in {Am7}bloom
+{Em7}July is {Am7}dressed up and {Em7}playing her {Am7}tune
+And I come {Am7/D}home, from a {Bm7/E}hard days work
+And you're {Am7/D}waiting there, not a {Bm7/E}care
+In the {Amaj7/B}world{  A6/B}
+ 
+See the smile a waiting in the kitchen
+Food cooking and the plates for two
+Feel the arms that reach out to hold me
+In the evening when the day is through
+ 
+[structure] Repeat Chorus
+
+[title] The Water Is Wide
+[credit] Traditional American
+
+The water is {Cmaj7}wide{  Dm  Em  Dm}
+I can't cross over
+And neither have
+I wings to {G7}fly
+Build me a boat
+That can carry two
+And both shall {Cmaj7}row{  Dm  Em  G#}
+My love and I
+There is a ship
+And she sails the sea
+She's loaded deep
+As deep can {G7}be
+But not so deep
+As the love I'm in
+I know not how
+I sink or swim
+Oh love is handsome
+And love is fine
+The sweetest flower
+When first it's {G7}new
+But love grows old
+And waxes cold
+And fades a{Cmaj7}way{  Dm  Em  G#}
+Like summer dew
+Build me a boat
+That can carry two
+And both shall row{  Dm  Em  G#}
+My love and {Cmaj7}I{  G#}
+
+[structure] Repeat chorus
+
+[title] MORE BACK BURNER SONGS
+
+[title] A Different Song
+[credit] David Bulger
+I'm just a {Am}guy in {G7/B}love
+And {Ddim7}this is my {Am}ballad
+But the {G}joy I'm dreamin' {C}of
+Is onto{E7}logically in{Am}valid
+
+I'll be a{(Am)}lone ever{G7/B}more
+A {Ddim7}sadness life{Am}long
+The {G/B}woman I a{C}dore
+Is {E7}from a different {Am}song
+
+[structure] Interlude: repeat above chords
+
+These {(Am)}few gloomy {G7/B}verses
+and her {Ddim7}melody {Am}sweet
+Are {G/B}two uni{C}verses
+{C/D}That {E7}never can {Am}meet
+
+[title] A Place in the Sun
+[credit] Ronald Miller and Bryan Wells
+
+Like a {Dm7}long lonely {G7}stream, I keep {C}runnin' to{C/B}wards a {Am7}dream
+{Dm7} Movin' on,{G7} movin' {C  F  C}on
+
+{F6} Like {Am7}a     {Dm7}branch on a {G7}tree, I keep {C}reachin' {C/B}to be {Am7}free
+{Dm7} Movin' on{G7}, movin' {C  F  C}on
+
+[structure] Chorus:
+'Cause there's a {Dm7}place in the {G7}sun
+Where there's {C}hope for {E7}ev'ry-{Am}one
+Where {Am7}my  {Dm7}poor restless {G7}heart's gotta {C}run{Cmaj7  C6}
+There's a {Dm7}place in the {G7}sun
+And be-{C}fore my {E7}life is {Am}done
+{Am7} Got to {Dm7}find me a {G7}place in the {C  F  C}sun
+
+Like an {Dm7}old dusty {G7}road, I get {C}we-ary {C/B}from the {Am7}load
+{Dm7} Movin' on{G7}, movin' {C  F  C}on
+
+Like this {Dm7}tired troubled {G7}earth, I've been {C}rollin' {C/B}since my {Am7}birth
+{Dm7} Movin' on{G7}, movin' {C  F  C}on
+
+[structure] Repeat chorus
+
+[title] Africa (in A)
+[credit] TOTO
+[structure] Intro:  G | Bm || x4
+
+{A}  I hear the drums {C#m}echoing to{F#m}night
+{A}She hears only {G}whispers of some {Bm}quiet conver{F#m}sa  -  {G   Bm}tion
+{A}  She's coming {C#m}in, twelve thirty {F#m}flight
+The {A}moonlit wings re{G}flect the stars that {Bm7}guide me toward sal{F#m}va  -  {G   Bm}tion
+{A}  I stopped an {C#m}old man along the {F#m}way
+{A}Hoping to find some {G}old forgotten {Bm}words or ancient {F#m}me - lo{G   Bm}dies
+{A}  He turned to {C#7}me as if to {F#m}say, "Hurry, boy, it's {G}waiting there for you"{ Bm}
+
+[structure] Chorus:
+{Em}    Gonna take a {C}lot to drag me a{G}way from {D}you
+{Em}    There's nothing that a {C}hundred men or {G}more could ever {D}do
+{Em}    I bless the {C}rains down in {G}Afri{D}ca
+{Em}    Gonna take some {C}time to do the {G}things we never {Bm  D  Em   G  Bm}had
+
+{A}  The wild dogs {C#m}cry out in the {F#m}night
+As {A}they grow restless {G}longing for some {Bm}solitary {F#m}compa-{G   Bm}ny
+{A}  I know that {C#m}I must do what's {F#m}right
+Sure as {A}Kilimanjaro {G}rises like O{Bm}lympus above the {F#m}Serenge{G   Bm}ti
+{A}  I seek to {C#7}cure what's deep in{F#m}side
+Frightened of this {G}thing that I've be{Bm}come
+
+[structure] Repeat chorus
+[structure] Solo over verse chords: A  C#m  F#m  A  G  Bm  F#m  G  Bm
+{A  C#7    F#m}    Hurry, boy, it's {G}waiting there for you{ Bm}
+
+[structure] Repeat chorus
+
+[title] Ain't Misbehavin'
+[credit] Words by Andy Razaf		Music by Fats Waller & Harry Brooks
+
+{G               Ddim7         Amin7    D7}
+{G               Ddim7         Amin7    D7}
+
+{G}      No one to {Ddim7}talk with, {Amin7}all by my{Gdim7}self
+{Bmin7}      No one to {Cdim7}walk with, but {Cmaj7}I'm happy {Gdim7}on the shelf
+{G}      Ain't misbe{Emin7}havin', I'm {Amin7}savin' my {D7}love for {G}you{ Ddim7    Amin7       D7}
+
+{G}      I know for {Ddim7}certain, the {Amin7}one I {Gdim7}love
+{Bimn7}      I through with {Cdim7}flirtin', it's just {Cmaj7}you I'm {Gdim7}thinkin' of
+{G}      Ain't misbe{Emin7}havin', I'm {Amin7}savin' my {D7}love for {G}you{ C   G   B7}
+
+{Emin7}      Like Jack Horner {C}  in the corner
+{Emin7}      Don't go nowhere, {E7}what do I care?
+{A}      Your kisses {A7}are worth waitin' {Amin7}for,      {D7}  believe me
+
+{G}      I don't stay {Ddim7}out late, {Amin7}don't care to {Gdim7}go
+{Bmin7}      I'm home a{Cdim7}bout eight, just {Cmaj7}me and my {Gdim7}radio
+{G}      Ain't misbe{Emin7}havin', I'm {Amin7}savin' all my {D7}love for {G}you
+      Ain't misbe{Emin7}havin', I'm {Amin7}savin' all my {D7}love for {G}you
+      Ain't misbe{Emin7}havin', I'm {Amin7}savin' all my {D7}love for {G}you{C  D7   G  F#/D     G}
+
+[title] And Death Shall Have No Dominion
+[credit] Words by Dylan Thomas		Music by David Bulger
+{Emin}     And death shall {Asus2}have no dominion
+{Emin}     Dead men {Asus2}naked they shall be one
+{Emin}     With the man in the {Asus2}wind and the west moon
+{Emin}     When their bones are picked {Asus2}clean and the clean bones gone
+{Emin}     They shall have {Asus2}stars at elbow and foot
+{Emin}     Though they go {Asus2}mad they shall be sane
+{Emin}     Though they sink through the {Asus2}sea they shall rise again
+{Emin}     Though lovers be {Asus2}lost love shall not
+
+[structure] Chorus:
+{Cadd9} And death shall {Dsus2}have no dominion	x4
+
+And death shall have no dominion
+Under the windings of the sea
+They lying long shall not die windily
+Twisting on racks when sinews give way
+Strapped to a wheel, yet they shall not break
+Faith in their hands shall snap in two
+And the unicorn evils run them through
+Split all ends up they shan't crack
+
+[structure] Repeat chorus
+
+And death shall have no dominion
+No more may gulls cry at their ears
+Or waves break loud on the seashores
+Where blew a flower may a flower no more
+Lift its head to the blows of the rain
+Though they be mad and dead as nails
+Heads of the characters hammer through daisies
+Break in the sun till the sun breaks down
+
+[structure] Repeat chorus
+
+[title] As Time Goes By
+[credit] Herman Hupfeld 
+You {Dm7}must remember {G7}this, a {Gm6}kiss is just a {G7}kiss
+{G+}A   {C6}sigh is just a {Dm7  D#  Em7}sigh
+The {D7}fundamental things ap{G7}ply, as {F}time {Fm}goes {C  Dm7  G7}by
+
+And {Dm7}when two lovers {G7}woo, they {Gm6}still say "I love {G7}you"
+{G+}On  {C6}that you can re{Dm7  D#  Em7}ly
+No {D7}matter what the future {G7}brings, as {F}time {Fm}goes {C6  Gm7  C7}by
+
+{F}Moonlight and love song's {A7}never out of date
+{Dm7}Hearts full of passion, {F#}jealousy and hate
+{Am}Woman needs man, and {Am/G}man   must have his mate
+That {G7}no  one {G}can de{G7}ny
+
+It's {Dm7}still the same old {G7}story, a {Gm6}fight for love and {G7}glory
+{G+}A   {C6}case of do or {Dm7  D#  Em7}die
+The {D7}world will always welcome {E7}lovers, {A7}    as {D7}time {G7}goes {C6  Bb7  C6}by
+
+[title] Auld Lang Syne
+[credit] Robert Burns
+{G7}Should {C}old acquain{Am}tance {Dm}be for{G7}got,
+And {C}never {C7}brought to {F}mind?  {F#dim}
+Should {C}old acquain{Am}tance {Dm}be for{G7}got,
+{E7/G#}And   the {Am}days of {Dm7}auld {G7}lang {C}syne?
+
+{F}For {C}auld {C7}lang {F6}syne, my {G7}dear,
+For {C}auld {C7}lang {F}syne, {F#dim}
+We'll {C}drink a {Am}cup of {Dm}kindness {G7}yet,
+{E7/G#}For   the {Am}sake of {Dm7}auld {G7}lang {C}syne!
+
+[title] Back, Baby (transposed)
+[credit] Jessica Pratt
+
+{Amaj7}Sometimes I {B}pray for the {Emaj7}rain
+ 
+You know I {Emaj7}try, to   {Amaj7}see things from your {Emaj7}side
+To {Amaj7}leave things unde{Emaj7}fined
+But {Amaj7}where would you ad{B}vise?
+That I {A}generate a new de{Emaj7}sign
+For the {A}missing piece I have to dis{Emaj7}guise.
+Saw a {A}header in the paper
+That your {Emaj7}love is just some myth I de{B}vised.
+ 
+[structure] Pre-chorus:
+But {G#m}things like that you can
+{A}Never take back a{Emaj7}gain  [both lines x2]
+
+If there was a {C#m}time when you {Emaj7}loved me
+If there was a {C#m}time when you {Emaj7}said
+That you {B}want me to believe
+
+[structure] Chorus:
+But {G#m}can't go {A}back baby{ Emaj7}
+{G#m}Can't go {A}back baby{ Emaj7}
+And {Amaj7}sometimes I {B}pray for the {Emaj7}rain
+{Amaj7}Lalalala lala  {Emaj7}lam  x2
+ 
+You and your glass world that does ring
+Though at times a frozen thing
+It encloses you and it's crystalline.
+Look so lovely but you'll have to decide
+If you could play it in reverse
+Then you'd find
+That you'd better reconsider all the
+Love you took and then cast aside
+ 
+[structure] Repeat Pre-chorus & Chorus
+ 
+{C#m}   Girl, I know I'm {Emaj7}losing time without you
+Never {Bm}had a second chance before {A}  this time
+But {C#}things like that they
+{F#}Never do work out {B}right [both lines x2]
+ 
+[structure] Repeat Chorus
+ 
+[title] Blue Moon
+[credit] Words & Music by Lorenz Hart & Richard Rodgers
+
+{G7}Blue {C  Am7    Dm7}moon,  
+You saw me {G7}standing a{C  Am7      Dm7}lone 
+Without a {D7}dream in my {CM7  Am7      D7}heart, 
+Without a {F}love of my {C  Am7    Dm7}own 
+
+Blue moon,
+You knew just what I was there for,
+You heard me saying a prayer for
+{F}Someone I {G}really could {C}care for{  F   Fm   C}.
+
+[structure] Bridge:
+And then there {Dm7}suddenly ap{G7}peared be{C}fore me
+The {Dm7}only one my {G7}heart could ever {C}hold;
+I heard {Fm7}somebody whisper, "{Bb7}Please a{Eb}dore me."
+And when I {G}looked, the moon had {D7}turned to {G  D7 G7}gold. 
+
+Blue moon,
+Now I'm no longer alone
+Without a dream in my heart,
+Without a love of my own.
+
+[title] Broken Wings
+[credit] Mr Mister
+{G#m}Baby, don't understand why we can't just hold on to each other's hands  {F#  C#}
+{G#m}This time might be the last, I fear, unless I make it all too clear I need you {F#}so, woah {C#}oh
+
+[structure] Chorus:
+{C#m}Take these broken wings and learn to {B}fly again, learn to live so {A}free
+And when we {C#m}hear the voices sing, the book of {B}love will open up and {A}let us in
+{C#m}Take these broken wings  {G#m}
+
+{G#m}Baby, I think tonight we can take what was wrong and make it right  {F#  C#}
+{G#m}Baby, it's all I know: that you're half of the flesh and blood that makes me whole
+{F#}    I need you {C#}so
+
+[structure] Repeat Chorus
+
+{F#m}Yeah   -   let us {A  E  D  F#m}in      -      let us in{A  E  D}
+{G#m}Baby, it's all I know: that you're half of the flesh and blood that makes me whole
+Yeah {F#}yeah yeah, yeah {C#}yeah
+
+[structure] Repeat Chorus  x2
+
+[title] Bus Stop
+[credit] The Hollies
+{Am}Bus stop, wet day, she's there, I say, please share my umbrella
+Bus stop, bus goes, she stays, love grows under my umbrella
+{C}All that {G}summer {Am}we enjoyed it, {Dm}wind and rain and {Em}shine
+{Am}That umbrella, we employed it; by {Em}August, she was {Am}mine
+
+[structure] Chorus:
+{C}Every morning {B7}I would see her {Em}waiting {D}at the {C}stop
+Sometimes she'd {Am}shopped and she would {B7}show me what she {Em}bought {B7}
+{C}Other people {B7}stared as if we {Em}were both {D}quite in{C}sane
+Someday my {Am}name and hers are {B7}going to be the {Em}same
+
+{Am}That's the way the whole thing started; silly but it's true
+Thinkin' of a sweet romance beginning in a queue
+{C}Came the {G}sun the {Am}ice was melting; {Dm}no more sheltering {Em}now
+{Am}Nice to think that that umbrella {Em}led me to a {Am}vow
+
+[structure] Repeat chorus
+
+{Am}Bus stop, wet day, she's there, I say, please share my umbrella
+Bus stop, bus goes, she stays, love grows under my umbrella
+{C}All that {G}summer {Am}we enjoyed it, {Dm}wind and rain and {Em}shine
+{Am}That umbrella, we employed it; by {Em}August, she was {Am}mine
+
+[title] But I'm Not
+[credit] Cocteau Twins
+
+Sorrowful stories
+I hear all that's shown
+His posturish shiver on his things
+And she's always known
+
+[structure] Chorus:
+Things from the forest die here
+But I don't
+Dead forest things are offered here
+But I'm not
+
+Ourselves live lies
+Nothing ever cries
+Giving, getting in
+Wishing what her sad grin finds
+
+[structure] Repeat chorus
+
+[title] Chattering Fangs
+[credit] David Bulger
+{Cm}  I bought a {Bm}mirror to see if {Abmaj7}finally {G7}  I'd put you behind me
+{Cm}  But still you grew {Bm}nearer and found my {Abmaj7}hideaway{G7}  and whispered so kindly
+{Cm}  You asked me {Bm}up into your {Cm}room
+We made {Bm}love in the after{Cm}noon
+Then you {Bm}played the contrabas{Abmaj7}soon    {G7}
+{Cm}  But I don't re{Bm}member how to {Abmaj7}find your house;{G7}  please come remind me
+
+{C}Yes, my {Cm}cape's from {D}Tar{Bm}get and {Eb}my {Eb}fangs are {Abm}from {Ab}a   {Abs4}joke {Ab}shop
+But {C}I sleep {C}in a {D}cof{Bm}fin with {Eb}a  {Eb}heavy {Abm}pad-{Ab}ded {Abs4}oak  {Ab}top
+I {C}really {Cm}am a {D}vam{Bm}pire - I {Eb}was {Eb}bitten {Abm}in    {Ab}a   {Abs4}dream{Ab}
+I {C}only {Cm}eat red {D}food {Bm}now, {Eb}like {Eb}straw{Abm}ber-{Ab}ry  {Abs4}ice  {Ab}cream
+I {C}don't go {Cm}out in {D}sun{Bm}light and {Eb}I  {Eb}mostly {Abm}sleep {Ab}all {Abs4}day  {Ab}
+They {C}have the {Cm}vampire {D}mo{Bm}vies on {Eb}at {Eb}night-time {Abm}a  -  {Ab}ny - {Abs4}way  {Ab}
+I {C}run a{Cm}way from {D}gar{Bm}lic and {Eb}don't {Eb}like to {Abm}see {Ab}a   {Abs4}cross{Ab}
+'Cause {C}I'm an {Cm}evil {D}mon{Bm}ster and {Eb}the {Eb}devil {Abm}is    {Ab}my  {Abs4}boss {Ab}
+
+I sketched your house and showed it to the area's real estate cognoscenti
+I thought there might be no one who'd remember the address; instead there were plenty
+At City Hall my hypnotic smile
+Gave me access to your file
+Then I was speechless for a while
+You died when your house burnt down thirty years ago, but I'm only twenty
+
+[title] Copacabana (in G minor)
+[credit] Barry Manilow
+Her name was {Gm7}Lola {C7}
+She was a {Fmaj7}showgirl
+With yellow {Bm7-5}feathers in her {E7}hair
+And a {Am7}dress cut down to there
+She would me{Gm7}rengue {C7}
+And do the {Fmaj7}cha-cha
+And while she {Bm7-5}tried to be a {E7}star
+Tony {Am7}always tended bar
+Across the  {Dm}crowd{E7}ed  {Am}floor
+They worked from {Dm}eight {E7}till {Am}four
+They were {Dm}young and they had each {E7}other
+Who could {Am7}ask  {Abm7}for   {Gm7}more
+
+[structure] CHORUS:
+At the {Gm7}Copa,{C7}   Copaca{Fmaj7}bana
+The {Gm7}hottest {C7}spot north of Ha{Fmaj7}vana
+{D7}At the {Gm7}Copa,{C7}    Copaca{Am7}ba - {D7}na
+{Gm7}Music and {C7}passion were {Am7}always in {D7}fashion
+At the {Gm7}Copa {E7}
+They fell in {Am7}love{ Abm7  Gm7}
+{Abm7  Am7  Abm7  Gm7  Abm7  Am7}
+                   
+His name was Rico
+He wore a diamond
+He was escorted to his chair
+He saw Lola dancing there
+And when she finished
+He called her over
+But Rico went a bit too far
+Tony sailed across the bar
+And then the punches flew
+And chairs were smashed in two
+There was blood and a single gunshot
+But just who shot who?
+
+[structure] REPEAT CHORUS (with ending "She lost her love")
+                                          
+Her name is Lola
+She was a showgirl
+But that was thirty years ago
+When they used to have a show
+Now it's a disco
+But not for Lola
+Still in the dress she used to wear
+Faded feathers in her hair
+She sits there so refined
+And drinks herself half-blind
+She lost her youth and she lost her Tony
+and she's lost her mind
+
+[structure] REPEAT CHORUS
+
+[title] DON'T ASK ME WHY
+[credit] BILLY JOEL
+ 
+[structure] Intro: G/B - G/C - G/Bb - x 6
+
+{G}All the waiters in your {A7}grand cafe
+{D7}Leave their tables when you {G}blink, {C}Oh
+{G}Every dog must have his {A7}every day
+{D7}Every drunk must have his {G}drink
+Don't {B7}wait for {Em}answers
+Just {G7}take your {A7}chances
+Don't {D7}ask me {(G/B  G/C  G/Bb)x4}why
+
+{G}All your life you had to {A7}stand in line
+{D7}Still you're standing on your {G}feet, {C}Oh
+{G}All your choices made you {A7}change your mind
+{D7}Now your calendar's com{G}plete
+Don't {B7}wait for {Em}answers
+Just {G7}take your {A7}chances
+Don't {D7}ask me {(G/B - G/C - G/Bb)x4}why
+
+{D}You can say the human heart
+Is {C}only make-believe
+And {D}I am only fighting fire with {G}fire
+But {E7}you are still a victim
+Of the {A7}accidents you leave
+As {E7}sure as I'm a victim of de{A7}sire {D7}
+
+{G}All the servants in your {A7}new hotel
+{D7}Throw their roses at your {G}feet, {C}Oh
+{G}Fool them all but baby {A7}I can tell
+{D7}You're no stranger to the {G}street
+Don't {B7}ask for {Em}favors
+Don't {G7}talk to {A7}strangers
+Don't {D7}ask me {(G/B - G/C - G/Bb)x4}why
+
+[structure] Interlude: (G/B - G/C - G/Bb)x3, G
+
+{G}Yesterday you were an {A7}only child
+{D7}Now your ghosts have gone a{G}way, {C}Oh
+{G}You can kill them in the {A7}classic style
+{D7}Now you parlez vous fran{G}cais
+Don't {B7}look for {Em}answers
+You {G7}took your {A7}chances
+Don't {D7}ask me {(G/B - G/C - G/Bb)x8, G}why
+
+[title] Dream a Little Dream of Me
+[credit] W. Schwendt, F. Andre, G. Kahn
+{C}  Stars {B7}shining bright a{Ao}bove {G7}you
+{C}  Night {B7}breezes seem to {A7}whisper "I {A7}love you"
+{F}  Birds singing in a {Fm}sycamore tree
+{C}Dream a little {G+}dream of {G7}me.
+
+Say "Nightie-night" and kiss me
+Just hold me tight and tell me you'll miss me
+While I'm alone and blue as can be
+{C}Dream a little {G+}dream {Gm}of  {C}me.
+
+{A}  Stars {A6}fading but {E7}I linger on, dear, {A}  still {A6}craving your {E7}kiss
+{A}  I'm {A6}longing to {E7}linger till dawn, dear, {A}  just saying {G#}this  {G7}
+
+Sweet dreams till sunbeams find you
+Sweet dreams that leave all worries far behind you
+But in your dreams whatever they be
+Dream a little dream of me.
+
+[title] Every Little Thing She Does Is Magic
+[credit] The Police
+
+Though I've {Dsus2/G}tried before to {%/A}tell her
+All the {%/B}feelings I have {%/C#}for her in my {%/G   %/A  %/B  %/C#}heart
+Every {%/G}time that I come {%/A}near her
+I just {%/B}lose my nerve as {%/C#}I've done from the {D G A D G A D G A D}start
+
+[structure] Chorus:
+Every little {A}thing she does is {D}magic
+Everything she {A}does just turns me {D}on
+Even though my {A}life before was {D}tragic
+Now I know my {A}love for her goes {Dsus2/Bb  %/F %/G %/A %/B %/C#}on
+
+Do I {Dsus2/G}have to tell a {%/A}story
+Of a {%/B}thousand rainy {%/C#}days since we first {%/G  %/A  %/B  %/C#}met
+It's a {%/G}big enough um{%/A}brella
+But it's {%/B}always me that {%/C#}ends up getting {D G A D G A D G A D}wet
+
+[structure] Repeat chorus
+
+{Dsus2/Bb}I resolve to {%/A}call her up a {%/G}thousand times a {%/A}day
+And {%/G}ask her if she'll {%/A}marry me
+In {%/Bb}some old fashioned {%/A}way
+But my {%/Bb}silent fears have {%/C}gripped me
+Long {%/Bb}before I reach the {%/C}phone
+And be{%/Bb}fore my tongue has {%/C}tricked me
+Must I {%/G}al - {%/A}ways {%/B}be   {%/C#}a   -   {D G A D G A D G A D}lone
+
+[structure] Repeat chorus
+
+[title] Fire & Rain
+[credit] James Taylor
+
+[structure] Intro: A G D A, A E Gmaj7
+
+{A}Just yesterday {Em7}morning they let me {D}know you were {A}gone
+Susan, the {E}plans they made put an {Gmaj7}end to you
+{A}I walked out this {Em7}morning and I {D}wrote down this {A}song
+I just can't {E}remember who to {Gmaj7}send it to
+
+[structure] Chorus:
+{D    D/C#}I've seen {Bm7}fire and {Bm7/E}I've seen {A}rain
+I've seen {D}sunny {D/C#}days that I {Bm7}thought would {Bm7/E}never end{A}
+I've seen {D}lonely {D/C#}times when I {Bm7}could not {Bm7/E}find a fri{A}end
+But {G}I always {D6/F#}thought that I'd {E7/B}see you {Asus}again{A9}
+
+Won't you look down upon me Jesus, you've got to help me make a stand
+You've just got to see me through another day
+My body's aching and my time is at hand
+And I won't make it any other way
+
+[structure] Repeat chorus
+
+Been walking my mind to an easy time, my back turned towards the sun
+Lord knows when the cold wind blows it'll turn you head around
+Well, there's hours of time on the telephone line to talk about things to come
+Sweet dreams and flying machines in pieces on the ground
+
+[structure] Repeat chorus
+
+[title] Garota de Ipanema
+[credit] music Antonio Carlos Jobim, lyrics Vinicius de Moraes
+{G#69}Olha que coisa mais linda mais cheia de {A#m6}graça é ela menina que vem que {F#M7/A#}passa num doce ba{Adim}lanço caminho do {G#69}mar   {A69}
+{G#69}Moça do corpo dourado do sol de Ipa{A#m6}nema o seu balançado é mais que um po{G#7sus4}ema é a coisa mais {G#7}linda que eu já vi pas{G#69}sar
+{DM7}Ah, porque estou tão so{G7}zinho
+{Dm7}Ah, porque tudo é tão {A#7}triste
+{D#m7}Ah, a beleza que e{B7}xiste
+A be{Fm7}leza que não é só {A#7b5}minha
+{D#m7}Que também passa so{G#7b5}zinha
+{G#69}Ah, se ela soubesse que quando ela {A#m6}passa o mundo sorrindo se enche de {G#7sus4}graça e fica mais {G#7}linda por cause do a{G#69}mor
+
+[title] God Only Knows
+[credit] The Beach Boys
+
+{|A  E/G#  F#m7 A/E   B/F# C/G | D/A | }
+
+{D/A}    I may not {Bm}always love you,
+{F#m}    But {F#m7}long as there {B}are stars above you,
+{E/B}    You never {Cdim7}need to doubt it,
+{E/B}    I'll make you so {Bbm7b5}sure about it.
+
+{A}  God only {E/G#}knows what I'd be with{F#m7}out you. {E}
+
+{D/A}    If you should {Bm}ever leave me,
+{F#m}    Though {F#m7}life would still {B}go on believe me,
+{E/B}    The world could show {Cdim7}no - thing to me,
+{E/B}    So what good would {Bbm7b5}li - ving do me.
+
+{A}  God only {E/G#}knows what I'd be with{F#m7}out you. {E}
+
+{|G    Em6    Bm   Bm7  E7|  (Aah-aah-aah, Doo-doo-doo)}
+{|A/E   Fdim    A/E   D#m7?5|  (Bah-buppa-bah, Bah-buppa-bah)}
+
+{D/A}    God only {A/C#}knows what I'd be with-{Bm7}out you.
+
+{D/A}    If you should {Bm}ever leave me,
+{F#m}    Though {F#m7}life would still {B}go on believe me,
+{E/B}    The world could show {Cdim7}no - thing to me,
+{E/B}    So what good would {Bbm7b5}li - ving do me.
+
+{A}  God only {E/G#}knows what I'd be with{F#m7}out you  {E}
+
+[title] Golden Years
+[credit] David Bowie
+
+{F#}Golden {E}years, {F#}gold,{E}  whop whop whop  {F#    E}x3
+
+{F#}   Don't let {E}me hear you say life's
+{F#}   taking {E}you nowhere, {F#}an - {E}gel
+{F#}(Come get {E}up my baby)
+{F#}Look at that sky, {E}  life's begun
+{F#}Nights are warm {E}and the days are {F#}young{ E}
+{F#}(Come get {E}up my baby)
+{D}There's my ba{Bm}by, lost that's all
+{D}Once I'm begging {Bm}you, save her little {F#} soul
+ Golden {E}years, {F#}gold, {E}  whop whop whop{ F#     E}
+{F#}(Come get {E}up my baby)
+
+Last night they loved you 
+Opening doors and pulling some strings, angel
+(Come get up my baby)
+In walked luck and you looked in time
+Never look back, walk tall, act fine
+(Come get up my baby)
+
+I'll {D}stick with you {Bm}baby for a {D}thousand {Bm}years
+{G}Nothing's gon{C}na touch you in these
+{A}  gol{F#}den years {Bm} ...   {NC} gold
+
+Golden years, gold, whop whop whop
+(Come get up my baby)
+
+One of these days, and it won't be long
+Gonna drive back down where you once belonged
+In the back of a dream car, twenty foot long
+Don't cry my sweet, don't break my heart
+Doing all right, but you gotta get smart
+Wish upon, wish upon, day upon day,
+I believe oh lord, I believe all the way
+(Come get up my baby)
+Run for the shadows, run for the shadows
+Run for the shadows in these golden years
+
+There's my baby, lost that's all
+Once I'm begging you, save her little soul
+Golden years, gold, whop whop whop
+(Come get up my baby)
+
+Don't let me hear you say life's 
+Taking you nowhere, angel
+(Come get up my baby)
+Run for the shadows, run for the shadows
+Run for the shadows in these golden years
+
+I'll stick with you baby for a thousand years
+Nothing's gonna touch you in these
+Golden years, gold
+
+[title] Goodbye Yellow Brick Road
+[credit] Elton John & Bernie Taupin
+INTRO:  |F C |Dm C |Bb C7 |F   
+
+{|Gm}|When are you gonna come{|C7}|down
+{|F}|When are you going to land {|Bb}|
+{|Gm}|I should have stayed on the{|C7}|farm, should have
+{|F}|listened to my old man {|F}|
+You{|Gm}|know you can't hold me for{|C7}|ever
+I{|F}|didn't sign up with you {|Bb}|
+{|Eb}|I'm not a present for your{|C7}|friends to open
+This{|F}|boy's too young to be{|F}|singing the
+{|Db}|blues {|Eb}|   {|Ab}|Ah {|Db}|   {|Bbm}|Ah  {|C7}|
+
+So{|F}|Goodbye yellow brick{|A7}|road
+where the{|Bb}|dogs of society{|F}|howl
+You{|D7}|can't plant me in your{|Gm}|penthouse
+I'm{|C7}|going back to my{|F}|plow {A7}
+{|Dm}|Back to the howling old{|A7}|owl in the woods
+{|Bb}|Hunting the horny black{|Db}|toad
+{|Db}|    {Eb}Oh I've{|F}|finally de{Am/E}cided my{|Dm}|future lies {C}
+Be{|Bb}|yond the {C7}yellow brick
+{|Db}|road {|Eb}|   {|Ab}|Ah {|Db}|   {|Bbm}|Ah  {|C7}|   {|F}|
+
+|What do you think you'll do|then?
+I|bet you’ll shoot down your|plane
+It'll|take you a couple of|vodka and tonics
+to|set you on your feet again|
+|Maybe you'll get a re|placement
+There's|plenty like me to be|found
+|Mongrels who|ain't got a penny
+|Sniffing for tidbits like|you on the 
+|ground |  |Ah |  |Ah |  
+
+[structure] REPEAT CHORUS
+
+[title] High and Dry
+[credit] Radiohead
+
+{F#m11}Two jumps in a week
+I bet you {Asus2}think that's pretty clever
+don't you {E}boy{ Esus4  E}
+{F#m11}Flying on your motorcycle
+{Asus2}Watching all the ground beneath you {E,sus4,E}drop
+You'd {F#m11}kill yourself for recognition
+{Asus2}Kill yourself to never ever {E}stop{ Esus4       E}
+You {F#m11}broke another mirror
+You're {Asus2}turning into something you are {E,sus4,E}not
+ 
+[structure] Chorus:
+Don't leave me {F#m11}high{  Asus2}
+Don't leave me {E}dry [whole chorus x2]
+ 
+Drying up in conversation
+You will be the one who cannot talk
+All your insides fall to pieces
+You just sit there wishing you could
+Still make love
+They're the ones who'll hate you when you
+Think you've got the world all sussed out
+They're the ones who'll spit at you
+You will be the one screaming out
+ 
+[structure] Repeat Chorus
+ 
+It's the {F#m11}best thing that you ever had
+The {Asus2}best thing that you ever, ever {E}had
+It's the {F#m11}best thing that you ever had
+The {Asus2}best thing you ever had has gone a{E,sus4,E}way
+ 
+[structure] Repeat Chorus
+
+[title] Homeward Bound
+[credit] SIMON & GARFUNKEL
+
+{G}I'm sitting in the railway station
+Got a {Bm}ticket for my destination,{Em7}    mh - {E7}mh
+{Am}On a tour of one night stands my {F}suitcase and guitar in hand
+And {G/D}every stop is neatly planned for a poet and a {Dsus4}one man band{G}
+
+[structure] Chorus:
+Homeward {C}bound, I wish I {G}was, homeward {C}bound
+{G}Home, where my {Am}thought's escaping
+{G}Home, where my {Am}music's playing
+{G}Home, where my {Am}love lies waiting {D}silently {G}for me
+
+Everyday's an endless stream
+Of cigarettes and magazines
+And each town looks the same for me, the movies and the factories
+And every stranger's face I see reminds me that I long to be
+
+[structure] Chorus         
+
+Tonight I'll sing my songs again
+I'll play the game and pretend
+But all my words come back to me in shades of mediocrity
+Like emptiness in harmony I need someone to comfort me
+
+[structure] Chorus
+
+[title] I Can't Go For That
+[credit] Hall & Oates
+
+[structure] Intro:
+{| Fm9    | %      | %      | %      |  (x2)}
+{| Fm9    | Fm9 Bb | Fm9    | Fm9 Bb |  (x2)}
+ 
+[structure] Verse:
+{Cm7}    Easy, ready, willing, over{F}time,
+{Cm7}    Where does it stop, where do you dare me
+to {Ab}draw the {Bb}line.
+{Cm7}    You've got the body, now you want my soul{F}
+{Cm7}    Don't even think about it,
+say no go {Ab}     ({Bb}Yeah)
+ 
+[structure] Chorus:
+{C}I--{Cmaj7} I'll do any{C7}thing
+that you want me {Fmaj7}to do,
+And {C}I'l{Cmaj7}l do almost any{C7}thing,
+that you want me {Fmaj7}to, ooh,
+ 
+But {Cm7}I can't go for that, ({F}No can do)  [x4]
+ 
+[structure] Verse:
+I can't go for being twice as nice
+I can't go for just
+Repeating the same old lives
+Use the body now you want my soul
+Do forget about it say no go  (Yeah)
+ 
+[structure] Repeat Chorus
+
+[title] Killing Me Softly
+[credit] Charles Fox, Norman Gimbel & Lori Lieberman
+
+[structure] Chorus:
+{Fm}Strumming my pain with his {Bbm}fingers
+{Eb7}singing my life with his {Ab}words
+{Fm}killing me softly with {Bb/D}his song
+killing me {Eb}softly with {Db}his song
+telling my {Ab}whole life with {Db}his words.
+Killing me {Gbmaj7}softly
+with his {F}song.
+ 
+[structure] Verse (Ab->Abmaj7 after Verse 1):
+{Bbm7}    I heard he {Eb}sang a good song
+{Ab}  I heard he {Db}had a style
+{Bbm7}    and so I {Eb}came to see him
+to {Fm}listen for a while.
+{Bbm7}    And there he {Eb7}was this young boy
+{Ab}  a stranger {C7}to my eyes.
+ 
+[structure] Repeat chorus
+ 
+I felt all flushed with fever
+embarrassed by the crowd.
+I felt he found my letters
+and read each one out loud.
+I prayed that he would finish
+but he just kept right on.
+ 
+[structure] Repeat chorus
+ 
+He sang as if he knew me
+in all my dark despair.
+And then he looked right through me
+as if I wasn't there.
+And he just kept on singing
+singing clear and strong.
+ 
+[structure] Repeat chorus
+ 
+[title] La Bamba
+
+Para bailar la {C}Bamba {F     G}
+Para bailar la {C}Bamba se {F}nece{G}sita una poca de {C}gracia {F   G}
+Una poca de {C}gracia y {F}otra {G}cosita ay arriba y a{C}rriba {F   G}
+Ay arriba y a{C}rriba por {F}ti se{G}re, por ti se{C}re, por {F}ti se{G}re
+
+[structure] “Capitan” section and Chorus:
+Yo no soy mari{C}nero {F   G}
+Yo no soy mari{C}nero soy {F}capi{G}tan, soy capi{C}tan, soy {F}capi{G}tan
+
+{C}La, {F}la {G}Bamba  x3
+Bam{C}ba  {F   G}
+
+Para subir al cielo
+Para subir al cielo se necesita una escalera larga
+Una escalera larga y otra cosita ay arriba y arriba
+Ay arriba y arriba contigo ire, contigo ire, contigo ire
+
+[structure] Repeat “Capitan” section and Chorus
+
+[title] Lady
+[credit] Little River Band
+
+{A}Look around you, {A}look up here
+{A}Take time to make time, make time to be there
+{A}Look around, {A}be a part
+{A}Feel for the winter
+But don't have a cold heart
+A{E}nd I love you best
+You're not like the rest
+You're there when I need you
+You're ther{D}e when I need
+I'm gonna need yo{A}u
+A lon{A}g time ago I had a lady to love
+{D}She made me think of things
+I never thought of{  A}
+{D}Now she's gone and I'm on my own
+{A}A love song has come into my mind
+A love song it was there all the time
+{D}So lady, let me take a look at you {A}now
+You're ther{D}e on the dance floor
+Making me want you somehow{  A}
+{D}Oh lady
+ 
+I think it's only fair
+I should say to{A} you
+{E}Don't be thinkin' that I don't want you{  D}
+'Cause maybe I do{  A}
+ 
+[structure] Solo:
+{A D A D E D A}
+ 
+{A}Look around, {A}come to me
+{A}I have no answers
+ 
+But know where I wanna be
+{A}I look around, {A}play a part
+{A}I was born in the winter
+ 
+And cooled by a warm heart
+ 
+{E}And I love you best
+ 
+You're not like the rest
+ 
+You're there when I need you
+You're ther{D}e when I need
+I'm gonna need yo{A}u
+ 
+So lady
+Let me take a look at you now{  A}
+You're ther{D}e on the dance floor
+Making me want you somehow{  A}
+{D}Oh lady
+ 
+I think it's only fair
+I should say to{A} you
+{E}Don't be thinkin' that I don't want you{  D}
+'Cause maybe I do{  A}
+ 
+{E}Don't be thinkin' that I don't want you{  D}
+'Cause lady I do{  A}
+ 
+[title] Livin' on a Prayer
+[credit] Bon Jovi
+
+{Em}Tommy used to work on the docks,
+Union's been on strike. He's down on his luck
+It's {C}tough, {D} so {Em}tough.
+{Em}Gina works the diner all day, working for her man, she brings home her pay
+For {C}love, {D} for {Em}love.
+
+[structure] Pre-chorus & chorus:
+(She says) we've got to {C}hold {D}on to what we've {Em}got.
+It {C}doesn't make a {D}difference if we make it or {Em}not.
+We've {C}got each {D}other and {Em}that's a lot, for {C}love.
+We'll {D}give it a shot.
+
+{Em}Woo - {C}oo,  we're {D}halfway there, {G}wo - {C}oo,   {D7sus4}livin' on a prayer.
+{Em}Take my {C}hand we'll {D}make it, I swear
+{G}Wo - {C}oo,    {D7sus4}livin'   on a prayer
+
+{Em}Tommy's got his six string in hock, Now he's holding in,
+when he used to make it talk
+So {C}tough, {D}  it's so {Em}tough.
+{Em}Gina dreams of running away, when she cries in the night, Tommy whispers:
+Baby its O{C}K, {D}  some {Em}day.
+
+[structure] Repeat pre-chorus & chorus
+
+[structure] Soloover chorus chords
+
+{Em}Oooooooooh, we've got to {C}hold {D}on, {Em}ready or {D}not
+You {C}live for the fight when it's {D}all that you've got.
+
+{Bb}Woo - {Eb}oooo, we're {Fsus4}half way {F}there
+{Bb}Woo  - {Eb}oooo, {F7sus4}livin' on a prayer
+{Gm}Take my {Eb}hand and we'll {F}make it I swear
+{Bb}Woo - {Eb}oo, {F7sus4}living on a prayer
+
+[title] Making Plans for Nigel
+[credit] XTC
+
+{G}    We're only {Em}making plans for {Bm}Nigel
+(Ah - hoo - oo!)
+{G}    We only {Em}want what's best for {Bm}him
+(Ah - hoo - oo!)
+{G}    We're only {Em}making plans for {Bm}Nigel
+(Ah - hoo - oo!)
+{G}    Nigel just {Em}needs that helping {Bm}hand
+(Ah - hoo - oo!)
+
+[structure] Chorus:
+{Am7}    And if young Nigel says he's {G5}happy
+he must be {Fadd9}happy, he must be {Em7}happy
+he must be happy in his {D  Dsus4  D(b5)  D5}work
+ 
+We're only making plans for Nigel
+(Ah - hoo - oo!)
+He has his future in British Steel
+(Ah - hoo - oo!)
+We're only making plans for Nigel
+(Ah - hoo - oo!)
+Nigel's whole future is as good as sealed
+ 
+[structure] Repeat Chorus
+
+{E}   Nigel is not outspoken
+but he {F}likes to speak
+And he {C}loves to be spoken {G}to
+({G}In his {F}work!)   Nigel is {Em}happy in his {G}work,
+({G}In his {F}work!)   Nigel is {Em}happy in his {G}work
+(His world!)
+ 
+[structure] Repeat Verse 1 & Chorus
+
+[title] MOON RIVER
+[credit] HENRY MANCINI AND JOHNNY MERCER
+{C}Moon {Am}River, {F}wider than a {C/E}mile
+I’m {F}crossing you in {C/E}style some {Bø7}day     {E7}
+Old {Am}dream {C7/A}maker, you {F}heart {Bb9#11}breaker,
+Wher – {Am}ev - {Am/G}er you’re {F#ø7}go   -   {B7}ing, I’m {Em7}go - {A7}ing your {Dm7}way  {G9}
+
+{C}Two {Am}drifters {F}off to see the {C/E}world
+There’s {F}such a lot of {C/E}world to {Bø7}see    {E7}
+We’re {Am}af - {Am/G}ter the {F#ø7}same    {F13}rainbow’s {C/E}end  {F}
+Waiting round the {C/E}bend {F}
+My huckleberry {C/E}friend
+{Am}Moon {Dm7}River {G9}and {Abmaj7}me      {Dbmaj7        C}
+
+[title] My Cherie Amour (somewhat simplified)
+[credit] Stevie Wonder
+
+{G#7}La la, {F#maj7}la la la   {Bmaj7}la, la la, {F#maj7}la la la la {C#maj7}la
+ 
+{G#7}My  Che{C#maj7}rie Amour
+{F#sus4}Lovely as a summer's {D#m7  G#}day
+My Che{C#maj7}rie Amour
+{F#sus4}Distant as the Milky {D#m7  G#}Way
+My Che{F#maj7}rie Amour
+{D#m7}Pretty little one that {A#7}I adore
+{D#7}You're the only girl my {F#maj7}heart beats for
+{G#7}  How I wish you were {C#maj7}mine
+ 
+In a cafe or sometimes on a crowded street
+I've been near you, but you never notice me
+My Cherie Amour
+Won't you tell me how could you ignore
+That behind that little smile I wore
+How I wish that you were mine
+ 
+{A7}Maybe {Dmaj7}someday
+You'll {Gsus4}see my face among the {Em7}crowd{A}
+Maybe {Dmaj7}someday I'll
+{Gsus4}Share your little distant {Em7}cloud{A}
+My Che{Gmaj7}rie Amour
+{Em7}Pretty little one that {B7}I adore
+{E7}You're the only girl my {Gmaj7}heart beats for
+{A7}  How I wish you were {Dmaj7}mine
+ 
+{A7}La la, {Gmaj7}la la la {Cmja7}la, la la, {Gmaj7}la la la la {Dmaj7}la
+
+[title] My Favorite Things
+[credit] Richard Rogers
+
+{Em}Raindrops on roses and whiskers on kittens
+{Cmaj7}Bright copper kettles and warm woolen mittens
+{Am7}Brown paper {D7}packages {G}tied up with {C}string
+{G}These are a {C}few of my {F#m7b5}favorite  {B7}things
+
+Cream colored ponies and crisp apple strudels
+Door bells and sleigh bells and schnitzel with noodles
+Wild geese that fly with the moon on their wings
+These are a few of my favorite things
+
+{E}Girls in white dresses with blue satin sashes
+{A}Snowflakes that stay on my nose and eyelashes
+{Am7}Silver white {D7}winters that {G}melt into {C}springs
+{G}These are a {C}few of my {F#m7b5}favorite  {B7}things
+
+{Em} When the dog bites, {F#m7b5} when the {B7}bee stings
+{Em} When I'm feeling {C}sad
+I simply re{A7}member my {G}favorite {C}things
+And {Am}then I don't {D7}feel so {G}bad
+
+[title] Reminiscing
+[credit] Little River Band
+
+{D}
+
+{Gmaj7}Friday night, it was late
+I was walking you home We got down to the gate
+And I was {C13#11}dreaming of the night
+{B9}Would it turn out right
+How to {Gmaj7}tell you girl
+I want to {C13#11}build my world around you
+{B9}Tell you that it's true
+{Gmaj7}      I want to make you understand
+I'm {Bb9}talkin' about a lifetime {D}plan{ Em7/D       D}
+
+That's the way it began, we were hand in hand
+Glenn Miller's Band was better than before
+We yelled and screamed for more
+And the Porter tunes (Night and Day)
+Made us dance across the room
+It ended all too soon
+And on the way back home
+I promised you'd never be alone
+
+{Gmaj7}Hurry, don't be late, {C13/G}I can hardly wait
+I {B9}said to myself when we're old
+We'll go {Gmaj7}dancing in the dark
+{Bb9}Walking through the park
+And remi{D}niscing{ Em7/D       D}
+
+Friday night, it was late
+I was walking you home
+We got down to the gate
+And I was dreaming of the night
+Would it turn out right
+Now as the years roll on
+Each time we hear our favorite song
+The memories come along
+Older times we're missing
+Spending the hours reminiscing
+
+[structure] Repeat Chorus
+
+[title] Rhiannon
+[credit] Fleetwood Mac
+
+{Am  F x2}
+ 
+Rhi{Am}annon rings like a bell through the night
+And {F}wouldn't you love to love her?
+{Am}Takes to the sky like a bird in flight
+And {F}who will be her lover?
+ 
+{C}  All your life you've never seen a woman{ F}
+Taken by the wind
+{C}  Would you stay if she promised you heaven
+{F}  Will you ever win?
+ 
+She is like a cat in the dark
+And then she is the darkness
+She rules her life like a fine skylark
+When the sky is starless
+ 
+All your life you've never seen a woman
+Taken by the wind
+Would you stay if she promised you heaven
+Will you ever win? Will you ever win?
+ 
+Rhi{F}an{Am}non, Rhi{F}an{Am}non, Rhi{F}an{Am}non, Rhi{F}an{Am}non
+ 
+She rings like a bell through the night,
+and wouldn't you love to love her?
+She rules her life like a bird in flight,
+and who will be her lover?
+ 
+All your life you've never seen a woman;
+Taken by the wind
+Would you stay if she promised you heaven;
+Will you ever win? Will you ever win?
+ 
+Rhiannon, Rhiannon, Rhiannon, Rhiannon
+ 
+Taken by, taken by the sky x3
+ 
+Dreams unwind and love's a state of mind x2
+
+[title] SHE’S GOT A WAY
+[credit] Billy Joel
+{C}She's got a {G/B}way a{Am}bout her {C7/G}
+I {F}don't know what it is
+But I {G}know that {F/A}I can't {G/B}live with{G}out her
+{C}She's got a {G/B}way of {Am}pleasing {C7/G}
+I {F}don't know what it is
+But there {G}doesn't {F/A}have to {G/B}be a {G}reason
+{Ab}Anyway {Bbsus2        C}
+
+She's got a smile that heals me
+I don't know why it is
+But I have to laugh when she reveals me
+She's got a way of talkin'
+I don't know what it is
+But it lifts me up when we are walkin'
+Anywhere
+
+She {G}comes to me when I'm {Dm}feelin' down
+In{C}spires me with{Cm}out a sound
+She {G}touches me and {B7}I get turned a{Em}round {G7}
+
+She's got a way of showin'
+How I make her feel
+And I find the strength to keep on goin'
+She's got a light around her
+And everywhere she goes
+A million dreams of love surround her
+Everywhere
+
+She comes to me when I'm feelin' down
+Inspires me without a sound
+She touches me and I get turned around
+
+She's got a smile that heals me
+I don't know why it is
+But I have to laugh when she reveals me
+She's got a way about her
+I don't know what it is
+But I know that I can't live without her
+Anyway
+
+[title] She's Not There
+[credit] The Zombies
+
+{Am  D  Am  D  x2}
+ 
+{Am}   Well, no one {D}told me a{Am7}bout {D}her{Am},
+the {F}way she {Am}lied{ D}
+{Am}   Well, no one {D}told me a{Am7}bout {D}her{Am},
+how many {F}people {A}cried
+ 
+[structure] Chorus:
+But it's too {D}late to {Dm}say you're {Am}sorry
+How would I {Em}know, why should I {Am}care?
+Please don't {D}bother {Dm}tryin' to {C}find her
+She's not {E7}there
+Well, let me tell you 'bout the {Am}way she {D}looked
+The way she'd {Am}acted and the {F}color of her {Am}hair{ D}
+Her voice was {Am}soft and {F}cool
+Her eyes were {Am}clear and {D}bright
+But she's not {A}there
+ 
+Well, no one told me about her
+What could I do?
+Well, no one told me about her
+Though they all knew
+ 
+[structure] Repeat Chorus
+
+[title] Southern Cross
+[credit] Stephen Stills
+Got out of {A}town on a {G}boat going to southern {D}islands
+Sailing a {A}reach be{G}fore a following {D}sea  {A}
+She was {A}making for the {G}trades on the {D}outside
+And the {A}downhill {G}run   to Pape{D}’ete{A}
+
+Off the {A}wind on this {G}heading lie the Mar{D}quesas
+{A}We got eighty feet of the {G}waterline {D}nicely making {A}way
+In a {A}noisy bar in {G}Avalon I tried to {D}call you
+But on a {A}midnight watch I {G}realized why {D}twice you ran a{A}way
+
+Think about  {G}
+Think about how {D}many times {G}I have {A}fallen  {G}
+Spirits are {D}using me {G}larger voices {A}calling  {G}
+What heaven brought {D}you and me {G}cannot {Bm}be for{A}gotten
+
+I have been a{D}rou - {G}ound the {A}world
+{D}Looking for that {G}woman {A}girl
+Who {D}knows love {G}can en{A}dure
+And you know it will {A   G   D}
+And you know it will {A   G   D   A}
+
+When you {A}see the Southern {G}Cross for the {D}first time
+You {A}understand now {G}why you came this {D}way
+Cause the {A}truth you might be {G}running from is {D}so small
+But it’s as {A}big as the {G}promise
+The {D}promise of a {Bm}coming {A}day
+ 
+So I’m sailing for tommorrow, my dreams are a-dying
+And my love is an anchor tied to you
+Tied with a silver chain
+I have my ship and all her flags are a-flying
+She is all that I have left
+And music is her name
+
+[structure] (Repeat chorus)
+
+So we cheated and we lied and we tested
+And we never failed to fail
+It was the easiest thing to do
+You will survive being bested
+Somebody fine will come along
+Make me forget about losing you
+
+In the Southern Cross
+
+[title] STOP DRAGGIN’ MY HEART AROUND
+[credit] TOM PETTY 
+[structure] A  Asus4  A  Asus2  Asus4  A  Asus2  A
+[structure] Cadd9 G/B   Cadd9
+[structure] Em  G  A  Em  G  A  Em  G  A  Em  G  A 
+
+Baby, {Em}you come knocking on {G}my front {A}door
+{Em}Same old line you used to {G}use be{A}fore
+And {Em}I said yeah, well, {G}what am I supposed to {A}do?
+{Em}I didn't know what I was {G}getting in{A}to
+{C}  So you've had a little {D}trouble in town
+{C}  Now you're keeping some {D}demons down
+{C}  Stop draggin' my,{D}  stop draggin' my,{Cadd9}  stop {G/B}  draggin' {Cadd9}my heart around
+{Em  G  A  Em  G  A}
+
+It's hard to think about what you've wanted
+It's hard to think about what you'd lost
+This doesn't have to be the big get even
+This doesn't have to be anything at all
+I know you really want to tell me good-bye
+I know you really want to be your own girl
+Baby, you could never look me in the eye
+Yeah, you buckle with the weight of the world
+Stop draggin' my, stop draggin' my, stop draggin' my heart around
+
+{Em  G  A}
+{( D  Dsus4  D  Cadd9  G/B ) x3}
+{A  Asus4  A  Asus2  Asus4  A  Asus2  A}
+{Cadd9  G/B  Cadd9}
+{Em  G  A  Em  G  A}
+
+People running 'round loose in the world
+Ain't got nothing better to do
+Make a meal of some bright eyed kid
+You need someone looking after you
+I know you really want to tell me good-bye
+I know you really want to be your own girl
+Baby, you could never look me in the eye
+Yeah, you buckle with the weight of the world
+Stop draggin' my, stop draggin' my, stop draggin' my heart around
+
+[title] Teardrop
+[credit] Massive Attack and Elizabeth Fraser
+
+<i>Ostinato riff is ||:_aeadade:||</i>
+{A}Love, love is a verb
+{G}Love is a doing word
+{D}Fearless on my {A}breath
+{A}Gentle impulsion
+{G}Shakes me, makes me lighter
+{D}Fearless on my {A}breath
+
+{F}Teardrop on the fire
+{G}Fearless on my {A}breath{  A}
+
+{A}Night, night of matter
+{G}Black flowers blossom
+{D}Fearless on my {A}breath
+
+{F}Black flowers blossom
+{G}Fearless on my {A}breath{  F}
+{D}Teardrop on the fire
+{G}Fearless on my {A}...{  A}
+
+{A}Water is my eye
+{G}Most faithful mirror
+{D}Fearless on my {A}breath
+{A}Teardrop on the fire
+{G}Of a confession
+{D}Fearless on my {A}breath
+
+{F}Most faithful mirror
+{G}Fearless on my {A}breath
+{F}Teardrop on the fire
+{G}Fearless on my {NC}breath{  A  F  G  A  F  G  A}
+
+You're {F}stumbling in the dark{  G}
+You're stumbling in the {NC}dark
+
+[title] The Gambler
+[credit] Kenny Rogers
+On a {E}warm summer's evenin' on a {A/E}train bound for {E}nowhere,
+I met up with a gambler; we were both too tired to {B}sleep.
+So {E}we took turns a starin' out the {A/E}window at the {E}darkness
+'til {A/E}boredom overtook {E}us, {B}and he began to {E}speak.
+
+He said, "{E}Son, I've made a life out of {A/E}readin' people's {E}faces,
+and knowin' what their cards were by the way they held their {B}eyes.
+And if {E}you don't mind my sayin', I can {A/E}see you're out of {E}aces.
+For a {A/E}taste of your {E}whiskey I'll {B}give you some {E}advice."
+
+So I {E}handed him my bottle and he {A}drank down my last {E}swallow.
+Then he bummed a cigarette and asked me for a {B}light.
+And the {E}night got deathly quiet, and his {A}face lost all expr{E}ession.
+Said, "If you're {A}gonna play the game, {E}boy, ya gotta {B}learn to play it {E}right.
+
+You got to {E}know when to hold 'em,{A} know when to {E}fold 'em,
+{A}know when to {E}walk away and know when to {B}run.
+You never {E}count {F#m/B}your   {E}money when you're {A}sittin' at the {E}table.
+There'll be {A}time enough for {E}countin' {B} when the dealin's {E}done.
+
+{F}Every gambler knows that the {Bb}secret to sur{F}vivin'
+is knowin' what to throw away and knowing what to {C}keep.
+'Cause {F}every hand's a winner and {Bb}every hand's a {F}loser,
+and the {Bb}best that you can {F}hope for is to {C}die in your {F}sleep."
+
+And {F}when he'd finished speakin', he {Bb}turned back towards the {F}window,
+crushed out his cigarette and faded off to {C}sleep.
+And {F}somewhere in the darkness the {Bb}gambler, he broke {F}even.
+But {Bb}in his final {F}words I found an {C}ace that I could {F}keep.
+
+You got to {F}know when to hold 'em,{Bb} know when to {F}fold 'em,
+{Bb}know when to {F}walk away and know when to {C}run.
+You never {F}count {Gm/C}your {F}money when you're {Bb}sittin' at the {F}table.
+There'll be time {Bb}enough for {F}countin' {C}when the dealin's {F}done.
+
+[title] Thomas the Rhymer
+[credit] Steeleye Span 
+[structure] Intro: Gm  F  C  F  Gm  F  C  F
+
+{Gm}True Thomas {F}sat on {Bb}Huntley {F}bank
+{Bb}And he be{D}held a {C}lady gay  {(NC)}
+{Gm}A lady {F}that was {Bb}brisk and {F}bold
+{Bb}Come {Am}riding {F}o'er the {D}ferny {C}brae
+
+Her skirt was of the grass green silk,
+Her mantle of the velvet fine
+At every lock of her horse's mane
+Hung fifty silver bells and nine
+
+True Thomas, he pulled off his cap
+And bowed him low down to his knee
+“All hail, thou mighty Queen of Heaven
+Your like on earth I ne'er did see.”
+
+[structure] Pre-chorus:
+“{A5}No, {C5}no, {D5    A5}Thomas,” she {C5}said{D5},
+“{A5}That name {B5}does {E5}not be{G5}long {E5}to  {A5}me  {etc.}
+I am the queen of fair Elfland
+And I have come to visit thee.”
+“You must go with me, Thomas,” she said,
+“True Thomas, you must go with me
+And must serve me seven years
+Through well or woe, as chance may be.”
+
+[structure] Chorus (x3):
+{A}Hark {D}and {A}carp, come a{D}long with {A}me,
+Thomas {D}the {A}Rhymer  {D   G   D}
+
+She turned about her milk white steed
+And they rode faster than the wind
+Until they came to a desert wide
+And living land was left behind
+
+For forty days and forty nights
+They rode through red blood to the knee
+And they saw neither sun nor moon
+But heard the roaring of the sea
+
+[structure] Pre-chorus:
+“Don't you see yon narrow, narrow road
+So thick beset with thorns and briars?
+That is the road to righteousness
+Though after it but few enquire.”
+
+“Don't you see yon broad, broad road
+That lies across the lily leaven?
+That is the road to wickedness
+Though some call it the road to heaven.”
+
+“Don't you see yon bonny, Boone road
+That lies across the ferny brae?
+That is the road to fair Elfland
+Where you and I this night must go.”
+
+[structure] Repeat Chorus
+
+[title] U.F.O.F.  (transposed)
+[credit] Big Thief
+
+{Dm}   To my UFO fr{Bb}iend
+{C}Goodbye, good{Bb}bye
+Like a {Am}seed in the {G}wind
+She's t{A}aking up root in the{Bm} sky
+See her flickering{ G}
+Her s{A}ystem won't even{Bm} try
+To d{G}efend and {A}ripen
+In the radio {Bm}action
+ 
+{Dm}She'll never return a{Bb}gain
+Polar{C}ize, polar{Bb}ize
+The {Am}seasons will {G}bend
+There will {A}soon be proof
+That there {Bm}is no {G}alien
+Just a s{A}ystem of truth and{Bm} lies
+The {G}reason, the {A}language
+And the law of {Bm}attraction
+ 
+[structure] Chorus:
+Just like a {A}bad dream
+You'll disappear{ G}
+Another {A}map turns {Bm}blue
+Mirror {G}on mirror
+And I i{A}magine you
+{D}Taking me {C}outta {Bb}here
+To {G}deepen our {A}love
+It isn't even a {Bm}fraction
+ 
+{Dm}Switch to another lens{ Bb}
+The {C}last sun{D}light
+I don't {Am}need any other friends{ G}
+The {A}best kiss I ever {Bm}had
+Is the flickering{ G}
+Of the {A}water so clear and {Bm}bright
+To {G}leap in, my {A}skin
+And I could feel the {Bm}reaction
+ 
+[structure] Repeat Chorus
+ 
+[title] White Valiant
+[credit] The Muttonbirds
+{A  C  x4}
+{D }You're from the family that moved {C}in up the valley
+It's {D}lucky I picked you up and not somebody {C}else
+We'll {D}have to turn inland, there's been a landslide at the {C}quarry
+Though I {D}say it myself, you couldn't have {C}better help
+If you {Em}found yourself losing your way though here{ D}
+[structure] Chorus:
+You can still see the {A}moon
+Though it's the middle of the morning{ C}
+You can {A}smell the clay{ C}
+{A}Like I said, you can count yourself lucky{ C}
+{A}Not many people know this way{ C}
+
+Let's turn off for a minute, I've seen something, let's take a look now
+Hold on tight, this stretch has needed fixing for years
+Over there, I knew it, I can read these roads like a book now
+If you drive them every day...
+In the last half hour, a lot of cars have been through here
+[structure] Repeat chorus
+
+{G}Here we are
+On that hill over {A}there
+See all the {C}cars parked in the field
+And the {D}crowd walking down the fence{Em}line{ C  Em  C}
+[structure] Repeat chorus
+Remember where we left the car
+Remember where we left the car
+Remember it's a white valiant
+Remember it's a white valiant
+ 
+[title]Your Hours are Numbered
+[credit]David Bulger
+<i>Note: this tune is a work in progress</i>
+
+{Am} Oh {D}Daylight {Am/E}Sa  -  {Am}vings, I'll {G}miss {D}you {G}when {C}you {Am}die{ D  Am/E  Am  C  G  D}
+{Am} Though every{D}body {Am/E}hates {Am}you, and I    {G}kin{D}da {G}get{ C}     {Am}why{ D  Am/E  Am  C  G  D}
+{Bm} Your bene{Em}fits are {Bm/F#}all      {Bm}too{ Em}       {Bm/F#}ea   -   {Bm}sy   {Em}to    {C}for{Bm/F#}get{       Bm  E7}
+{Am} But we all {D}whine and {Am/E}moan {Am}at the cir{G}ca{D}di{G}an {C}re{Am}set{  D  E7}
+
+You made a lot of sense when factories were new
+And train timetables, classrooms, and office buildings too
+But nowadays it's flexitime, we're post-industrialised
+It's time the whole idea was re-analysed{ end on G7 instead of E7}
+
+[structure]CHORUS:
+{F  G  C  G  C  F  G  E7}
+When {Am}dark times were u{D}pon us, you {B}knew just {G}what to {E7}do
+{Am}You saved the {D}daylight, but now can {B}anyone {G}save {A}you?
+
+The numbers are in, you do more harm than good
+The health effects of broken sleep are well understood
+The farmers never liked you, and now they'll get their way
+The cows don't check their watches before they eat their hay
+
+[structure]REPEAT CHORUS
+
+[structure]BRIDGE:
+Some {Dm}say, it's just the back and forth that {G}really grinds a gear,
+So let's {C}keep the clocks set forward every {A7}day of the year!
+Well, a {Dm}country called Nitwitia tried that {G7}many years ago
+When {Cm}really it was 8, their clocks said {F7}9, & to work they'd go.
+The {Bb}earlybirds, they loved it, but others {Dm}disagreed with them
+And per{Gm}suaded all the bosses that work should {F}start at 10 AM
+Now {Bb}everything was back to how it {Dm}had been on Day One
+But {Gm}folks AGAIN complained of missing {C7}out on summer sun
+So {F}now they chose to set clocks FURTHER {G}forward half the days,
+And {C}this went round and round; changing time became a craze
+{F}Now they go to work, like us, when the {G}sun is in the east,
+But they {E7}call it 4pm. That's what I've heard, at least.
+
+You were a crazy plan, to change the way we work and play
+A collective reimagining of how we use the day
+You showed us change is possible; it really can be done
+I'm glad we tried it; I'm glad you had your day in the sun
+[comment] [IF FINISH HERE] I'm glad we tried; I'm glad you had your day in {C (fade out)}the sun
+
+[structure]REPEAT CHORUS
+
+
+[title] The Hazards of Love (album, in track order)
+[credit] The Decemberists
+
+[title] The Hazards of Love 1 (The Prettiest Whistles Won't Wrestle the Thistles Undone)
+{D}My true love went riding out in {G}white and {F}green {D}grey
+Past the pale of Arthur's wall, where {G}she was {F}wont to {D}stray
+And {G}there she {F}came u{D}pon a {G}white and {F}wounded {D}fawn
+
+[structure] CHORUS:
+Singing {F} Oh {Em}oh, the {F}hazards {D}of love
+
+{D}She being full of charity, a {G}credit {F}to her {D}sex
+Sought to right the fawn's hind legs, when {G}here her {F}plans were {D}vexed
+The {G}Taiga {F}shifted {D}strange, the {G}beast be{F}gan to {D}change
+
+[structure] REPEAT CHORUS x2
+
+You'll {F}learn soon {D}enough
+The {F}prettiest {D}whistles won't {F}wrestle the {D}thistles u{G}ndone, un{D}done
+
+Fifteen lissome maidens lay, a{G}long {F}in their {D}bower
+Fourteen occupations paid, to {G}pass the {F}idle {D}hour
+{G}Margaret {F}heaves a{D} sigh, her {G}hands clasped {F}to her {D}thighs
+
+[structure] REPEAT CHORUS x2
+
+You'll {F}learn soon {D}enough
+The {F}prettiest {D}whistles won't {F}wrestle the {D}thistles u{G}ndone,{D} undone
+Undone, undone, undone
+
+[title] A Bower Scene
+{D  F}  Thou unconsolable daughter {G}  said the sister{ D}
+
+{F}  When wilt thou trouble the water {G}  in the cistern{ D}
+
+{Bb}   And what irascible black Bart {C} is the father{ d d g d d a d d g d d a (single notes)}
+
+{D  F}  And when young Margret's waistline {G}  grew wider{ D}
+
+{F}  The fruit of her amorous entwine {G}  inside her{ D}
+
+{Bb}   And so our heroine withdraws {C}  to the Taiga{ d d g d d a d d g d d a}
+ 
+[title] Won't Want for Love (Margaret in the Taiga)
+[structure] INTRO:  D blues riff x2, D Dorian riff x2
+{D}Gentle leaves, gentle leaves, {F}please array a {G}path for me
+The {F}wood's all growing {G}thick and fast a{[D Dorian riff x1/2]}round
+{D}Columbine, columbine, {F}please alert this {G}love of mine
+
+{F}Let him know his {G}Margaret comes a{[D Dorian riff x1]}long
+
+[structure] CHORUS:
+And all {F}  this stir {G}- ring inside {F}  my bel {G}- ly won't quell {F}  my want {G}  for love{ [DDRx1/2]}
+And I {F}  may swoon {G}  from all {F}  this swel {G}- ling but I {F}  won't want {G}  for love{ [DDRx2]}
+
+{D}Mistle thrush, mistle thrush, {F}lay me down in the {G}underbrush
+My {F}naked feet grow {G}weary with the dusk{ [DDRx1/2]}
+{D}Willow boughs, willow boughs, {F}make a bed to {G}lay me down
+{F}Let your branches {G}bow to cradle us{ [DDRx1]}
+
+[structure] REPEAT CHORUS
+
+{F}  Oh my own true love, {F}  oh my own true love,{D  F}  Can you hear me love? {F}  Can you hear me love?{ D}
+
+[structure] SHORTENED INTRO:  D blues riff x2, D Dorian riff x1
+[structure] REPEAT CHORUS
+[structure] D Dorian riff x2
+Won't want for love [REPEAT TO END]
+
+[title] The Hazards of Love 2 (Wager All)
+
+And {D5}here I {D(b5)}am,     {D4}softer than a {D3}show{&c.}er
+And here I am,    to garland you with flowers
+
+[structure] PRE-CHORUS:
+To {C}lay you {G}down, in clover bed, {D}  the {C}stars a {G}roof above our {D}heads
+
+And all my life,   I never felt a tremor
+And all my life,    that now disturbs my fingers
+
+[structure] REPEAT PRE-CHORUS
+
+[structure] CHORUS:
+And {C}we'll {G}lie 'till the Corn Crake {D}  crows
+Be{C}reft of the {G}weight of our summer {D}clothes{ D/C#}
+And {Bm}I'd  {A}wager {G}all, {Em}  the hazards of {D}love, {G}  the hazards of {D}love
+
+{C G D x2}   And take my hand, and cradle it in your hand
+And take my hand to feel the pull of quicksand
+
+[structure] REPEAT PRE-CHORUS AND CHORUS
+
+{G}  The hazards of {D}love, {G}  the hazards of {D}love, oh
+ 
+[title] Isn't it a Lovely Night?
+{G}  Isn't it a lovely night? And so alive with fireflies providing us their holy light{  Gadd#11 G}
+  And here we made our bed of boughs and thistledown that we had found to lay upon the dewy ground
+
+[structure] CHORUS:
+And isn't it a lovely {D}way, {D7}   we got in from our {Em}play
+
+{A}  Isn't it babe? {G  Ga#11      A}  A sweet little {G}baby
+
+And wasn't it a lovely breeze that swept the leaves of arbor eaves and bent to brush our blushing knees
+And here we died our little deaths and we were left to catch our breath so swiftly lifting from our chests
+
+[structure] REPEAT CHORUS
+[title] The Wanting Comes in Waves
+{Dm C Dm C Dm C Bb}
+Mother I can hear your {Dm}footfall {C}now, soft disturbance in the {Dm}dead fall, {C}how
+It precedes you like a {Dm}black smoke {C}pall, still the wanting comes in {Bb}waves
+And you delivered me from {Dm}danger, {C}then pulled my cradle from the {Dm}reedy {C}glen
+Swore to save me from the {Dm}world of {C}men, still the wanting comes in {Bb}waves, in {Bm}waves
+
+[structure] CHORUS:
+And {F}waves {Am}oo  -  {Bb}oo
+And the wanting comes in {F}waves {Am}oo  -  {Bb}oo  x2
+
+And I {Gm}want this night, and I {Bbm}want this night, oh
+
+{G  Bb  C  x4}
+{G}Ohh I made you, I {D}wrought you, I {C}pulled you, from {G}war I laboured you, from {D}cancer I {C}cradled you
+And {G}now{  [G blues riff x2]}
+{Bb}This is how I {C}am re{G}paid, {[G blues riff x1]                  Bb}this is how I {C}am re{G}paid{  Bb   C  G  Bb   C}
+Re{G}member, when I found you, the {D}miseries that {C}hounded you, and {G}I gave you motion, a{D}nointed you with {C}lotions
+
+And {G}now, {[G blues riff x2]                  Bb}this is how I {C}am re{G}paid, {[G blues riff x1]                  Bb}this is how I {C}am re{A}paid
+
+Mo-ther, hear this propo{Dm}sition {C}right, grant me freedom to en{Dm}joy this {C}night
+And I'll return to you at {Dm}break of {C}light, still the wanting comes in {Bb}waves, in {Bm}waves
+
+[structure] REPEAT CHORUS
+
+And you {Gm}owe me life, and you {Bbm}owe me life, oh
+
+{G  Bb  C  x2}
+And {G}if I grant you this {D}favor, to {C}hand you your {G}life for the evening I will {D}retake by {C}morning
+
+And {G}so{  [G blues riff x2]}
+Con{Bb}sider it your {C}debt re{G}paid,{[G blues riff x1]}                   con{Bb}sider it your {C}debt re{G}paid, {Bb   C}re - {G}paid, {Bb   C}re - {G}paid
+{Bb  C  G  Bb  C  D }
+
+[title] The Rake's Song
+
+{(G  Em) x4}
+{G}  I had {Em}entered {G}into a {Em}marriage {G}  in the {Em}summer of my {G}twenty-first {Em}year
+{G}  And the {Em}bells rang {G}for our {Em}wedding; {G}  only {Em}now do I re{G}member it {Em}clear
+
+[structure] ALRIGHT:
+Al{Am}right, al{C}right, alright{  G  Em   G  Em}
+
+{G}No more a {Em}rake and {G}no more a {Em}bachelor, {G}  I was {Em}wedded and it {G}whetted my {Em}thirst
+{G}Until her {Em}womb start {G}spilling out {Em}babies; {G}  only {Em}then did I {G}reckon my {Em}curse
+
+[structure] ALRIGHT x2  +  [G Em] x2
+
+{G}First came I{Em}saiah with his {G}crinkled little {Em}fingers, {G}  then came {Em}Charlotte and that {G}wretched girl {Em}Dawn
+{G}Ugly My{Em}fanwy {G}died on de{Em}livery, {G}  mercifully {Em}taking her {G}mother a{Em}long
+
+[structure] ALRIGHT x1
+
+{G}What can one {Em}do when {G}one is {Em}widower, {G}  shamefully {Em}saddled with {G}three little {Em}pests
+{G}All that I {Em}wanted was the {G}freedom of a {Em}new life, {G}  so my {Em}burden I be{G}gan to di{Em}vest
+
+[structure] ALRIGHT x2  +  [G Em] x2
+
+{G}Charlotte I {Em}buried after {G}feeding her {Em}foxglove; {G}  Dawn was {Em}easy, she was {G}drowned in the {Em}bath
+{G}Isaiah {Em}fought but was {G}easily {Em}bested; {G}  burned his {Em}body for in{G}curring my {Em}wrath
+
+[structure] ALRIGHT x1
+
+And {G}that's how I {Em}came your {G}humble nar{Em}rator, {G}  to be {Em}living so {G}easy and {Em}free
+Ex{G}pect that you {Em}think that {G}I should be {Em}haunted, {G}  but it {Em}never really {G}bothers {Em}me
+
+[structure] ALRIGHT x2  +  [G Em] x2
+
+[title] The Abduction of Margaret
+
+{D  F}   And all the while whispering arbors {G}  provide cover{ D}
+{F}  What previous witnessed ardor {G}  of our lovers{ D}
+{Bb}   Our heroine here falls prey to {C}  her abductor{ d d g d d a d d g d d a (single notes)}
+{D  F}   All a'gallop with Margaret slung rude {G}  cross withers{ D}
+{F}  Having clamped her innocent fingers {G}  in fetters{ D}
+{Bb}   This villain must calculate crossing {C}  the wild river
+ 
+[title] The Queen's Rebuke/The Crossing
+(In this tune, lowercase is a single note, & uppercase is a power chord.)
+{d d g d d a x4}
+{d}I'{d}m {g d d a}made of {d}bones {d}of the {g}branches, the {d}boughs {d}and the {a}browbeating {d}light{ d g d d a}
+Oh, my {d}feet are {d}the {g}trunks and my {d}head is {d}the {a}canopy {d}high{ d g d d a}
+And my {d}fingers {d}ex{g}tend to the {D}leaves and the eaves and the {F}bright, brightest {G}shine, it's {F}my shine
+
+{D D G D D A x2}
+
+And he was a baby, abandoned entombed in a cradle of clay
+And I was the soul who took pity and stole him away
+And gave him the form of a fawn to inhabit by day, brightest day, it's my day
+
+{D D G D D A x6}
+
+And you have removed this temptation that's troubled my innocent child
+To abduct and abuse and to render her rift and defiled
+But the river is deep to the banks and the water is wild; I will fly you to the far side
+
+{[D D G D D A] x4  ;  [ [Dm7 F5 G5 F5 G5] x3, Am7 ] REPEAT MANY TIMES}
+
+[title] Annan Water
+{[Am  F  G  F  Em] x2}
+
+{Am}   Annan Wa {F}- ter, you {G}loom so deep and {F}wide,{Em   Am}   I would cross {F}over if {G}you would stem the {F}tide{ Em}
+{Am}   Or build a {F}boat that I might {G}ford the other {F}side{ Em}
+{Am}   To reach the {F}farther shore where {G}my true love {F}lies
+In {Em}wait for {F}me, {G}  in wait for {Am}me, {F}  in {Em}wait for {F}me, {G}  in wait for {Am}me
+
+Oh, great river, your waters ramble wild; the horses shiver and bite against the bridle
+But I will cross if mine own horse is pulled from me, though my mother cries that if I try I sure
+Will drowned be, will drowned be, will drowned be, will drowned be
+
+[structure] CHORUS:
+{A}  But if you {D}calm {Dm}   and let me {A}pass, {F#m}    you may {D}render me a {E}wreck when I come {A}back{ A7}
+So calm your {D}waves {Dm}   and slow the {A}churn, {Amaj7      F#m}    and you may {D}have my precious {E}bones on my re{Am}turn
+
+Annan water, oh hear my true love's call, hear her holler above your water's pall
+God, that I could that my two arms could give me wing
+And I would cross your breadth and rest my breast about
+Her amber ring, her amber ring, her amber ring, her amber ring
+
+[structure] REPEAT CHORUS [FINISH ON Dm INSTEAD OF Am]
+[title] Margaret In Captivity
+{D}I have snipped your wingspan, my {F}precious {G}captive {D}swan, here all clipped of kickstand, your {F}spirit {G}won't last {D}long
+
+Don't you lift a finger, don't you snap and jaw, limber limbs akimbo, rest till rubbing raw
+
+[structure] CHORUS:
+{F}  Oh my own true love! Oh my own true {D}love! {F}  Can you hear me, love? Can you hear me, {D}love?
+
+Don't hold out for rescue, none can hear your call till I have wrest and wrecked you, behind these fortress walls
+
+[structure] REPEAT CHORUS  ;  END WITH [F D] x2
+ 
+[title] The Hazards of Love 3 (Revenge!)
+{D}Father I'm not feeling well, the {G}flowers {F}me you {D}fed tasted spoiled for suddenly I {G}find that {F}I am {D}dead
+But {G}Father {F}don't you {D}fear; your {G}children {F}are all {D}here
+
+[structure] CHORUS:
+Singin {F}oh {Em}oh the {F}hazards of {D}love
+
+Father turn the water down; the basin's overflowed; the water covers everything, and me left all alone
+But Father, here in death, I have regained my breath
+
+[structure] REPEAT CHORUS
+
+Spare the rod, you spoil the child, but I prefer the lash
+My sisters, drowned and poisoned all, and me reduced to ash
+And buried in an urn, but Father I've returned
+
+[structure] REPEAT CHORUS
+[title] The Hazards of Love 4 (The Drowning)
+{G  Em}   Margaret arrayed the rocks around the hull before it was {G}sinking
+{Em}   A million stones, a million bones, a million holes within the {G}chinking
+{Am}   And painting rings around your {C}eyes these peppered holes so filled with {G}crying
+{Am}   A whisper weighed upon the {C}tattered down where you and I were {G}lying
+
+{Em}   Tell me now, tell me this, a forest's son, a river's {G}daughter
+{Em}   A willow on the willow wisp, our ghosts will wander all of the {G}water
+{Am}   So let's be married here to{C}day these rushing waves to bear our {G}witness
+{Am}   And we will lie like river {C}stones rolling only where it {G}takes us{ Em   D}
+
+[structure] CHORUS:
+But {C}I pulled you and {Am}I called you {G}here   ({Em}Didn't I, didn't {D}I, didn't I?)
+And {Am}I caught you and {C}I brought you {G}here  ({Em}Didn't I)
+These {D}hazards of {Am}love, {C}  never more will trouble {G}us
+
+{Em  G  Em  G  Am  C  G  Am  C  G}
+
+{Em}   Oh Margaret the lapping waves are licking quietly at our {G}ankles
+{Em}   Another bow another breath this brilliant chill is come for to {G}shackle
+{Am}   With this long last rush of {C}air let's speak our vows in sorry {G}whisper
+{Am}   And when the waves came crashing {C}down, he closed his eyes and softly {G}kissed her
+
+[structure] REPEAT CHORUS [DOUBLE LAST LINE]
+
+
+
+
+[title] === MALKWEED AND RUMSUCKLE REJECT LIST ===
+[credit] Probably not playing these ones
+
+[title] Cuckoo Bird
+[credit] Traditional American
+
+Gonna {G}build me a log cabin, on a mountain {F}so {G}high
+So I can see Willie, as he goes on by
+
+Oh the cuckoo is a pretty bird, she wobbles when she flies
+She never hollers cuckoo, 'Til the fourth day of July
+I've played cards in England, i've played cards in Spain
+I'll bet you ten dollars, i'll beat you next game
+Jack of diamonds, Jack of diamonds, i've known you from old
+Now you've robbed my poor pockets, of my silver and my gold
+
+I've played cards in England, i've played cards in Spain
+I'll bet you ten dollars, i beat you this game
+Oh the cuckoo is a pretty bird, she wobbles when she flies
+She never hollers cuckoo, 'Til the fourth day of July
+
+[title] Red River Valley
+[credit] Traditional American
+
+From this {Eb}valley they say you are going
+We will miss your bright eyes and sweet {Bb}smile
+For they {Eb}say you are taking the {Ab}sunshine
+That has {Bb}brightened our pathways a{Eb}while
+
+Come and sit by my side, if you love me
+Do not hasten to bid me adieu
+Just remember the Red River Valley
+And the boy who loved you so true
+
+For a long long time, my darlin', I've waiting
+For the sweet words you never would say
+But now everybody has told me
+That you are a-going away
+
+Then come sit by my side if you love me
+Do not hasten to bid me adieu
+Just remember the Red River valley
+And the boy that's loved you so true
+
+[title] I'll Fly Away
+[credit] Albert E. Brumley
+
+{G}Some bright morning when this life is over
+{C}I'll fly a{G}way
+To a land on God's celestial shore
+I'll, I'll fly away
+
+[structure] Chorus:
+I'll fly away, oh, glory
+{C}I'll fly a{G}way (in the morning)
+When I die, Hallelujah, bye and bye
+I'll {D} fly a{G}way
+
+When the troubles of this life are gone
+I'll fly away
+To a land on God's celestial shore
+I'll fly away
+
+[structure] Repeat chorus
+
+Like a bird from prison bars has flown
+I'll fly away
+To a land where no sorrows are known
+I'll fly away
+
+[structure] Repeat chorus
+
