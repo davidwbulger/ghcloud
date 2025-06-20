@@ -15,7 +15,7 @@
 [comment] 
 [comment] 
 
-[title] PRACTICE LIST APRIL 2025
+[title] PRACTICE LIST JUNE 2025
 
 [title] America
 [credit] (transposed from D to C)
@@ -44,6 +44,40 @@ And the {D}moon {C}rose {G}o-{Am7}ver   {G/B}an    {C}o-{G/B}open {Am7}field{ C/
 I'm {C}empty and {C/B}aching and {Am7}I don't know why
 {G}Counting the cars on the New Jersey Turnpike
 They've {D}all {G}come to {D}look for A{Cmaj7}meri - {C}ca   [x3]
+
+[title] Avalon
+[credit] Roxy Music
+
+[structure] Intro (4 bars of G)
+
+{F}  Now the {C}party's over
+{Bb}  I'm so {C}tired
+{F}  Then I {C}see you coming
+{Bb}  Out of {C}nowhere
+{F}  Much com{C}munication
+{Bb}  In a {C}motion
+{F}  Without {C}conversation
+{Bb}  Or a {C}notion
+
+{Ebadd9  Db  Csus4  C}  Ava{Ebadd9}lon  {Db  Csus4  G}
+
+When the samba takes you
+Out of nowhere
+And the background's fading
+Out of focus
+Yes, the picture's changing
+Every moment
+And your destination
+You don't know it
+
+Avalon
+
+When you bossa nova
+There's no holding
+Would you have me dancing
+Out of nowhere
+
+Avalon
 
 [title] Baker Street
 [credit] Gerry Rafferty
@@ -625,6 +659,92 @@ And the {F}rest of our {C}lives would've fared{G} well
 {C Em} But Raglan... {D Am C Em/B}
 
 {D} Way over the {Am}hill {C Em/B}  (x4)
+
+[title] Reminiscing
+[credit] Little River Band
+
+{D}
+
+{Gmaj7}Friday night, it was late
+I was walking you home We got down to the gate
+And I was {C13#11}dreaming of the night
+{B9}Would it turn out right
+How to {Gmaj7}tell you girl
+I want to {C13#11}build my world around you
+{B9}Tell you that it's true
+{Gmaj7}      I want to make you understand
+I'm {Bb9}talkin' about a lifetime {D}plan{ Em7/D       D}
+
+That's the way it began, we were hand in hand
+Glenn Miller's Band was better than before
+We yelled and screamed for more
+And the Porter tunes (Night and Day)
+Made us dance across the room
+It ended all too soon
+And on the way back home
+I promised you'd never be alone
+
+{Gmaj7}Hurry, don't be late, {C13/G}I can hardly wait
+I {B9}said to myself when we're old
+We'll go {Gmaj7}dancing in the dark
+{Bb9}Walking through the park
+And remi{D}niscing{ Em7/D       D}
+
+Friday night, it was late
+I was walking you home
+We got down to the gate
+And I was dreaming of the night
+Would it turn out right
+Now as the years roll on
+Each time we hear our favorite song
+The memories come along
+Older times we're missing
+Spending the hours reminiscing
+
+[structure] Repeat Chorus
+
+[title] Rhiannon
+[credit] Fleetwood Mac
+
+{Am  F x2}
+ 
+Rhi{Am}annon rings like a bell through the night
+And {F}wouldn't you love to love her?
+{Am}Takes to the sky like a bird in flight
+And {F}who will be her lover?
+ 
+{C}  All your life you've never seen a woman{ F}
+Taken by the wind
+{C}  Would you stay if she promised you heaven
+{F}  Will you ever win?
+ 
+She is like a cat in the dark
+And then she is the darkness
+She rules her life like a fine skylark
+When the sky is starless
+ 
+All your life you've never seen a woman
+Taken by the wind
+Would you stay if she promised you heaven
+Will you ever win? Will you ever win?
+ 
+Rhi{F}an{Am}non, Rhi{F}an{Am}non, Rhi{F}an{Am}non, Rhi{F}an{Am}non
+ 
+She rings like a bell through the night,
+and wouldn't you love to love her?
+She rules her life like a bird in flight,
+and who will be her lover?
+ 
+All your life you've never seen a woman;
+Taken by the wind
+Would you stay if she promised you heaven;
+Will you ever win? Will you ever win?
+ 
+Rhiannon, Rhiannon, Rhiannon, Rhiannon
+ 
+Taken by, taken by the sky x3
+ 
+Dreams unwind and love's a state of mind x2
 
 [title] Ride Like the Wind
 [credit] Christopher Cross
@@ -2815,92 +2935,6 @@ These are a few of my favorite things
 {Em} When I'm feeling {C}sad
 I simply re{A7}member my {G}favorite {C}things
 And {Am}then I don't {D7}feel so {G}bad
-
-[title] Reminiscing
-[credit] Little River Band
-
-{D}
-
-{Gmaj7}Friday night, it was late
-I was walking you home We got down to the gate
-And I was {C13#11}dreaming of the night
-{B9}Would it turn out right
-How to {Gmaj7}tell you girl
-I want to {C13#11}build my world around you
-{B9}Tell you that it's true
-{Gmaj7}      I want to make you understand
-I'm {Bb9}talkin' about a lifetime {D}plan{ Em7/D       D}
-
-That's the way it began, we were hand in hand
-Glenn Miller's Band was better than before
-We yelled and screamed for more
-And the Porter tunes (Night and Day)
-Made us dance across the room
-It ended all too soon
-And on the way back home
-I promised you'd never be alone
-
-{Gmaj7}Hurry, don't be late, {C13/G}I can hardly wait
-I {B9}said to myself when we're old
-We'll go {Gmaj7}dancing in the dark
-{Bb9}Walking through the park
-And remi{D}niscing{ Em7/D       D}
-
-Friday night, it was late
-I was walking you home
-We got down to the gate
-And I was dreaming of the night
-Would it turn out right
-Now as the years roll on
-Each time we hear our favorite song
-The memories come along
-Older times we're missing
-Spending the hours reminiscing
-
-[structure] Repeat Chorus
-
-[title] Rhiannon
-[credit] Fleetwood Mac
-
-{Am  F x2}
- 
-Rhi{Am}annon rings like a bell through the night
-And {F}wouldn't you love to love her?
-{Am}Takes to the sky like a bird in flight
-And {F}who will be her lover?
- 
-{C}  All your life you've never seen a woman{ F}
-Taken by the wind
-{C}  Would you stay if she promised you heaven
-{F}  Will you ever win?
- 
-She is like a cat in the dark
-And then she is the darkness
-She rules her life like a fine skylark
-When the sky is starless
- 
-All your life you've never seen a woman
-Taken by the wind
-Would you stay if she promised you heaven
-Will you ever win? Will you ever win?
- 
-Rhi{F}an{Am}non, Rhi{F}an{Am}non, Rhi{F}an{Am}non, Rhi{F}an{Am}non
- 
-She rings like a bell through the night,
-and wouldn't you love to love her?
-She rules her life like a bird in flight,
-and who will be her lover?
- 
-All your life you've never seen a woman;
-Taken by the wind
-Would you stay if she promised you heaven;
-Will you ever win? Will you ever win?
- 
-Rhiannon, Rhiannon, Rhiannon, Rhiannon
- 
-Taken by, taken by the sky x3
- 
-Dreams unwind and love's a state of mind x2
 
 [title] SHE’S GOT A WAY
 [credit] Billy Joel
