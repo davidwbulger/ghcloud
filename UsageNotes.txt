@@ -13,3 +13,16 @@ REGULAR USAGE:
   push
   diff
   status
+
+To modify songbook:
+  Open git bash in the ghcloud folder.
+  git pull
+  cd songbook
+  modify source.txt
+  python makeSongBook.py
+  open Songbook.html in browser to confirm
+  cd ..
+  git add --all
+  git status (and if its' included unwanted stuff, git reset, tweak .gitignore, try again)
+  git commit -m "Message"
+  git push
