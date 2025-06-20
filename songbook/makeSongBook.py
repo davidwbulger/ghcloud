@@ -14,6 +14,9 @@ import shutil
 import sys
 import zipfile
 
+OutputHTML = True
+OutputEPUB = False
+
 ##  COMMAND-LINE ARGUMENTS  ###################################################
 # Allowable syntaxes should include
 #   python makeSongBook.py  #  take input from source.txt, output songbook.epub
@@ -37,30 +40,33 @@ if not os.path.isfile(sourcefile):
   raise ValueError(
     f"Source file '{sourcefile}' not found.")
 
-pzFolder = targetfile+"PreZip"
-if os.path.exists(pzFolder):
-  suf = 0  #  numerical suffix to uniquate output
-  while os.path.exists(f"{pzFolder}{suf}"):
-    suf += 1
-  pzFolder = f"{pzFolder}{suf}"
-  print(f"To avoid overwriting, temporary files will go to {pzFolder}.")
+if OutputEPUB:
+  pzFolder = targetfile+"PreZip"
+  if os.path.exists(pzFolder):
+    suf = 0  #  numerical suffix to uniquate output
+    while os.path.exists(f"{pzFolder}{suf}"):
+      suf += 1
+    pzFolder = f"{pzFolder}{suf}"
+    print(f"To avoid overwriting, temporary files will go to {pzFolder}.")
 
-shutil.copytree('Template', pzFolder)
+  shutil.copytree('Template', pzFolder)
 
-##  READ THE TEMPLATE FOR INDIVIDUAL SONGS  ###################################
-with open("songTemplate.html") as fid:
-  stemp = fid.read()
+  ##  READ THE TEMPLATE FOR INDIVIDUAL SONGS  #################################
+  with open("songTemplate.html") as fid:
+    stemp = fid.read()
 
-##  ALSO READ THE TEMPLATE FOR THE SELF-CONTAINED HTML VERSION  ###############
-with open("schtmlTemplate.html") as fid:
-  schtml = fid.read()
-schtmlInnards = ""
+if OutputHTML:
+  ##  ALSO READ THE TEMPLATE FOR THE SELF-CONTAINED HTML VERSION  #############
+  with open("schtmlTemplate.html") as fid:
+    schtml = fid.read()
+  schtmlInnards = ""
   
 ##  CREATE AN EPUB OBJECT AND ADD THE COVER  ##################################
 def dispatchSong(html, filenum):
   global schtmlInnards
-  with open(os.path.join(pzFolder,'OEBPS',f'item{filenum}.xhtml'), 'w') as f:
-    f.write(stemp.replace("[[SONG CONTENT]]", html))
+  if OutputEPUB:
+    with open(os.path.join(pzFolder,'OEBPS',f'item{filenum}.xhtml'), 'w') as f:
+      f.write(stemp.replace("[[SONG CONTENT]]", html))
   schtmlInnards += html
 
 ##  PROCESS THE SOURCE FILE  ##################################################
@@ -111,59 +117,62 @@ with open(sourcefile) as source_fid:
       innards += f"<p class='{csscl}'>{lyric}</p>\n"
 
 ##  WRITE THE EPUB FILE  ######################################################
-if songnum<0:
-  raise ValueError(f"No songs found in source file '{sourcefile}'.")
-else:
-  dispatchSong(innards, songnum+1)  #  final song still needs to be written!
-  print(f'Total song count = {songnum+1}.')
+if OutputEPUB:
+  if songnum<0:
+    raise ValueError(f"No songs found in source file '{sourcefile}'.")
+  else:
+    dispatchSong(innards, songnum+1)  #  final song still needs to be written!
+    print(f'Total song count = {songnum+1}.')
 
 ##  WRITE THE SELF-CONTAINED HTML VERSION  ####################################
-with open('SongBook.html', 'w') as f:
-  f.write(schtml.replace("[[SONG CONTENT]]", schtmlInnards))
+if OutputHTML:
+  with open('SongBook.html', 'w') as f:
+    f.write(schtml.replace("[[SONG CONTENT]]", schtmlInnards))
 
-##  UPDATE CONTENT.OPF  #######################################################
-with open(os.path.join(pzFolder,'OEBPS','content.opf')) as fid:
-  filetext = fid.read()
-filetext = filetext.replace("[[ISODATE]]", datetime.now().strftime("%Y-%m-%d"))
-filetext = filetext.replace("[[MANIFEST LIST]]", '\n'.join(['    ' +
-  f'<item href="item{n}.xhtml" id="item{n}" ' +
-  'media-type="application/xhtml+xml"/>' for n in range(1,songnum+2)]))
-filetext = filetext.replace("[[SPINE LIST]]", '\n'.join([
-  f'    <itemref idref="item{n}"/>' for n in range(1,songnum+2)]))
-with open(os.path.join(pzFolder,'OEBPS','content.opf'), 'w') as fid:
-  fid.write(filetext)
+if OutputEPUB:
+  ##  UPDATE CONTENT.OPF  #####################################################
+  with open(os.path.join(pzFolder,'OEBPS','content.opf')) as fid:
+    filetext = fid.read()
+  filetext=filetext.replace("[[ISODATE]]", datetime.now().strftime("%Y-%m-%d"))
+  filetext = filetext.replace("[[MANIFEST LIST]]", '\n'.join(['    ' +
+    f'<item href="item{n}.xhtml" id="item{n}" ' +
+    'media-type="application/xhtml+xml"/>' for n in range(1,songnum+2)]))
+  filetext = filetext.replace("[[SPINE LIST]]", '\n'.join([
+    f'    <itemref idref="item{n}"/>' for n in range(1,songnum+2)]))
+  with open(os.path.join(pzFolder,'OEBPS','content.opf'), 'w') as fid:
+    fid.write(filetext)
 
-##  UPDATE TOC.HTML  ##########################################################
-with open(os.path.join(pzFolder,'OEBPS','toc.html')) as fid:
-  filetext = fid.read()
-filetext = filetext.replace("[[CHAPTER LIST]]", '\n'.join([
-  f'    <p><a href="item{n+1}.xhtml">{title}</a></p>'
-  for (n,title) in enumerate(titleList)]))
-with open(os.path.join(pzFolder,'OEBPS','toc.html'), 'w') as fid:
-  fid.write(filetext)
+  ##  UPDATE TOC.HTML  ########################################################
+  with open(os.path.join(pzFolder,'OEBPS','toc.html')) as fid:
+    filetext = fid.read()
+  filetext = filetext.replace("[[CHAPTER LIST]]", '\n'.join([
+    f'    <p><a href="item{n+1}.xhtml">{title}</a></p>'
+    for (n,title) in enumerate(titleList)]))
+  with open(os.path.join(pzFolder,'OEBPS','toc.html'), 'w') as fid:
+    fid.write(filetext)
 
-##  UPDATE TOC.NCX  ###########################################################
-with open(os.path.join(pzFolder,'OEBPS','toc.ncx')) as fid:
-  filetext = fid.read()
-filetext = filetext.replace("[[NAVPOINT LIST]]", '\n'.join([
-  f'    <navPoint id="item{n+1}" playOrder="{n+2}">\n' +
-  f'      <navLabel><text>{title}</text></navLabel>\n' +
-  f'      <content src="item{n+1}.xhtml"/>\n    </navPoint>'
-  for (n,title) in enumerate(titleList)]))
-with open(os.path.join(pzFolder,'OEBPS','toc.ncx'), 'w') as fid:
-  fid.write(filetext)
+  ##  UPDATE TOC.NCX  #########################################################
+  with open(os.path.join(pzFolder,'OEBPS','toc.ncx')) as fid:
+    filetext = fid.read()
+  filetext = filetext.replace("[[NAVPOINT LIST]]", '\n'.join([
+    f'    <navPoint id="item{n+1}" playOrder="{n+2}">\n' +
+    f'      <navLabel><text>{title}</text></navLabel>\n' +
+    f'      <content src="item{n+1}.xhtml"/>\n    </navPoint>'
+    for (n,title) in enumerate(titleList)]))
+  with open(os.path.join(pzFolder,'OEBPS','toc.ncx'), 'w') as fid:
+    fid.write(filetext)
 
-##  CREATE THE EPUB FILE  #####################################################
+  ##  CREATE THE EPUB FILE  ###################################################
 
-# Not doing it this way because we can't control file order:
-# shutil.make_archive(targetfile+'.epub', 'zip', pzFolder)
+  # Not doing it this way because we can't control file order:
+  # shutil.make_archive(targetfile+'.epub', 'zip', pzFolder)
 
-epub = zipfile.ZipFile(targetfile+'.epub', 'w')
-epub.writestr("mimetype", "application/epub+zip")
+  epub = zipfile.ZipFile(targetfile+'.epub', 'w')
+  epub.writestr("mimetype", "application/epub+zip")
 
-for (folder,_,fileList) in os.walk(pzFolder):
-  folderWithinArchive = Path(folder).relative_to(pzFolder)
-  for f in fileList:
-    epub.write(os.path.join(folder, f), os.path.join(folderWithinArchive, f))
+  for (folder,_,fileList) in os.walk(pzFolder):
+    folderWithinArchive = Path(folder).relative_to(pzFolder)
+    for f in fileList:
+      epub.write(os.path.join(folder, f), os.path.join(folderWithinArchive, f))
 
-epub.close()
+  epub.close()

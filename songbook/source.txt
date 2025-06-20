@@ -462,6 +462,48 @@ Jet
 A little lady
 My little lady, yes, oh!
 
+[title] Let's Dance
+[credit] David Bowie
+
+Eb7
+Ah, Ah, Ah, Ah
+
+Bb7sus4 / A7sus4 / Am6 / Am6
+Gb / Gb / Am7 / Am
+
+      A7sus4                           Am6
+Let's dance, put on your red shoes and dance the blues
+      Gb                                        Am7
+Let's dance, to the song they're playin' on the radio
+      A7sus4                           Am6
+Let's sway, while color lights up your face
+      Gb                                 Am7
+Let's sway, sway through the crowd to an empty space
+
+[structure] Chorus:
+Ab                      Db       Eb   Db Eb
+   If you say run, I'll run with you
+Ab                        Eb
+   If you say hide, we'll hide
+  Ab                Em        Db                Eb7
+Because my love for you would break my heart in two
+If you should fall into my arms and tremble like a
+
+A7sus4   Am6
+Flower
+      Gb     Am
+Let's dance
+
+Let's dance, for fear your grace should fall
+Let's dance, for fear tonight is all
+Let's sway, you could look into my eyes
+Let's sway, under the moonlight, the serious moonlight
+
+[structure] Repeat chorus
+
+Let's dance, put on your red shoes and dance the blues
+Let's sway, under the moonlight, the serious moonlight
+
 [title] Life's What You Make It
 [credit] Talk Talk
 

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <title>Song Book</title>
+    <meta content="A python script by David Bulger" name="generator"/>
+    <style>
+      * { background-color: #c0b0a0; }
+
+      @page { margin-top:2rem; margin-right:1rem; }
+
+      h1, h2 { text-align: center; margin:0; padding:0.1rem; }
+      h1 { font-size: 1.2rem; font-weight:bold; }
+      h2 { font-size: 1rem; font-weight:bold; }
+
+      p { font-size:1rem; margin:0; padding:0; }
+      p.lyric { white-space: pre-wrap; }
+      p.chords { position:relative; line-height:1.2rem; }
+      p.structure + p.chords { line-height:1.42rem; }
+
+      p.br { padding:0.6rem; }
+      p.br:last-child { padding:0; }
+
+      p.structure { font-weight:bold; font-style:italic;
+        text-decoration:underline; }
+
+      sup.chord { font-style:italic; font-size:0.85rem; color:#00d;
+        width:0px; margin-left:0; display:inline-block; top:-0.45rem;
+        position:relative; white-space:pre; }
+
+      p.instructions, li {
+        font-style:italic; font-size:0.7rem; color:#444; }
+    </style>
+  </head>
+  <body>
+    <h1>HTML Song Book</h1>
+    <p class="instructions">
+      Autoscroll controls:
+      <ul>
+        <li> ] : decrease scroll speed </li>
+        <li> ' or ESC : stop scrolling </li>
+        <li> / : increase scroll speed </li>
+        <li> [ : jump backward half a screenful </li>
+        <li> . : jump forward half a screenful </li>
+      </ul>
+    </p>
+[[SONG CONTENT]]
+  </body>
+  <script type="text/javascript">
+    scrollRate = 0;
+    scrollAccum = 0;
+    function pageScroll() {
+      scrollAccum += scrollRate;
+      scrollTrunc = Math.trunc(scrollAccum);
+      scrollAccum -= scrollTrunc;
+      window.scrollBy(0, scrollTrunc);
+      eph = setTimeout("pageScroll()", 30); }
+    var eph = setTimeout("pageScroll()", 30);  //  Need a global var??
+
+    function scrollControl(e) {
+      switch(e.keyCode) {
+        case 221:  //  ]
+          scrollRate = Math.max(0, scrollRate - 0.08);
+          e.preventDefault();
+          break;
+        case 27:   //  ESC
+        case 222:  //  '
+          scrollRate = 0;
+          e.preventDefault();
+          break;
+        case 191:  //  /
+          scrollRate += 0.08;
+          e.preventDefault();
+          break;
+        case 219:  //  [
+          window.scrollBy(0, -window.innerHeight/2);
+          e.preventDefault();
+          break;
+        case 190:  //  .
+          window.scrollBy(0, window.innerHeight/2);
+          e.preventDefault(); } }
+    window.addEventListener("keydown", scrollControl);
+  </script>
+</html>
