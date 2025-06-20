@@ -59,7 +59,8 @@ They've {D}all {G}come to {D}look for A{Cmaj7}meri - {C}ca   [x3]
 {F}  Without {C}conversation
 {Bb}  Or a {C}notion
 
-{Ebadd9  Db  Csus4  C}  Ava{Ebadd9}lon  {Db  Csus4  G}
+{Ebadd9  Db  Csus4  C}
+Ava{Ebadd9}lon       {Db  Csus4  G}
 
 When the samba takes you
 Out of nowhere
