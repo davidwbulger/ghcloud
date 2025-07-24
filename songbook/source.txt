@@ -222,7 +222,7 @@ Para bailar la {C}Bamba se {F}nece{G}sita una poca de {C}gracia {F   G}
 Una poca de {C}gracia y {F}otra {G}cosita ay arriba y a{C}rriba {F   G}
 Ay arriba y a{C}rriba por {F}ti se{G}re, por ti se{C}re, por {F}ti se{G}re
 
-[structure] “Capitan” section and Chorus:
+[structure] Capitan section and Chorus:
 Yo no soy mari{C}nero {F   G}
 Yo no soy mari{C}nero soy {F}capi{G}tan, soy capi{C}tan, soy {F}capi{G}tan
 
@@ -234,7 +234,7 @@ Para subir al cielo se necesita una escalera larga
 Una escalera larga y otra cosita ay arriba y arriba
 Ay arriba y arriba contigo ire, contigo ire, contigo ire
 
-[structure] Repeat “Capitan” section and Chorus
+[structure] Repeat Capitan section and Chorus
 
 [title] The Bones of You
 [credit] Elbow
@@ -708,7 +708,7 @@ Be{|Bb}|yond the {C7}yellow brick
 {|Db}|road {|Eb}|   {|Ab}|Ah {|Db}|   {|Bbm}|Ah  {|C7}|   {|F}|
 
 |What do you think you'll do|then?
-I|bet you’ll shoot down your|plane
+I|bet you'll shoot down your|plane
 It'll|take you a couple of|vodka and tonics
 to|set you on your feet again|
 |Maybe you'll get a re|placement
@@ -1097,7 +1097,7 @@ Dreams unwind and love's a state of mind x2
 
 [title] Ride Like the Wind
 [credit] Christopher Cross
-[structure] Intro:  (Cm7 Bb Cm7 Bb Abmaj9 Bb Cm7 Bb) ×2
+[structure] Intro:  (Cm7 Bb Cm7 Bb Abmaj9 Bb Cm7 Bb) x2
 
 [structure] Verse 1:
 It is the {Cm7}night. My body's {Bb}weak
@@ -1119,7 +1119,7 @@ Gonna ride like the {Cm7}wind {Bb}
 
 [structure] Break:
 Gonna ride like the wind
-[structure] [All /C:] (Cm Dm Eb, Cm Eb Dm, Cm Dm Eb, Eb Dm Cm Bb) ×2
+[structure] [All /C:] (Cm Dm Eb, Cm Eb Dm, Cm Dm Eb, Eb Dm Cm Bb) x2
 
 Ac{Cm7}cused and tried and {Bb}told to hang
 I was {Cm7}nowhere in sight when the {Bb}church bells rang
@@ -1127,7 +1127,7 @@ Never was the {Abmaj9}kind to do as I was {Bb}told
 Gonna ride like the {Cm7}wind before I get {Bb}old
 
 [structure] Repeat Verse 1
-[structure] Repeat Chorus ×2
+[structure] Repeat Chorus x2
 [structure] Repeat Break
 
 [title] ROCKET MAN
@@ -1311,7 +1311,7 @@ A{Dm}cross the {Am7}north and {Gm7}south, to Key {Am7}Largo, {Dm}love for {Am7}s
 {Dm}Smooth ope{Am7}rator {Gm7 Am7}
 {Dm}Smooth {Am7}    ope{Gm7}rator {Am7}
 
-[title] STOP DRAGGIN’ MY HEART AROUND
+[title] STOP DRAGGIN' MY HEART AROUND
 [credit] TOM PETTY 
 [structure] A  Asus4  A  Asus2  Asus4  A  Asus2  A
 [structure] Cadd9 G/B   Cadd9
@@ -1437,7 +1437,7 @@ Digging deep into the sweep of the sand
 {F}Suit{G}case of {Em}memo{F}ries, time {G}after
 
 {Dm}Some{C}times you {Dm}picture {C}me, I'm {Dm}wal{C}king too {Dm}far a{C}head
-{Dm}You're {C}calling {Dm}to {C}me, I {Dm}can't {C}hear what {Dm}you’ve {C}said
+{Dm}You're {C}calling {Dm}to {C}me, I {Dm}can't {C}hear what {Dm}you've {C}said
 Then {F}you {G}say {Em}go {F}slow, I {G}fall be{Em}hind, {F}  the se{G}cond {Em}hand un{F}winds
 
 [structure] Chorus:
@@ -1449,7 +1449,7 @@ If you {G}fall I will catch you I'll {Am}be waiting, {F}time {G}after {C}time
 [structure] G Am F G C  2x
 
 {Dm}Af - {C}ter my {Dm}picture {C}fades and {Dm}dark{C}ness has {Dm}turned to {C}grey
-{Dm}Watch{C}ing through {D}win{C}dows, you're {Dm}wonde{C}ring if {Dm}I’m o{C}kay
+{Dm}Watch{C}ing through {D}win{C}dows, you're {Dm}wonde{C}ring if {Dm}I'm o{C}kay
 {F}Se{G}crets {Em}sto{F}len from {G}deep in{Em}side, the {F}drum {G}beats {Em}out of {F}time
 
 [structure] Repeat chorus
@@ -1879,10 +1879,10 @@ The fray shall well become me
 
 [structure] REPEAT CHORUS
 
-So drink to Tom O’Bedlam
+So drink to Tom O'Bedlam
 Go fill the seas in barrels
-I’ll drink it all well brewed with gall
-And Maudlin drunk we’ll quarrel
+I'll drink it all well brewed with gall
+And Maudlin drunk we'll quarrel
 
 [structure] REPEAT CHORUS
 
@@ -2107,7 +2107,7 @@ I'm going {Gb}there, no more to {F7sus4}roam{    F}
 I'm going {Gb}there to see my {Bbm}father
 I'm only {Gb7}going, go{F7}ing over {Bbm}home
 
-I know dark {Bbm}clouds will {Bbm/Ab}gather   {Bbm}o’er me
+I know dark {Bbm}clouds will {Bbm/Ab}gather   {Bbm}o'er me
 I know my {Ebm7}way, my way is rough and {Bbm}steep
 Yeah, and beautiful {Bbm}fields lie {Bbm/Ab}just   be{Bbm}fore me
 In God's re{Gb7}deem{F7}ing, their vigils {Bbm}keep
@@ -3020,13 +3020,13 @@ And he {C}loves to be spoken {G}to
 [title] MOON RIVER
 [credit] HENRY MANCINI AND JOHNNY MERCER
 {C}Moon {Am}River, {F}wider than a {C/E}mile
-I’m {F}crossing you in {C/E}style some {Bø7}day     {E7}
+I'm {F}crossing you in {C/E}style some {Bø7}day     {E7}
 Old {Am}dream {C7/A}maker, you {F}heart {Bb9#11}breaker,
-Wher – {Am}ev - {Am/G}er you’re {F#ø7}go   -   {B7}ing, I’m {Em7}go - {A7}ing your {Dm7}way  {G9}
+Wher – {Am}ev - {Am/G}er you're {F#ø7}go   -   {B7}ing, I'm {Em7}go - {A7}ing your {Dm7}way  {G9}
 
 {C}Two {Am}drifters {F}off to see the {C/E}world
-There’s {F}such a lot of {C/E}world to {Bø7}see    {E7}
-We’re {Am}af - {Am/G}ter the {F#ø7}same    {F13}rainbow’s {C/E}end  {F}
+There's {F}such a lot of {C/E}world to {Bø7}see    {E7}
+We're {Am}af - {Am/G}ter the {F#ø7}same    {F13}rainbow's {C/E}end  {F}
 Waiting round the {C/E}bend {F}
 My huckleberry {C/E}friend
 {Am}Moon {Dm7}River {G9}and {Abmaj7}me      {Dbmaj7        C}
@@ -3086,7 +3086,7 @@ These are a few of my favorite things
 I simply re{A7}member my {G}favorite {C}things
 And {Am}then I don't {D7}feel so {G}bad
 
-[title] SHE’S GOT A WAY
+[title] SHE'S GOT A WAY
 [credit] Billy Joel
 {C}She's got a {G/B}way a{Am}bout her {C7/G}
 I {F}don't know what it is
@@ -3133,7 +3133,7 @@ Anyway
 Got out of {A}town on a {G}boat going to southern {D}islands
 Sailing a {A}reach be{G}fore a following {D}sea  {A}
 She was {A}making for the {G}trades on the {D}outside
-And the {A}downhill {G}run   to Pape{D}’ete{A}
+And the {A}downhill {G}run   to Pape{D}'ete{A}
 
 Off the {A}wind on this {G}heading lie the Mar{D}quesas
 {A}We got eighty feet of the {G}waterline {D}nicely making {A}way
@@ -3154,10 +3154,10 @@ And you know it will {A   G   D   A}
 When you {A}see the Southern {G}Cross for the {D}first time
 You {A}understand now {G}why you came this {D}way
 Cause the {A}truth you might be {G}running from is {D}so small
-But it’s as {A}big as the {G}promise
+But it's as {A}big as the {G}promise
 The {D}promise of a {Bm}coming {A}day
  
-So I’m sailing for tommorrow, my dreams are a-dying
+So I'm sailing for tommorrow, my dreams are a-dying
 And my love is an anchor tied to you
 Tied with a silver chain
 I have my ship and all her flags are a-flying
