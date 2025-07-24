@@ -17,34 +17,34 @@
 
 [title] PRACTICE LIST AUGUST 2025
 
-[title] Africa (in A)
+[title] Africa (in B)
 [credit] TOTO
 [structure] Intro:  G | Bm || x4
 
-{A}  I hear the drums {C#m}echoing to{F#m}night
-{A}She hears only {G}whispers of some {Bm}quiet conver{F#m}sa  -  {G   Bm}tion
-{A}  She's coming {C#m}in, twelve thirty {F#m}flight
-The {A}moonlit wings re{G}flect the stars that {Bm7}guide me toward sal{F#m}va  -  {G   Bm}tion
-{A}  I stopped an {C#m}old man along the {F#m}way
-{A}Hoping to find some {G}old forgotten {Bm}words or ancient {F#m}me - lo{G   Bm}dies
-{A}  He turned to {C#7}me as if to {F#m}say, "Hurry, boy, it's {G}waiting there for you"{ Bm}
+{B}  I hear the drums {D#m}echoing to{G#m}night
+{B}She hears only {A}whispers of some {C#m}quiet conver{G#m}sa  -  {A   C#m}tion
+{B}  She's coming {D#m}in, twelve thirty {G#m}flight
+The {B}moonlit wings re{A}flect the stars that {C#m7}guide me toward sal{G#m}va  -  {A   C#m}tion
+{B}  I stopped an {D#m}old man along the {G#m}way
+{B}Hoping to find some {A}old forgotten {C#m}words or ancient {G#m}me - lo{A   C#m}dies
+{B}  He turned to {D#7}me as if to {G#m}say, "Hurry, boy, it's {A}waiting there for you"{ C#m}
 
 [structure] Chorus:
-{Em}    Gonna take a {C}lot to drag me a{G}way from {D}you
-{Em}    There's nothing that a {C}hundred men or {G}more could ever {D}do
-{Em}    I bless the {C}rains down in {G}Afri{D}ca
-{Em}    Gonna take some {C}time to do the {G}things we never {Bm  D  Em   G  Bm}had
+{F#m}    Gonna take a {D}lot to drag me a{A}way from {E}you
+{F#m}    There's nothing that a {D}hundred men or {A}more could ever {E}do
+{F#m}    I bless the {D}rains down in {A}Afri{E}ca
+{F#m}    Gonna take some {D}time to do the {A}things we never {C#m  E  F#m   A  C#m}had
 
-{A}  The wild dogs {C#m}cry out in the {F#m}night
-As {A}they grow restless {G}longing for some {Bm}solitary {F#m}compa-{G   Bm}ny
-{A}  I know that {C#m}I must do what's {F#m}right
-Sure as {A}Kilimanjaro {G}rises like O{Bm}lympus above the {F#m}Serenge{G   Bm}ti
-{A}  I seek to {C#7}cure what's deep in{F#m}side
-Frightened of this {G}thing that I've be{Bm}come
+{B}  The wild dogs {D#m}cry out in the {G#m}night
+As {B}they grow restless {A}longing for some {C#m}solitary {G#m}compa-{A   C#m}ny
+{B}  I know that {D#m}I must do what's {G#m}right
+Sure as {B}Kilimanjaro {A}rises like O{C#m}lympus above the {G#m}Serenge{A   C#m}ti
+{B}  I seek to {D#7}cure what's deep in{G#m}side
+Frightened of this {A}thing that I've be{C#m}come
 
 [structure] Repeat chorus
-[structure] Solo over verse chords: A  C#m  F#m  A  G  Bm  F#m  G  Bm
-{A  C#7    F#m}    Hurry, boy, it's {G}waiting there for you{ Bm}
+[structure] Solo over verse chords: B  D#m  G#m  B  A  C#m  G#m  A  C#m
+{B  D#7    G#m}    Hurry, boy, it's {A}waiting there for you{ C#m}
 
 [structure] Repeat chorus
 
