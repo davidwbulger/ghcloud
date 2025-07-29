@@ -19,21 +19,21 @@
 
 [title] Africa (in B)
 [credit] TOTO
-[structure] Intro:  G | Bm || x4
+[structure] Intro:  A | C#m || x4
 
 {B}  I hear the drums {D#m}echoing to{G#m}night
-{B}She hears only {A}whispers of some {C#m}quiet conver{G#m}sa  -  {A   C#m}tion
+{B/F#}She hears only {A}whispers of some {C#m}quiet conver{G#m}sa  -  {A   C#m}tion
 {B}  She's coming {D#m}in, twelve thirty {G#m}flight
-The {B}moonlit wings re{A}flect the stars that {C#m7}guide me toward sal{G#m}va  -  {A   C#m}tion
+The {B/F#}moonlit wings re{A}flect the stars that {C#m7}guide me toward sal{G#m}va  -  {A   C#m}tion
 {B}  I stopped an {D#m}old man along the {G#m}way
-{B}Hoping to find some {A}old forgotten {C#m}words or ancient {G#m}me - lo{A   C#m}dies
+{B/F#}Hoping to find some {A}old forgotten {C#m}words or ancient {G#m}me - lo{A   C#m}dies
 {B}  He turned to {D#7}me as if to {G#m}say, "Hurry, boy, it's {A}waiting there for you"{ C#m}
 
 [structure] Chorus:
 {F#m}    Gonna take a {D}lot to drag me a{A}way from {E}you
 {F#m}    There's nothing that a {D}hundred men or {A}more could ever {E}do
 {F#m}    I bless the {D}rains down in {A}Afri{E}ca
-{F#m}    Gonna take some {D}time to do the {A}things we never {C#m  E  F#m   A  C#m}had
+{F#m}    Gonna take some {D}time to do the {A}things we never {C#m  E  F#m   A  C#m}had{  A  C#m}
 
 {B}  The wild dogs {D#m}cry out in the {G#m}night
 As {B}they grow restless {A}longing for some {C#m}solitary {G#m}compa-{A   C#m}ny
@@ -786,7 +786,10 @@ that you want me {Fmaj7}to do,
 And {C}I'l{Cmaj7}l do almost any{C7}thing,
 that you want me {Fmaj7}to, ooh,
  
-But {Cm7}I can't go for that, ({F}No can do)  [x4]
+But {Fm9}I can't go for that, no, {Bb}no can do
+{Fm9}I can't go for that, no, no {Bb}can do
+{Fm9}I can't go for that, no, {Bb}no can do
+{Fm9}I can't go for that, can't go for that, can't go for {Bb}that, can't go for that
  
 [structure] Verse:
 I can't go for being twice as nice
