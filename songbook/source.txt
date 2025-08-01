@@ -245,7 +245,7 @@ And the {A7}world moves in {Dm6}slow-mo, {A7}straight to my head like the {Dm6}f
 
 [structure] Chorus:
 And it's {Dm6}you, and it's {A7}May, and we're {Dm6}sleeping through the {A7}day
-And I'm {Dm6}five years {A7}ago, and three {Dm6}thousand miles a{E7  Am6  E7  Am6}way
+And I'm {Dm6}five years {A7}ago, and three {Dm6}thousand miles a{A7  Dm6  A7  Dm6}way
 
 Do I {A7}have time? A {Dm6}man of my calibre {A7}stood in the street like a {Dm6}sleepwalking teenager
 {A7}No.  And I {Dm6}dealt with this years ago, {A7}I took a hammer to {Dm6}every memento
@@ -718,6 +718,40 @@ There's|plenty like me to be|found
 |ground |  |Ah |  |Ah |  
 
 [structure] REPEAT CHORUS
+
+[title] How Bout Us
+[credit] Champaign
+
+{Bb  Ebm  (x2)}
+
+{Bb}Ooh, short and {Ebm}sweet
+{Bb}  No sense in draggin' on {Ebm}past our needs
+{Bb}  Let's don't keep it hangin' {Ebm}on
+{Bb}  If the fire's out, we should {Ebm}both be gone
+
+[structure] Chorus in Bb:
+{Bb}  Some people are made for each other
+{Cm}  Some people can love one another for {Ebm}life, how 'bout {Bb}us
+Some people can hold it together
+{Cm}  Last through all kind of weather, {Ebm}   can {Bb}we  {Ebm  Bb  Ebm}
+
+Now don't get me wrong  ( What you sayin' to me baby )
+'Cause I'm not tryin' now to end it all    ( let's does something new )
+It's just that I have seen    ( what have you see ? )
+Too many lover's hearts lose their dreams ( we won't lose it !)
+
+[structure] Repeat chorus in Bb
+
+{Bb}  How 'bout us, how 'bout us, baby
+{Ebm} How 'bout us, how 'bout us, baby
+{Bb}  How 'bout us, how 'bout us, baby  {Ebm}
+{Gm}  Are we gonna {Dm}make it girl, are we gonna {Fm}drift and drift and drift together  {Gb}
+
+[structure] Chorus in Db:
+{Db}  Some people are made for each other
+{Ebm}  Some people can love one another for {Gbm}life, how 'bout {Db}us
+Some people can hold it together
+{Ebm}  Last------  {Gbm}   how 'bout {Db}us
 
 [title] Hungry Like the Wolf
 [credit] Duran Duran
