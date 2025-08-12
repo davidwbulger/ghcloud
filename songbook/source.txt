@@ -260,23 +260,23 @@ And I'm {Dm6}five years {A7}ago, and three {Dm6}thousand miles a{A7}way
 
 [title] Broken Wings
 [credit] Mr Mister
-{G#m}Baby, don't understand why we can't just hold on to each other's hands  {F#  C#}
-{G#m}This time might be the last, I fear, unless I make it all too clear I need you {F#}so, woah {C#}oh
+{G#sus2}Baby, don't understand why we can't just hold on to each other's hands  {F#sus2  C#}
+{G#sus2}This time might be the last, I fear, unless I make it all too clear I need you {F#sus2}so, woah {C#}oh
 
 [structure] Chorus:
 {C#m}Take these broken wings and learn to {B}fly again, learn to live so {A}free
 And when we {C#m}hear the voices sing, the book of {B}love will open up and {A}let us in
-{C#m}Take these broken wings  {G#m}
+{C#m}Take these broken wings  {G#sus2}
 
-{G#m}Baby, I think tonight we can take what was wrong and make it right  {F#  C#}
-{G#m}Baby, it's all I know: that you're half of the flesh and blood that makes me whole
-{F#}    I need you {C#}so
+{G#sus2}Baby, I think tonight we can take what was wrong and make it right  {F#sus2  C#}
+{G#sus2}Baby, it's all I know: that you're half of the flesh and blood that makes me whole
+{F#sus2}    I need you {C#}so
 
 [structure] Repeat Chorus
 
 {F#m}Yeah   -   let us {A  E  D  F#m}in      -      let us in{A  E  D}
-{G#m}Baby, it's all I know: that you're half of the flesh and blood that makes me whole
-Yeah {F#}yeah yeah, yeah {C#}yeah
+{G#sus2}Baby, it's all I know: that you're half of the flesh and blood that makes me whole
+Yeah {F#sus2}yeah yeah, yeah {C#}yeah
 
 [structure] Repeat Chorus  x2
 
@@ -719,7 +719,7 @@ There's|plenty like me to be|found
 
 [structure] REPEAT CHORUS
 
-[title] How Bout Us
+[title] How 'Bout Us
 [credit] Champaign
 
 {Bb  Ebm  (x2)}
