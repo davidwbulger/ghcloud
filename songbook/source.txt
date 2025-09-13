@@ -582,6 +582,45 @@ A be{Fm7}leza que não é só {A#7b5}minha
 {D#m7}Que também passa so{G#7b5}zinha
 {G#69}Ah, se ela soubesse que quando ela {A#m6}passa o mundo sorrindo se enche de {G#7sus4}graça e fica mais {G#7}linda por cause do a{G#69}mor
 
+[title] Ghost Escalator (in D)
+[credit] David Bulger
+
+{D }I remember {Bm}when {A}we first met
+You were {G}shopping with your {D}cousin {Bm}at the {A}local mall
+{D }And your cousin {Bm}played {A}clarinet
+In the {G}jazz band with my {D}buddy {Bm}Zach from {A}volleyball
+{G }We got {A}talking, you {D}thought I was {D7}sweet,
+We {G}lost Zach and {A}Hannah and {D}found a bite to {D7}eat
+{G }You looked so cute, I was as {A}charming as I'm able to {Bm}be
+At what became our {A/C#}usual table at the {D}Asian food court
+Where {Em}now I sit a{A7}lone
+
+If only we hadn't got stuck
+With that creepy old janitor in the elevator
+Maybe it was just really bad luck,
+'Cause that's when we heard about the escalator
+He got talking, he told us about
+That grim conveyance, he freaked us right out
+Most people only ever see it in the distance
+To ride you'd have to hunt it down with great persistence
+And no one has ever got off
+
+[structure] Chorus:
+{Bm  }Don't {Em}ride {G }the {A}Ghost Esca{Bm}lator{ (x4)}
+
+Well I scoffed but you were fascinated
+And reluctantly I joined your paranormal quest
+We watched, we searched, we theorised and waited
+You talked of little else; you became obsessed
+Sometimes we saw it, but only from afar
+One day you vanished, but I know where you are
+The other day I saw the Ghost Escalator again
+I saw you riding it and called your name but then you turned around sadly,
+And I thought I heard you say
+
+[structure] Repeat Chorus
+
+
 [title] Golden Brown
 [credit] The Stranglers
  
@@ -832,7 +871,7 @@ But {Fm9}I can't go for that, no, {Bb}no can do
 [structure] Verse:
 I can't go for being twice as nice
 I can't go for just
-Repeating the same old lives
+Repeating the same old lines
 Use the body now you want my soul
 Do forget about it say no go  (Yeah)
  
@@ -1030,6 +1069,42 @@ And the {F}rest of our {C}lives would've fared{G} well
 {G F C F G C G F C F G C Am G C}
 
 {Am C F C G C Am G (x2) C}
+
+
+[title] Past Lives
+[credit] David Bulger
+
+{Spoken over a C5, G5, Eb5 vamp}
+I called a number I found scrawled on a 'no loitering' sign
+We met up
+She hypnotised me
+I remembered my "past lives"
+It was the usual schtick: I was a pharaoh, or an inventor
+It never seems to be anything boring
+But maybe we only remember the interesting lives
+
+One past life was different though
+I was a being on another world
+The world was flat
+Or maybe huge
+Or maybe we were just tiny creatures, I don't know
+Anyway, you could set off to explore
+Just keep going
+Through familiar places
+Then places you'd heard about
+Then places you hadn't
+
+I was a restless soul
+One time I wandered so far
+I lost my way
+I tried to retrace my steps
+To return home
+But I only ever saw new places
+And now
+Here I am
+
+{Outro is C5, D5, Eb5, F5, G5, A5 (x4)}
+
 
 [title] Raglan
 [credit] Grace Cummings
@@ -1374,7 +1449,7 @@ This doesn't have to be anything at all
 I know you really want to tell me good-bye
 I know you really want to be your own girl
 Baby, you could never look me in the eye
-Yeah, you buckle with the weight of the world
+Yeah, you buckle with the weight of the words
 Stop draggin' my, stop draggin' my, stop draggin' my heart around
 
 {Em  G  A}
@@ -1390,7 +1465,7 @@ You need someone looking after you
 I know you really want to tell me good-bye
 I know you really want to be your own girl
 Baby, you could never look me in the eye
-Yeah, you buckle with the weight of the world
+Yeah, you buckle with the weight of the words
 Stop draggin' my, stop draggin' my, stop draggin' my heart around
 
 
@@ -1880,6 +1955,48 @@ Spinning in infinity
 He says, Amen! Hallelujah!
 
 [structure] Repeat Chorus
+
+
+[title]Your Hours are Numbered
+[credit]David Bulger
+<i>Note: this tune is a work in progress</i>
+
+{Am} Oh {D}Daylight {Am/E}Sa  -  {Am}vings, I'll {G}miss {D}you {G}when {C}you {Am}die{ D  Am/E  Am  C  G  D}
+{Am} Though every{D}body {Am/E}hates {Am}you, and I    {G}kin{D}da {G}get{ C}     {Am}why{ D  Am/E  Am  C  G  D}
+{Bm} Your bene{Em}fits are {Bm/F#}all      {Bm}too{ Em}       {Bm/F#}ea   -   {Bm}sy   {Em}to    {C}for{Bm/F#}get{       Bm  E7}
+{Am} But we all {D}whine and {Am/E}moan {Am}at the cir{G}ca{D}di{G}an {C}re{Am}set{  D  E7}
+
+You made a lot of sense when factories were new
+And train timetables, classrooms, and office buildings too
+But nowadays it's flexitime, we're post-industrialised
+It's time the whole idea was re-analysed
+
+[structure]CHORUS:
+When {Am}dark times were u{D}pon us, you {B}knew just {G}what to {E7}do
+{Am}You saved the {D}daylight, but now can {B}anyone {G}save {A}you?
+
+The numbers are in, you do more harm than good
+The health effects of broken sleep are well understood
+The farmers never liked you, and now they'll get their way
+The cows don't check their watches before they eat their hay
+
+[structure]REPEAT CHORUS
+
+[structure]BRIDGE:
+{A7}Maybe you say it's {D7}just the changing that {A7}causes miser{D7}y.
+{G7}Maybe you want to {C7}stay on daylight {G7}savings permanent{C7}ly.
+Well {F7}renaming the {Bb7}hours is {F7}all you're doing {Bb7}then:
+You're just {Eb7}taking 9 o'{Ab7}clock and {Eb7}calling it {Ab7}ten!
+If you {Db7}want everyone to go to work an hour early, then be {F#7}honest about it instead
+Of {B7}lying about what time it is and {E7}dragging me out of bed!
+
+You were a crazy plan, to change the way we work and play
+A collective reimagining of how we use the day
+You showed us change is possible; it really can be done
+I'm glad we tried it; I'm glad you had your day in the sun
+
+[structure]REPEAT CHORUS
+
 
 [title] You've Got to Hide Your Love Away (in D)
 [credit] The Beatles
@@ -3474,54 +3591,6 @@ And I could feel the {Bm}reaction
  
 [structure] Repeat Chorus
  
-[title]Your Hours are Numbered
-[credit]David Bulger
-<i>Note: this tune is a work in progress</i>
-
-{Am} Oh {D}Daylight {Am/E}Sa  -  {Am}vings, I'll {G}miss {D}you {G}when {C}you {Am}die{ D  Am/E  Am  C  G  D}
-{Am} Though every{D}body {Am/E}hates {Am}you, and I    {G}kin{D}da {G}get{ C}     {Am}why{ D  Am/E  Am  C  G  D}
-{Bm} Your bene{Em}fits are {Bm/F#}all      {Bm}too{ Em}       {Bm/F#}ea   -   {Bm}sy   {Em}to    {C}for{Bm/F#}get{       Bm  E7}
-{Am} But we all {D}whine and {Am/E}moan {Am}at the cir{G}ca{D}di{G}an {C}re{Am}set{  D  E7}
-
-You made a lot of sense when factories were new
-And train timetables, classrooms, and office buildings too
-But nowadays it's flexitime, we're post-industrialised
-It's time the whole idea was re-analysed{ end on G7 instead of E7}
-
-[structure]CHORUS:
-{F  G  C  G  C  F  G  E7}
-When {Am}dark times were u{D}pon us, you {B}knew just {G}what to {E7}do
-{Am}You saved the {D}daylight, but now can {B}anyone {G}save {A}you?
-
-The numbers are in, you do more harm than good
-The health effects of broken sleep are well understood
-The farmers never liked you, and now they'll get their way
-The cows don't check their watches before they eat their hay
-
-[structure]REPEAT CHORUS
-
-[structure]BRIDGE:
-Some {Dm}say, it's just the back and forth that {G}really grinds a gear,
-So let's {C}keep the clocks set forward every {A7}day of the year!
-Well, a {Dm}country called Nitwitia tried that {G7}many years ago
-When {Cm}really it was 8, their clocks said {F7}9, & to work they'd go.
-The {Bb}earlybirds, they loved it, but others {Dm}disagreed with them
-And per{Gm}suaded all the bosses that work should {F}start at 10 AM
-Now {Bb}everything was back to how it {Dm}had been on Day One
-But {Gm}folks AGAIN complained of missing {C7}out on summer sun
-So {F}now they chose to set clocks FURTHER {G}forward half the days,
-And {C}this went round and round; changing time became a craze
-{F}Now they go to work, like us, when the {G}sun is in the east,
-But they {E7}call it 4pm. That's what I've heard, at least.
-
-You were a crazy plan, to change the way we work and play
-A collective reimagining of how we use the day
-You showed us change is possible; it really can be done
-I'm glad we tried it; I'm glad you had your day in the sun
-[comment] [IF FINISH HERE] I'm glad we tried; I'm glad you had your day in {C (fade out)}the sun
-
-[structure]REPEAT CHORUS
-
 
 [title] The Hazards of Love (album, in track order)
 [credit] The Decemberists
