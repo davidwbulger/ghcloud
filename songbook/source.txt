@@ -585,13 +585,13 @@ A be{Fm7}leza que não é só {A#7b5}minha
 [title] Ghost Escalator (in D)
 [credit] David Bulger
 
-{D }I remember {Bm}when {A}we first met
+{D} I remember {Bm}when {A}we first met
 You were {G}shopping with your {D}cousin {Bm}at the {A}local mall
-{D }And your cousin {Bm}played {A}clarinet
+{D} And your cousin {Bm}played {A}clarinet
 In the {G}jazz band with my {D}buddy {Bm}Zach from {A}volleyball
-{G }We got {A}talking, you {D}thought I was {D7}sweet,
+{G} We got {A}talking, you {D}thought I was {D7}sweet,
 We {G}lost Zach and {A}Hannah and {D}found a bite to {D7}eat
-{G }You looked so cute, I was as {A}charming as I'm able to {Bm}be
+{G} You looked so cute, I was as {A}charming as I'm able to {Bm}be
 At what became our {A/C#}usual table at the {D}Asian food court
 Where {Em}now I sit a{A7}lone
 
@@ -606,7 +606,7 @@ To ride you'd have to hunt it down with great persistence
 And no one has ever got off
 
 [structure] Chorus:
-{Bm  }Don't {Em}ride {G }the {A}Ghost Esca{Bm}lator{ (x4)}
+{Bm} Don't {Em}ride {G} the {A}Ghost Esca{Bm}lator{ (x4)}
 
 Well I scoffed but you were fascinated
 And reluctantly I joined your paranormal quest
@@ -625,7 +625,7 @@ And I thought I heard you say
 [credit] The Stranglers
  
 {Am     Em     F     C    x3}
-{Am     Em     G     F     Dm     C     Dm     C }
+{Am     Em     G     F     Dm     C     Dm     C}
 
 {Dm}  Golden {C}Brown, {Dm}texture like {C}sun
 {Dm}  Lays me {C}down,   {Dm}with my might {C}she runs
@@ -1003,7 +1003,7 @@ You {C}live for the fight when it's {D}all that you've got.
 [title] Love Her Madly
 [credit] The Doors
 
-{Am }Don't you love her madly, don't you need her badly
+{Am} Don't you love her madly, don't you need her badly
 Don't you {D}love her ways, tell me {Am}what you say
 Don't you {Am}love her madly, {C}  wanna {F}be her daddy{ D/F#}
 Don't you {Am}love her as she's {E}walkin' out the {Am}door
@@ -1778,7 +1778,7 @@ everything succeed
 [title] White Valiant
 [credit] The Muttonbirds
 {A  C  x4}
-{D }You're from the family that moved {C}in up the valley
+{D} You're from the family that moved {C}in up the valley
 It's {D}lucky I picked you up and not somebody {C}else
 We'll {D}have to turn inland, there's been a landslide at the {C}quarry
 Though I {D}say it myself, you couldn't have {C}better help
@@ -2220,14 +2220,14 @@ Let's sway, under the moonlight, the serious moonlight
 
 Ab  Db  Dbs4
 
-{Ab }Baby, life's what you {Db}make it
+{Ab} Baby, life's what you {Db}make it
 {Dbs4}Can't es{Ab}cape it{ Db  Dbs4  Ab}
 Baby, yesterday's {Db}favorite
 {Dbs4}Don't you {Ab}hate it
 
 [structure] Repeat Intro
 
-{Ab }Baby life's what you {Db}make it
+{Ab} Baby life's what you {Db}make it
 {Dbs4}Don't back{Ab}date it{ Db  Dbs4  Ab}
 Baby, don't try to {Db}shade it
 {Dbs4}Beauty is {Ab}naked
@@ -2236,7 +2236,7 @@ Baby, don't try to {Db}shade it
 
 [structure] Piano solo
 
-{Ab }Baby, life's what you {Db}make it
+{Ab} Baby, life's what you {Db}make it
 {Dbs4}Cele{Ab}brate it
 Antici{Db}pate it
 {Dbs4}Yesterday's {Ab}faded
@@ -3024,7 +3024,7 @@ Sweet dreams and flying machines in pieces on the ground
 [title] God Only Knows
 [credit] The Beach Boys
 
-{|A  E/G#  F#m7 A/E   B/F# C/G | D/A | }
+{|A  E/G#  F#m7 A/E   B/F# C/G | D/A |}
 
 {D/A}    I may not {Bm}always love you,
 {F#m}    But {F#m7}long as there {B}are stars above you,
@@ -3732,7 +3732,7 @@ And {G}if I grant you this {D}favor, to {C}hand you your {G}life for the evening
 
 And {G}so{  [G blues riff x2]}
 Con{Bb}sider it your {C}debt re{G}paid,{[G blues riff x1]}                   con{Bb}sider it your {C}debt re{G}paid, {Bb   C}re - {G}paid, {Bb   C}re - {G}paid
-{Bb  C  G  Bb  C  D }
+{Bb  C  G  Bb  C  D}
 
 [title] The Rake's Song
 
