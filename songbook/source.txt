@@ -1079,7 +1079,7 @@ I called a number I found scrawled on a 'no loitering' sign
 We met up
 She hypnotised me
 I remembered my "past lives"
-It was the usual schtick: I was a pharaoh, or an inventor
+It was the usual schtick: I'd been a pharaoh, or an inventor
 It never seems to be anything boring
 But maybe we only remember the interesting lives
 
@@ -1088,7 +1088,7 @@ I was a being on another world
 The world was flat
 Or maybe huge
 Or maybe we were just tiny creatures, I don't know
-Anyway, you could set off to explore
+You could set off to explore
 Just keep going
 Through familiar places
 Then places you'd heard about
@@ -1987,8 +1987,8 @@ The cows don't check their watches before they eat their hay
 {G7}Maybe you want to {C7}stay on daylight {G7}savings permanent{C7}ly.
 Well {F7}renaming the {Bb7}hours is {F7}all you're doing {Bb7}then:
 You're just {Eb7}taking 9 o'{Ab7}clock and {Eb7}calling it {Ab7}ten!
-If you {Db7}want everyone to go to work an hour early, then be {F#7}honest about it instead
-Of {B7}lying about what time it is and {E7}dragging me out of bed!
+If you {Db7}want everyone to go to work an hour early, then be {F#7}honest about it! Instead,
+You're just {B7}lying about what time it is and {E7}dragging me out of bed!
 
 You were a crazy plan, to change the way we work and play
 A collective reimagining of how we use the day
