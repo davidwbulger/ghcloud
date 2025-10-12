@@ -1210,6 +1210,34 @@ Spending the hours reminiscing
 
 [structure] Repeat Chorus
 
+
+[title] Retail in December
+[credit] David Bulger
+
+{Abm7}  You {Gm}gotta get {Emaj7}ready  {Eb7}
+You {Abm7}gotta {Gm}   {Emaj7}stock the shelves  {Eb7}
+{Abm7}San - {B}ta's {Db9}co - {Fbmaj7}ming
+You {Abm7}gotta {Gm}   {Emaj7}dress like elves  {Eb7}
+
+[structure] Chorus:
+{Gb6/Ab5}Retail in December  {Fbsus2/Db5  Bbm/Ebm}
+{Gb6/Ab5}Retail in December  {Fbsus2/Db5  G7/D4}
+{Cmaj7}Retail in December  {Esus2/C#5  A#m/D#m}
+{D#m7/G#5}Retail in December  {D#m7}
+
+You gotta be nice
+To every entitled jerk
+Jesus may have died on the cross
+But did he ever work
+
+[structure] Repeat Chorus
+
+The music is dreadful
+The same songs all day and night
+But I'll shut up now
+'Cause two wrongs don't make a right
+
+
 [title] Rhiannon
 [credit] Fleetwood Mac
 
