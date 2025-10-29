@@ -33,7 +33,7 @@ The {B/F#}moonlit wings re{A}flect the stars that {C#m7}guide me toward sal{G#m}
 {F#m}    Gonna take a {D}lot to drag me a{A}way from {E}you
 {F#m}    There's nothing that a {D}hundred men or {A}more could ever {E}do
 {F#m}    I bless the {D}rains down in {A}Afri{E}ca
-{F#m}    Gonna take some {D}time to do the {A}things we never {C#m  E  F#m   A  C#m}had{  A  C#m}
+{F#m}    Gonna take some {D}time to do the {A}things we never {C#m  E  F#m   A  C#m}had
 
 {B}  The wild dogs {D#m}cry out in the {G#m}night
 As {B}they grow restless {A}longing for some {C#m}solitary {G#m}compa-{A   C#m}ny
@@ -919,6 +919,18 @@ Do forget about it say no go  (Yeah)
  
 [structure] Repeat Chorus
 
+[title] I'll Bring the Cheese
+[credit] David Bulger
+
+{G} Whack some {Em7}sandwiches {Cm}into a {Ao}pack
+{B7}Come along {Em}girl, let's {Ao}hit the {D7}track
+{G} Even {G7}if the {C}weather is {C#o}grey
+We'll {D}go any{D+}way, {D7}what do you {D}say? {D7}
+The {Em}rain could fall and {Bm}soak me through
+I {Am}wouldn't care at {G/B}all on a {C}picnic with {D7}you
+{G} But I {Em7}think the {Cm}day will be {Ao}fine
+{B7}Knowing our {Em}luck, the {D}sun's gon{D7}na {G}shine!
+
 [title] Jet
 [credit] Wings
 
@@ -1648,6 +1660,39 @@ Lips parting like a flag all unfurled
 She's grand the bend of her hand
 Digging deep into the sweep of the sand
  
+[structure] Repeat Chorus
+
+[title] Three O'Clock Ghosts
+[credit] David Bulger
+
+{Am} Well we’ve been {Dmaj7}here since three
+{F} But who the {G7}hell are we
+{Am} No one, ap{Dmaj7}parently
+And you {F7}know there ain't a cloud in the {G7}sky
+
+{Am} The written {Dmaj7}verse enslaves
+{F} It breathes and {G7}misbehaves
+{Am} I helped you {Dmaj7}chart these waves
+You weighed {F7}anchor in the blink of an eye
+
+[structure] Chorus:
+{E5}Maybe, I’m the {Asus2}same as you
+A pair of {Am9/C}dogs who don’t {B7/A}know ourselves in a {E5}mirror
+{E5}Barking and scratching the glass
+Frightened {Asus2}animals
+And though we {Am9/C}pull at our {B7/A}chains
+We don’t get any {E5}nearer
+
+She's on rails, you pull the strings
+Tonight you're gonna fight what tomorrow brings
+You hold ice to all your stings
+You're both a little far from the shore
+
+A volcano strikes once, then again and again
+Ripping up the ground and making children of men
+It's difficult to separate a sword from a pen
+But you know I never fought in the war
+
 [structure] Repeat Chorus
 
 [title] Time After Time
