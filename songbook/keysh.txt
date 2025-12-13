@@ -2,3 +2,5 @@ let @x="mxyyp:.s/./ /gkjddpk:j!kA BdiWji{pa}k:.,+1s/ *$//'x:.g/^$/d|+1kj"
 let @t="I[title] j"|nnoremap <F4> @t
 let @c="I[credit] j"|nnoremap <F3> @c
 let @s="I[structure] j"|nnoremap <F5> @s
+let @j="\"sd/^\[titlemm'j\"sP'm"
+let @k="\"sd/^\[titlemm'k\"sP'm"
