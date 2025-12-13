@@ -22,7 +22,7 @@
 
 [structure] Intro: Chorus chords
 
-{Cm} Well we’ve been {Fmaj7}here since three
+{Cm} Well we've been {Fmaj7}here since three
 {Ab} But who the {Bb7}hell are we
 {Cm} No one, ap{Fmaj7}parently
 And you {Ab7}know there ain't a cloud in the {Bb7}sky
@@ -33,12 +33,12 @@ And you {Ab7}know there ain't a cloud in the {Bb7}sky
 You weighed {Ab7}anchor in the blink of an eye
 
 [structure] Chorus:
-{G5}Maybe, I’m the {Csus2}same as you
-A pair of {Cm9/Eb}dogs who don’t {D7/C}know ourselves in a {G5}mirror
+{G5}Maybe, I'm the {Csus2}same as you
+A pair of {Cm9/Eb}dogs who don't {D7/C}know ourselves in a {G5}mirror
 {G5}Barking and scratching the glass
 Frightened {Csus2}animals
 And though we {Cm9/Eb}pull at our {D7/C}chains
-We don’t get any {G5}nearer
+We don't get any {G5}nearer
 
 She's on rails, you pull the strings
 Tonight you're gonna fight what tomorrow brings
