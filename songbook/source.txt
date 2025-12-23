@@ -793,14 +793,14 @@ There must be {Bm}   fifty {C#m7b5}ways to leave your {Bm}lover, fifty {C#m7b5}w
 
 [title] Garota de Ipanema
 [credit] music Antonio Carlos Jobim, lyrics Vinicius de Moraes
-{G#69}Olha que coisa mais linda mais cheia de {A#m6}gra�a � ela menina que vem que {F#M7/A#}passa num doce ba{Adim}lan�o caminho do {G#69}mar   {A69}
-{G#69}Mo�a do corpo dourado do sol de Ipa{A#m6}nema o seu balan�ado � mais que um po{G#7sus4}ema � a coisa mais {G#7}linda que eu j� vi pas{G#69}sar
-{DM7}Ah, porque estou t�o so{G7}zinho
-{Dm7}Ah, porque tudo � t�o {A#7}triste
+{G#69}Olha que coisa mais linda mais cheia de {A#m6}graça é ela menina que vem que {F#M7/A#}passa num doce ba{Adim}lanço caminho do {G#69}mar   {A69}
+{G#69}Moça do corpo dourado do sol de Ipa{A#m6}nema o seu balançado é mais que um po{G#7sus4}ema é a coisa mais {G#7}linda que eu já vi pas{G#69}sar
+{DM7}Ah, porque estou tão so{G7}zinho
+{Dm7}Ah, porque tudo é tão {A#7}triste
 {D#m7}Ah, a beleza que e{B7}xiste
-A be{Fm7}leza que n�o � s� {A#7b5}minha
-{D#m7}Que tamb�m passa so{G#7b5}zinha
-{G#69}Ah, se ela soubesse que quando ela {A#m6}passa o mundo sorrindo se enche de {G#7sus4}gra�a e fica mais {G#7}linda por cause do a{G#69}mor
+A be{Fm7}leza que não é só {A#7b5}minha
+{D#m7}Que também passa so{G#7b5}zinha
+{G#69}Ah, se ela soubesse que quando ela {A#m6}passa o mundo sorrindo se enche de {G#7sus4}graça e fica mais {G#7}linda por cause do a{G#69}mor
 
 [title] Get it Right Next Time
 [credit] Gerry Rafferty
@@ -1498,16 +1498,57 @@ And he {C}loves to be spoken {G}to
  
 [structure] Repeat Verse 1 & Chorus
 
+[title] Meglio Stasera
+[credit] Henry Mancini and 
+
+Meglio sta{B♭m}sera {D♭maj7}che  do{F7#11}mani o {B♭m}mai
+Do{B♭m}mani {D♭maj7}chi lo  {C♭}sa quel che sa{B♭m}rà
+
+{B♭m} Non mi dire d'aspet{E♭m}tare
+{Fm} Il domani che ver{B♭m}rà
+{B♭(maj)} È una porta che tu {E♭m}chiudi
+{C7}Fra me e {F7}te
+
+{B♭m} Se stasera ti de{E♭m}cidi
+{Fm} A rispondermi di {B♭m}sì
+{B♭(maj)} I domani che ver{E♭m}ranno
+Li {B♭m}dedico {F7} solo a {B♭m}te
+
+Meglio sta{B♭m}sera {D♭maj7}che  do{F7#11}mani o {B♭m}mai
+Do{B♭m}mani {D♭maj7}chi lo  {C♭}sa quel che sa{B♭m}rà
+
+{B♭m} Nasce il giorno, il giorno {E♭m}muore
+{Fm} E la notte porte{B♭m}rà
+{B♭(maj)} L'incertezza del do{E♭m}mani
+Chis{C7}sà, chis{F7}sà
+
+{B♭m}Ma se è un desiderio {E♭m}solo
+{Fm} A non farti ripo{B♭m}sar
+{B♭(maj)} È una pulce sul len{E♭m}zuolo
+Che {B♭m}dormire {F7} non ti {B♭m}fa
+
+Meglio sta{B♭m}sera {D♭maj7}che  do{F7#11}mani o {B♭m}mai
+Do{B♭m}mani {D♭maj7}chi lo  {C♭}sa quel che sa{B♭m}rà
+
+{B♭m} Se stasera ti de{E♭m}cidi
+{Fm} A rispondermi di {B♭m}sì
+{B♭(maj)} I domani che ver{E♭m}ranno
+Li {B♭m}dedico {F7} solo a {B♭m}te
+
+Meglio sta{B♭m}sera {D♭maj7}che  do{F7#11}mani o {B♭m}mai
+Do{B♭m}mani {D♭maj7}chi lo  {C♭}sa quel che sa{B♭m}rà
+
+
 [title] MOON RIVER
 [credit] HENRY MANCINI AND JOHNNY MERCER
 {C}Moon {Am}River, {F}wider than a {C/E}mile
-I'm {F}crossing you in {C/E}style some {B�7}day     {E7}
+I'm {F}crossing you in {C/E}style some {Bø7}day     {E7}
 Old {Am}dream {C7/A}maker, you {F}heart {Bb9#11}breaker,
-Wher � {Am}ev - {Am/G}er you're {F#�7}go   -   {B7}ing, I'm {Em7}go - {A7}ing your {Dm7}way  {G9}
+Wher  {Am}ev - {Am/G}er you're {F#ø7}go   -   {B7}ing, I'm {Em7}go - {A7}ing your {Dm7}way  {G9}
 
 {C}Two {Am}drifters {F}off to see the {C/E}world
-There's {F}such a lot of {C/E}world to {B�7}see    {E7}
-We're {Am}af - {Am/G}ter the {F#�7}same    {F13}rainbow's {C/E}end  {F}
+There's {F}such a lot of {C/E}world to {Bø7}see    {E7}
+We're {Am}af - {Am/G}ter the {F#ø7}same    {F13}rainbow's {C/E}end  {F}
 Waiting round the {C/E}bend {F}
 My huckleberry {C/E}friend
 {Am}Moon {Dm7}River {G9}and {Abmaj7}me      {Dbmaj7        C}
@@ -2146,18 +2187,18 @@ Hung fifty silver bells and nine
 
 True Thomas, he pulled off his cap
 And bowed him low down to his knee
-�All hail, thou mighty Queen of Heaven
-Your like on earth I ne'er did see.�
+All hail, thou mighty Queen of Heaven
+Your like on earth I ne'er did see.
 
 [structure] Pre-chorus:
-�{A5}No, {C5}no, {D5    A5}Thomas,� she {C5}said{D5},
-�{A5}That name {B5}does {E5}not be{G5}long {E5}to  {A5}me  {etc.}
+{A5}No, {C5}no, {D5    A5}Thomas, she {C5}said{D5},
+{A5}That name {B5}does {E5}not be{G5}long {E5}to  {A5}me  {etc.}
 I am the queen of fair Elfland
-And I have come to visit thee.�
-�You must go with me, Thomas,� she said,
-�True Thomas, you must go with me
+And I have come to visit thee.
+You must go with me, Thomas, she said,
+True Thomas, you must go with me
 And must serve me seven years
-Through well or woe, as chance may be.�
+Through well or woe, as chance may be.
 
 [structure] Chorus (x3):
 {A}Hark {D}and {A}carp, come a{D}long with {A}me,
@@ -2174,20 +2215,20 @@ And they saw neither sun nor moon
 But heard the roaring of the sea
 
 [structure] Pre-chorus:
-�Don't you see yon narrow, narrow road
+Don't you see yon narrow, narrow road
 So thick beset with thorns and briars?
 That is the road to righteousness
-Though after it but few enquire.�
+Though after it but few enquire.
 
-�Don't you see yon broad, broad road
+Don't you see yon broad, broad road
 That lies across the lily leaven?
 That is the road to wickedness
-Though some call it the road to heaven.�
+Though some call it the road to heaven.
 
-�Don't you see yon bonny, Boone road
+Don't you see yon bonny, Boone road
 That lies across the ferny brae?
 That is the road to fair Elfland
-Where you and I this night must go.�
+Where you and I this night must go.
 
 [structure] Repeat Chorus
 
@@ -2834,22 +2875,22 @@ I want you day after day, yeah, oh
 [title] Tout L'Univers
 [credit] Gjon's Tears
 
-{Am} Laissez le vent qui fr�le
-Sa main sur mon �paule
-Le vide dans ma t�te
+{Am} Laissez le vent qui frôle
+Sa main sur mon épaule
+Le vide dans ma tête
 Pas la moindre cachette
-C'est l'aube {G}qui d�{F}cline
-Derri�re un {Em}champ de ru{Am}ines
+C'est l'aube {G}qui dé{F}cline
+Derrière un {Em}champ de ru{Am}ines
 Le moment {G}de grand{F}ir
 Ne pas te {Em}reten{F}ir
 
-{G}Je {D}vois derri�re nous des morceaux de {F}toi
+{G}Je {D}vois derrière nous des morceaux de {F}toi
 {G}Et {D}ce que la dou{C}leur a fait de {D}moi
 
 [structure] Chorus:
 {Am}Tout l'uni{Cmaj7}vers{  F  Dm}
-Nos {Am}deux c�urs sous la {C}terre{  D}
-Au milieu des {Am}failles, tout �c{C}late
+Nos {Am}deux curs sous la {C}terre{  D}
+Au milieu des {Am}failles, tout éc{C}late
 Se trouver un {F}point {C/E}d'im - {D7}pact
 {Dbmaj7}Sans    {G}toi{  F}
 
@@ -2857,20 +2898,20 @@ Que deviendront souffles
 S'ils restent sur le bord?
 Cet amour qui nous tord
 
-{G}Je {D}vois derri�re nous des mor{Em}ceaux de {F}toi
+{G}Je {D}vois derrière nous des mor{Em}ceaux de {F}toi
 {G}Et {D}ce que la dou{C}leur a fait de {D}moi
 
 [structure] Repeat Chorus, but finish with C rather than G,F over 'toi'
 
-Derri�re mes paupi�res
+Derrière mes paupières
 Trouver de l'air
 
 [structure] Altered Chorus:
 {Am}Tout l'uni{Cmaj7}vers{  F  Dm}
-Nos {Am}deux c�urs sous la {C}terre{  D}
+Nos {Am}deux curs sous la {C}terre{  D}
 Au milieu des {Am}failles et des res{Cmaj7}sacs
 Nous nous retrouve{F}rons point d'im - {Dm}pact
-Comment soigner {Am}nos c�urs qui �c{C}la{D}tent?
+Comment soigner {Am}nos curs qui éc{C}la{D}tent?
 {Am}Tout l'univers
 
 
@@ -3854,7 +3895,7 @@ There'll be time {Bb}enough for {F}countin' {C}when the dealin's {F}done.
 
 {Dm}   To my UFO fr{Bb}iend
 {C}Goodbye, good{Bb}bye
-Like a {Am}seed in the�{G}wind
+Like a {Am}seed in the {G}wind
 She's t{A}aking up root in the{Bm} sky
 See her flickering{ G}
 Her s{A}ystem won't even{Bm} try

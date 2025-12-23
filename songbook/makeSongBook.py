@@ -57,7 +57,7 @@ if OutputEPUB:
 
 if OutputHTML:
   ##  ALSO READ THE TEMPLATE FOR THE SELF-CONTAINED HTML VERSION  #############
-  with open("schtmlTemplate.html") as fid:
+  with open("schtmlTemplate.html", encoding="utf-8") as fid:
     schtml = fid.read()
   schtmlInnards = ""
   
@@ -72,7 +72,7 @@ def dispatchSong(html, filenum):
 ##  PROCESS THE SOURCE FILE  ##################################################
 songnum = -1  #  0-indexed, so this means we aren't processing a song yet
 titleList = []
-with open(sourcefile) as source_fid:
+with open(sourcefile, 'r', encoding='utf-8') as source_fid:
   # Firstly, skip over any preamble:
   for line in source_fid:
     if re.match(r"\[title\]", line.strip(), re.IGNORECASE):
@@ -126,7 +126,7 @@ if OutputEPUB:
 
 ##  WRITE THE SELF-CONTAINED HTML VERSION  ####################################
 if OutputHTML:
-  with open('SongBook.html', 'w') as f:
+  with open('SongBook.html', 'w', encoding="utf-8") as f:
     f.write(schtml.replace("[[SONG CONTENT]]", schtmlInnards))
 
 if OutputEPUB:
