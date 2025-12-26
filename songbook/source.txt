@@ -1053,6 +1053,79 @@ There's|plenty like me to be|found
 
 [structure] REPEAT CHORUS
 
+[title] Graceland
+[credit] Paul Simon
+
+{E  A  C#m  B  E}
+
+{E}The Mississippi Delta was shining
+Like a National gui{A}tar
+I am {C#m}following the river, down the highway
+Through the cradle of the civil {B}war
+ 
+{A}I'm going to {E}Graceland, Graceland
+Memphis Tennes{B}see
+I'm {A}going to {E}Graceland  {E D A}
+
+{E}Poorboys and Pilgrims with families
+And {B}we are {A}going to {E}Graceland  {E D A}
+My {E}traveling companion is nine years {B}old
+{A}He is the {E}child of my first marriage  {E D A}
+But I've {E}reason to believe
+We {B}both will be re{A}ceived
+In {E}Graceland  {E D A}
+
+{E}She comes back to tell me she's gone
+As {A}if I didn't know that
+As if I didn't know my own {C#m}bed
+As {B}if I'd never noticed
+The way she brushed her hair from her{E} forehead
+
+And she said losing love
+Is like a window in your {A}heart
+Everybody sees you're {C#m}blown a{A}part
+Everybody sees the {B}wind blow
+ 
+I'm {A}going to {E}Graceland
+Memphis Tennes{B}see
+I'm {A}going to {E}Graceland  {E D A}
+{E}Poorboys and Pilgrims with families
+And {B}we are {A}going to {E}Graceland  {E D A}
+
+And my {E}traveling companions
+Are ghosts and empty {A}sockets
+I'm looking at ghosts and {E}empties  {E D A}
+But I've {E}reason to believe
+We {B}all will be re{A}ceived
+In {E}Graceland  {E D A}
+
+{E}There is a girl in New York City
+Who calls herself the human trampo{A}line
+And {C#m}sometimes when I'm falling, flying
+
+Or tumbling in turmoil I say
+{B}Woah, so this is what she means
+She means we're {E}bouncing into Graceland
+
+And I see losing love
+Is like a window in your {A}heart
+Everybody sees you're {C#m}blown apart
+Everybody feels the {B}wind blow
+ 
+Oooo in {E}Graceland, in Graceland  {E D A}
+I'm going to {E}Graceland  {E D A}
+For reasons I {E}cannot explain
+There's some part of me {B}wants to {A}see
+{E}Graceland  {E D A}
+
+And I may be ob{E}liged to defend
+Every love, every {A}ending
+Or maybe there's {E}no obligations now  {E D A}
+Maybe I've a {E}reason to believe
+We {B}all will be re{A}ceived
+In {E}Graceland  {E D A}
+
+
 [title] Gypsy
 [credit] Fleetwood Mac
 
@@ -1907,22 +1980,22 @@ Anyway
 [title] She's Not There
 [credit] The Zombies
 
-{Am  D  Am  D  x2}
+{Am  D  Am7  D  Am  D  x2}
  
-{Am}   Well, no one {D}told me a{Am7}bout {D}her{Am},
-the {F}way she {Am}lied{ D}
-{Am}   Well, no one {D}told me a{Am7}bout {D}her{Am},
-how many {F}people {A}cried
+Well, {Am}no one told {D}me a{Am7}bout {D}    {Am}her {D},
+{Am}   The {F}way she lied{ D  Am  D}
+Well, {Am}no one told {D}me a{Am7}bout {D}    {Am}her {D},
+How {Am}many {F}people cried  {A}
  
 [structure] Chorus:
 But it's too {D}late to {Dm}say you're {Am}sorry
 How would I {Em}know, why should I {Am}care?
 Please don't {D}bother {Dm}tryin' to {C}find her
 She's not {E7}there
-Well, let me tell you 'bout the {Am}way she {D}looked
-The way she'd {Am}acted and the {F}color of her {Am}hair{ D}
-Her voice was {Am}soft and {F}cool
-Her eyes were {Am}clear and {D}bright
+Well, let me tell you 'bout the {Am}way she looked {D}
+The way she'd {Am}acted and the {F}color of her {Am}hair {D}
+Her voice was {Am}soft and cool {F}
+Her eyes were {Am}clear and bright {D}
 But she's not {A}there
  
 Well, no one told me about her
@@ -2295,6 +2368,49 @@ Ooh
 
 [structure] Repeat Oz, Spinning, Instrumental, Oz, Instrumental
 
+[title] Tout L'Univers
+[credit] Gjon's Tears
+
+{Am} Laissez le vent qui frôle
+Sa main sur mon épaule
+Le vide dans ma tête
+Pas la moindre cachette
+C'est l'aube {G}qui dé{F}cline
+Derrière un {Em}champ de ru{Am}ines
+Le moment {G}de grand{F}ir
+Ne pas te {Em}reten{F}ir
+
+{G}Je {D}vois derrière nous des morceaux de {F}toi
+{G}Et {D}ce que la dou{C}leur a fait de {D}moi
+
+[structure] Chorus:
+{Am}Tout l'uni{Cmaj7}vers    {F  Dm}
+Nos {Am}deux curs sous la {C}terre  {D}
+Au milieu des {Am}failles, tout éc{C}late
+Se trouver un {F}point {C/E}d'im - {D7}pact
+{Dbmaj7}Sans      {G}toi{  F}
+
+Que deviendront souffles
+S'ils restent sur le bord?
+Cet amour qui nous tord
+
+{G}Je {D}vois derrière nous des mor{Em}ceaux de {F}toi
+{G}Et {D}ce que la dou{C}leur a fait de {D}moi
+
+[structure] Repeat Chorus, but finish with C rather than G,F over 'toi'
+
+Derrière mes paupières
+Trouver de l'air
+
+[structure] Altered Chorus:
+{Am}Tout l'uni{Cmaj7}vers    {F  Dm}
+Nos {Am}deux curs sous la {C}terre{  D}
+Au milieu des {Am}failles et des res{Cmaj7}sacs
+Nous nous retrouve{F}rons point d'im - {Dm}pact
+Comment soigner {Am}nos curs qui éc{C}la - {D}tent?
+{Am}Tout l'univers
+
+
 [title] Vienna
 [credit] Billy Joel
 
@@ -2360,6 +2476,54 @@ Why don't you realize, Vienna waits for you
  
 [structure] Outro:
 {G7}  When will you {Gb7}realize,{F}  Vienna waits for {Bb}you
+
+[title] Walking on the Moon
+[credit] The Police
+
+[structure] Intro:
+{G7sus4}
+
+{Dm7}Giant steps are what you take
+{Bb}Walking on the moon {C}
+{Dm7}I hope my legs don't break
+{Bb}Walking on the moon {C}
+{Dm7}We could walk forever
+{Bb}Walking on the moon {C}
+{Dm7}We could be together
+{Bb}Walking on, {C}walking on the moon
+ 
+[structure] Repeat Intro
+ 
+{Dm7}Walking back from your house
+{Bb}Walking on the moon {C}
+{Dm7}Walking back from your house
+{Bb}Walking on the moon {C}
+{Dm7}Feet they hardly touch the ground
+{Bb}Walking on the moon {C}
+My {Dm7}feet don't hardly make no sound
+{Bb}Walking on, {C}walking on the {Dm7}moon
+ 
+[structure] Chorus
+{Bb}Some may {F}say
+{C}  I'm wishing my {Gm}days a{Bb}way
+No {F}way
+{C} And if it's the {Gm}price I {Bb}pay
+Some {F}say
+{C}  Tomorrow's a{Gm}nother {Bb}day
+You {F}stay
+I {C}may as well play
+ 
+[structure] Repeat Intro
+ 
+[structure] Repeat Verse 1
+ 
+[structure] Repeat Chorus
+ 
+[structure] Repeat Intro
+ 
+[structure] Repeat to fade:
+{Dm7}Keep it up, {Bb}keep it up {C}
+
 
 [title] What Is Life
 [credit] George Harrison
@@ -2871,49 +3035,6 @@ I want you day after day, hey
 I want you, show me the way everyday
 I want you, show me the way night and day
 I want you day after day, yeah, oh
-
-[title] Tout L'Univers
-[credit] Gjon's Tears
-
-{Am} Laissez le vent qui frôle
-Sa main sur mon épaule
-Le vide dans ma tête
-Pas la moindre cachette
-C'est l'aube {G}qui dé{F}cline
-Derrière un {Em}champ de ru{Am}ines
-Le moment {G}de grand{F}ir
-Ne pas te {Em}reten{F}ir
-
-{G}Je {D}vois derrière nous des morceaux de {F}toi
-{G}Et {D}ce que la dou{C}leur a fait de {D}moi
-
-[structure] Chorus:
-{Am}Tout l'uni{Cmaj7}vers{  F  Dm}
-Nos {Am}deux curs sous la {C}terre{  D}
-Au milieu des {Am}failles, tout éc{C}late
-Se trouver un {F}point {C/E}d'im - {D7}pact
-{Dbmaj7}Sans    {G}toi{  F}
-
-Que deviendront souffles
-S'ils restent sur le bord?
-Cet amour qui nous tord
-
-{G}Je {D}vois derrière nous des mor{Em}ceaux de {F}toi
-{G}Et {D}ce que la dou{C}leur a fait de {D}moi
-
-[structure] Repeat Chorus, but finish with C rather than G,F over 'toi'
-
-Derrière mes paupières
-Trouver de l'air
-
-[structure] Altered Chorus:
-{Am}Tout l'uni{Cmaj7}vers{  F  Dm}
-Nos {Am}deux curs sous la {C}terre{  D}
-Au milieu des {Am}failles et des res{Cmaj7}sacs
-Nous nous retrouve{F}rons point d'im - {Dm}pact
-Comment soigner {Am}nos curs qui éc{C}la{D}tent?
-{Am}Tout l'univers
-
 
 [title] You've Got to Hide Your Love Away (in D)
 [credit] The Beatles
