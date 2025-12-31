@@ -137,14 +137,14 @@ We made {Bm}love in the after{Cm}noon
 Then you {Bm}played the contrabas{Abmaj7}soon    {G7}
 {Cm}  But I don't re{Bm}member how to {Abmaj7}find your house;{G7}  please come remind me
 
-{C}Yes, my {Cm}cape's from {D}Tar{Bm}get and {Eb}my {Eb}fangs are {Abm}from {Ab}a   {Abs4}joke {Ab}shop
-But {C}I sleep {Cm}in a {D}cof{Bm}fin with {Eb}a  {Eb}heavy {Abm}pad-{Ab}ded {Abs4}oak  {Ab}top
-I {C}really {Cm}am a {D}vam{Bm}pire - I {Eb}was {Eb}bitten {Abm}in    {Ab}a   {Abs4}dream{Ab}
-I {C}only {Cm}eat red {D}food {Bm}now, {Eb}like {Eb}straw{Abm}ber-{Ab}ry  {Abs4}ice  {Ab}cream
-I {C}don't go {Cm}out in {D}sun{Bm}light and {Eb}I  {Eb}mostly {Abm}sleep {Ab}all {Abs4}day  {Ab}
-They {C}have the {Cm}vampire {D}mo{Bm}vies on {Eb}at {Eb}night-time {Abm}a  -  {Ab}ny - {Abs4}way  {Ab}
-I {C}run a{Cm}way from {D}gar{Bm}lic and {Eb}don't {Eb}like to {Abm}see {Ab}a   {Abs4}cross{Ab}
-'Cause {C}I'm an {Cm}evil {D}mon{Bm}ster and {Eb}the {Eb}devil {Abm}is    {Ab}my  {Abs4}boss {Ab}
+{/C}Yes, my {Cm}cape's from {/D}Tar{Bm}get and {Eb}my {Eb}fangs are {Abm}from {Ab}a   {Abs4}joke {Ab}shop
+But {/C}I sleep {Cm}in a {/D}cof{Bm}fin with {Eb}a  {Eb}heavy {Abm}pad-{Ab}ded {Abs4}oak  {Ab}top
+I {/C}really {Cm}am a {/D}vam{Bm}pire - I {Eb}was {Eb}bitten {Abm}in    {Ab}a   {Abs4}dream{Ab}
+I {/C}only {Cm}eat red {/D}food {Bm}now, {Eb}like {Eb}straw{Abm}ber-{Ab}ry  {Abs4}ice  {Ab}cream
+I {/C}don't go {Cm}out in {/D}sun{Bm}light and {Eb}I  {Eb}mostly {Abm}sleep {Ab}all {Abs4}day  {Ab}
+They {/C}have the {Cm}vampire {/D}mo{Bm}vies on {Eb}at {Eb}night-time {Abm}a  -  {Ab}ny - {Abs4}way  {Ab}
+I {/C}run a{Cm}way from {/D}gar{Bm}lic and {Eb}don't {Eb}like to {Abm}see {Ab}a   {Abs4}cross{Ab}
+'Cause {/C}I'm an {Cm}evil {/D}mon{Bm}ster and {Eb}the {Eb}devil {Abm}is    {Ab}my  {Abs4}boss {Ab}
 
 I sketched your house and showed it to the area's real estate cognoscenti
 I thought there might be no one who'd remember the address; instead there were plenty
@@ -152,6 +152,89 @@ At City Hall my hypnotic smile
 Gave me access to your file
 Then I was speechless for a while
 You died when your house burnt down thirty years ago, but I'm only twenty
+
+
+[title] OPEN MIC PRACTICE LIST FOR 2025-02-12
+
+[title] Cupid
+[credit] Sam Cooke
+
+[structure] INTRO
+{G6 Em7 (x2)}
+ 
+[structure] CHORUS
+G        Em                  G         C
+  Cupid, draw back your bow,   and let your arrow go
+G                D                 G       D
+  Straight to my lover's heart for me, for me
+G        Em                 G         C
+  Cupid, please hear my cry   and let your arrow fly
+G                D                  C  G
+  Straight to my lover's heart, for me
+ 
+     G                                D
+Now,   I don't mean to bother you but I'm in distress
+        D                          G
+There's danger of me losing all of my happiness
+G                             C
+For I love a girl who doesn't know I exist
+D                  G
+  And this you can fix
+ 
+[structure] Repeat chorus
+ 
+     G                               D
+Now, Cupid, with your arrow make her love strong for me
+  D                             G
+I promise I will love her until eternity
+  G                                C
+I know, between the two of us, her heart we can steal
+D                G
+  Help me if you will
+ 
+[structure] Repeat chorus
+ 
+[structure] OUTRO
+     G                Em      G
+Now, Cupid, don't you hear me calling you?
+  Em        G      Em
+I need you, Cupid, help me
+  Em        G            Em
+I need you, Cupid, don't fail me
+
+
+[title] Son of a Preacher Man
+[credit] John Hurley & Ronnie Wilkins
+
+{E}  Billy Ray was a preacher's son, and when his {A}daddy would visit he'd {E}come along
+When they'd gather 'round and started talking, {B7}   that's when Billy would take me walking
+A-through the back yard we'd go walking
+Then he'd look into my eyes, lord knows to my surprise
+
+[structure] CHORUS:
+The {E}only one who could ever reach me  {A}  was the son of a {E}preacher man
+The {E}only boy who could ever teach me  {A}  was the son of a {E}preacher man
+Yes he was, he {B}was, {A}  mmm, yes he was {E}
+
+Being good isn't always easy, no matter how hard I'd try
+When he started sweet-talkin' to me
+He'd come and tell me everything is all right
+He'd kiss and tell me everything is all right    can I get away again tonight
+
+[structure] Repeat chorus
+
+[structure] BRIDGE:
+(Yes, he {D}was)
+How well I remember {A} the look was in his eyes, stealin' kisses from me on the sly
+{B7}  Takin' time to make time, tellin' me that he's all mine
+{E7}  Learnin' from each other's knowin', look at us here, how much we've grown
+
+And the {A}only one who could ever reach me {D}  was the son of a {A}preacher man
+The {A}only boy who could ever teach me {D}  was the son of a {A}preacher man
+Yes he was, he {E}was, {D7}   ooh yes he was
+
+[structure] CODA:
+{A   D   A (repeat)}
 
 
 [title] OTHER PRACTICE LIST DECEMBER 2025
@@ -1572,7 +1655,7 @@ And he {C}loves to be spoken {G}to
 [structure] Repeat Verse 1 & Chorus
 
 [title] Meglio Stasera
-[credit] Henry Mancini and 
+[credit] Henry Mancini and Franco Migliacci
 
 Meglio sta{B♭m}sera {D♭maj7}che  do{F7#11}mani o {B♭m}mai
 Do{B♭m}mani {D♭maj7}chi lo  {C♭}sa quel che sa{B♭m}rà
