@@ -163,44 +163,29 @@ You died when your house burnt down thirty years ago, but I'm only twenty
 {G6 Em7 (x2)}
  
 [structure] CHORUS
-G        Em                  G         C
-  Cupid, draw back your bow,   and let your arrow go
-G                D                 G       D
-  Straight to my lover's heart for me, for me
-G        Em                 G         C
-  Cupid, please hear my cry   and let your arrow fly
-G                D                  C  G
-  Straight to my lover's heart, for me
+{G}  Cupid, {Em}draw back your bow, {G}  and let {C}your arrow go
+{G}  Straight to my {D}lover's heart for {G}me, for{D} me
+{G}  Cupid, {Em}please hear my cry {G}  and let {C}your arrow fly
+{G}  Straight to my {D}lover's heart, for {C}me {G}
  
-     G                                D
-Now,   I don't mean to bother you but I'm in distress
-        D                          G
-There's danger of me losing all of my happiness
-G                             C
-For I love a girl who doesn't know I exist
-D                  G
-  And this you can fix
+Now, {G}  I don't mean to bother you but {D}I'm in distress
+There's {D}danger of me losing all of {G}my happiness
+{G}For I love a girl who doesn't {C}know I exist
+{D}  And this you can {G}fix
  
 [structure] Repeat chorus
  
-     G                               D
-Now, Cupid, with your arrow make her love strong for me
-  D                             G
-I promise I will love her until eternity
-  G                                C
-I know, between the two of us, her heart we can steal
-D                G
-  Help me if you will
+Now, {G}Cupid, with your arrow make her {D}love strong for me
+I {D}promise I will love her until {G}eternity
+I {G}know, between the two of us, her {C}heart we can steal
+{D}  Help me if you {G}will
  
 [structure] Repeat chorus
  
 [structure] OUTRO
-     G                Em      G
-Now, Cupid, don't you hear me calling you?
-  Em        G      Em
-I need you, Cupid, help me
-  Em        G            Em
-I need you, Cupid, don't fail me
+Now, {G}Cupid, don't you {Em}hear me {G}calling you?
+I {Em}need you, {G}Cupid, {Em}help me
+I {Em}need you, {G}Cupid, don't {Em}fail me
 
 
 [title] Son of a Preacher Man
@@ -2460,37 +2445,39 @@ Le vide dans ma tête
 Pas la moindre cachette
 C'est l'aube {G}qui dé{F}cline
 Derrière un {Em}champ de ru{Am}ines
-Le moment {G}de grand{F}ir
+Le moment {G}de gran{F}dir
 Ne pas te {Em}reten{F}ir
 
 {G}Je {D}vois derrière nous des morceaux de {F}toi
 {G}Et {D}ce que la dou{C}leur a fait de {D}moi
 
-[structure] Chorus:
 {Am}Tout l'uni{Cmaj7}vers    {F  Dm}
-Nos {Am}deux curs sous la {C}terre  {D}
+Nos {Am}deux cœurs sous la {C}terre  {D}
 Au milieu des {Am}failles, tout éc{C}late
 Se trouver un {F}point {C/E}d'im - {D7}pact
 {Dbmaj7}Sans      {G}toi{  F}
 
-Que deviendront souffles
-S'ils restent sur le bord?
-Cet amour qui nous tord
+Que deviend{Em}ront nos {Am}souffles
+S'ils restent {G}sur le {F}bord?
+Cet amour {Em}qui nous {F}tord
 
 {G}Je {D}vois derrière nous des mor{Em}ceaux de {F}toi
 {G}Et {D}ce que la dou{C}leur a fait de {D}moi
 
-[structure] Repeat Chorus, but finish with C rather than G,F over 'toi'
-
-Derrière mes paupières
-Trouver de l'air
-
-[structure] Altered Chorus:
 {Am}Tout l'uni{Cmaj7}vers    {F  Dm}
-Nos {Am}deux curs sous la {C}terre{  D}
+Nos {Am}deux cœurs sous la {C}terre  {D}
+Au milieu des {Am}failles, tout éc{C}late
+Se trouver un {F}point {C/E}d'im - {D7}pact
+{Dbmaj7}Sans      {C}toi
+
+{F}Derri{C/E}ère {D7}mes {Dbmaj7}paupi - {C}ères
+{F}Trou{C/E}ver {D7}de {Dbmaj7}l'air
+
+{Am}Tout l'uni{Cmaj7}vers    {F  Dm}
+Nos {Am}deux cœurs sous la {C}terre{  D}
 Au milieu des {Am}failles et des res{Cmaj7}sacs
 Nous nous retrouve{F}rons point d'im - {Dm}pact
-Comment soigner {Am}nos curs qui éc{C}la - {D}tent?
+Comment soigner {Am}nos cœurs qui éc{C}la - {D}tent?
 {Am}Tout l'univers
 
 
