@@ -2595,6 +2595,53 @@ I {C}may as well play
 {Dm7}Keep it up, {Bb}keep it up {C}
 
 
+[title] We Both Go Down Together
+[credit] The Decemberists
+
+[structure] Intro
+{Am riff (Am, Am, Asus2, Am, Asus2, Am, Am, Em) x2}
+
+{Am}  Here on these cliffs of Dover
+{Em}  So high you can't see over
+{Am}  And while your head is spinning
+{Em}  Hold tight, it's just beginning
+ 
+[structure] Repeat intro
+ 
+{Am}  You come from parents wanton
+{Em}  A childhood rough and rotten
+{Am}  I come from wealth and beauty
+{Em}  Untouched by {G}work or duty
+ 
+[structure] Chorus:
+And {C}oh, my {Em}love, my {F}love  {G}
+And {C}oh, my {Em}love, my {F}love
+We {E}both go down to{(Am)}gether
+ 
+[structure] Repeat intro
+ 
+{Am}  I found you a tattooed tramp
+{Em}  A dirty daughter from the labor camps
+{Am}  I laid you down in the grass of a clearing
+{Em}  You wept but your {G}soul was willing
+ 
+[structure] Chorus ending in F:
+ 
+And {C}oh, my {Em}love, my {F}love  {G}
+And {C}oh, my {Em}love, my {F}love
+We {E}both go down to{F}gether
+ 
+And my parents will never con{Am}sent to this love
+{F}And I hold your {G}hand {E}
+ 
+{Am}  Meet me on my vast veranda
+{Em}  My sweet untouched Miranda
+{Am}  And while the seagulls are crying
+{Em}  We fall but our {G}souls are flying
+ 
+[structure] Repeat chorus (with first line x4 instead of x2)
+
+
 [title] What Is Life
 [credit] George Harrison
 
