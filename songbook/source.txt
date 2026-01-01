@@ -221,6 +221,79 @@ Yes he was, he {E}was, {D7}   ooh yes he was
 [structure] CODA:
 {A   D   A (repeat)}
 
+[title] The Call of the Mountain Thing
+[credit] David Bulger
+
+{Asus2} I haven't {Cmaj7}heard it now {Emadd9}  for many {D5}seasons
+But I can still remember a day
+When travellers would not pass through here for any reason
+And none were brave enough to stay
+The devil only knows from whence it came that autumn
+When it began to feed round here
+If anybody strayed uphill, the creature got 'em
+And all was misery and fear
+
+[structure] Chorus ('call' is d,eb,d,bb,a; b,ab,g,f,e):
+{Gmaddm13}  The {Gm}call {Asus2}of the {Fm}Mountain {Gmaddm13 Gm Asus2 Fm}Thing
+A bad tiding does it bring
+When you hear it start to sing
+The call of the Mountain Thing
+
+At night its howls could be heard echoing through the valley
+And later the thing would come to town
+In the morning there'd be another one for the tally
+Our population was going down
+My dad hung an onion from his belt as was the fashion
+And went down to the village square
+He talked our strongest men uphill to do some bashin'
+But all too grimly did they fare
+
+[structure] Repeat chorus
+
+Those few who returned said this is no longer home for us
+We'll lose our lives, if not our souls,
+If we remain in this parts, so come on, let's get on the bus
+And we began to pack our homes
+The fog was thick that night and the moon was below the horizon
+When from behind we heard the call
+We all looked back but it's the road you should keep your eyes on
+I you're gonna drive a bus at all
+
+[structure] Repeat chorus
+
+The bus was wrecked and still the calls were growing louder
+No one knew what could be done
+We were scared its jaws would grind us into powder
+This Mountain Thing we'd rather shun
+The Thing approached the bus, sniffed round it and came on in
+And started eating us with glee
+I cowered, watching it consume my last companion
+With eyes fixed evilly on me
+
+[structure] Repeat chorus
+
+But just then the bus caught fire and the fuel tank must've exploded
+And the bus was thrown onto its side
+And the Thing was caught beneath some seats which had come unbolted
+But I was able to slip outside
+In tears I ran as fast as my shaking legs could bear me
+An hoped the Thing would burn to death
+But looking back I saw the Thing shake loose and get free
+Wailing with all its unholy breath
+
+[structure] Repeat chorus
+
+It headed limping in the direction of the mountains
+Leaving a smoky plume in its wake
+I ran all night and day, twelve hours if you're counting,
+With only the odd five-minute break
+That day I swore I'd never go back to my old hamlet
+And until today I never did go
+If the Thing's not dead or gone you'll know it when we hear it
+But that was so many years ago
+
+[structure] Repeat chorus
+
 
 [title] OTHER PRACTICE LIST DECEMBER 2025
 
@@ -858,6 +931,39 @@ And I be{Bm}lieve that in the {A}morning you'll be{F#m7}gin to see the {A#/F#}li
 And then she {Bm}kissed me and I {A}realised, she {Gmaj7}probably was {F#/E}right,
 There must be {Bm}   fifty {C#m7b5}ways to leave your {Bm}lover, fifty {C#m7b5}ways to leave your {Bm}lover.
 [structure] REPEAT CHORUS
+
+
+[title] Funny Spells
+[credit] David Bulger and Sarah Davis
+
+[structure] [Structure is Intro, Verse, Chorus, Intro, Verse, Bridge, Chorus, Intro]
+
+There lives a lady old and grey, away from whom good folk all stay
+No one knows her name for sure, but everybody calls her Fay
+The people of these parts have always viewed her as a bane
+But fear has struck their hearts anew since she has gone insane
+Now the biggest danger's all the spells she casts that go astray
+
+[structure] Chorus:
+If this song cannot prevent ya from wandering where she dwells
+At least watch out for her dementia and her funny spells
+
+She’s got a lot going on upstairs, but sadly it’s a vacant lot
+She thought she thought a thought, but then she thought, was that a thought, or not?
+Half the time her cat will strike the witch as unfamiliar
+But even accidentally she very well may kill ya
+The safer incantations seem to be the ones that she forgot
+
+[structure] Bridge:
+When trees are chatting with the ferns
+You know she's having one of her turns
+If her curses are sounding garbled
+It means that she's decreasingly marbled
+When the clocks are all behind
+And peaches grow in lemon rind
+And outlines look all undefined
+Then the witch has lost her mind
+
 
 [title] Garota de Ipanema
 [credit] music Antonio Carlos Jobim, lyrics Vinicius de Moraes
