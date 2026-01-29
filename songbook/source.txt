@@ -28,112 +28,105 @@ Here Comes Your Man
 Son of a Preacher Man
 The Call of the Mountain Thing
 
+[chapter] CURRENT FOCUS
+
+America
+Boy in the Bubble
+A Different Song
+Funny Spells
+Golden Brown
+Golden Road
+Gonna See Her Tonight
+Goodbye Yellow Brick Road
+Graceland
+Jenny Shipley is not my Sister
+New Slang
+Past Lives
+She's Not There
+STOP DRAGGIN' MY HEART AROUND
+Stuck in the Middle With You
+Walking on the Moon
+
 [chapter] ORIGINALS
 
 And Death Shall Have No Dominion
 Chattering Fangs
-A Different Song
-Funny Spells
 Ghost Escalator (in D)
-Golden Road
 I'll Bring the Cheese
-Past Lives
 Retail in December
 Sketchy Joe's Blues (I Work in the Graveyard Now)
 Three O'Clock Ghosts
 Your Hours are Numbered
 
-[chapter] WORKING ON (EARLY STAGES)
+[chapter] CURRENT LONGLIST (TRY OCCASIONALLY)
+
+Baker Street
+La Bamba
+Cajun Moon
+City of New Orleans
+Down on the Corner
+Dream a Little Dream of Me
+Get it Right Next Time
+God Only Knows
+Hungry Like the Wolf
+I Can't Go For That
+Let's Dance
+Ride Like the Wind
+ROCKET MAN
+Sister Golden Hair
+We Both Go Down Together
+White Valiant
+
+[chapter] WISH LIST
+
+Africa (in B)
 Ain't Misbehavin'
+As Time Goes By
 Blue Moon
 Broken Wings
 But I'm Not
-God Only Knows
-Goodbye Yellow Brick Road
-Graceland
+Copacabana (in G minor)
+Everybody's Talkin' 
+Fifty Ways to Leave your Lover
+Garota de Ipanema
+Golden Years
 Gypsy
 How 'Bout Us
-I Can't Go For That
 Jane Says
-Jenny Shipley is not my Sister
 Jet
 Leather and Lace
+Life on Mars?
+Livin' on a Prayer
 Love Her Madly
 Making Plans for Nigel
 Meglio Stasera
+MOON RIVER
 Morgan of Mystic
 Raglan
 Reminiscing
+Rhiannon
 Smooth Operator
-STOP DRAGGIN' MY HEART AROUND
+Summer Breeze
 Summersong
+Thomas the Rhymer
+Time After Time
 Tin Man
 Tout L'Univers
+Vienna
+What Is Life
 A Whiter Shade of Pale
 Wichita Lineman
 Wicked Game
 Yankee Bayonet
 YOU CAN CALL ME AL
 
-
-[chapter] WORKING ON (STARTING TO SOUND OKAY)
-
-Avalon
-La Bamba
-Cajun Moon
-Dream a Little Dream of Me
-Get it Right Next Time
-Golden Brown
-Gonna See Her Tonight
-Hungry Like the Wolf
-New Slang
-She's Not There
-Sister Golden Hair
-Stuck in the Middle With You
-We Both Go Down Together
-White Valiant
-
-
-[chapter] CAN PLAY REASONABLY WELL
-America
-Baker Street
-Black Leg Miner
-Boy in the Bubble
-City of New Orleans
-Down on the Corner
-Let's Dance
-ROCKET MAN
-Walking on the Moon
-
-
-[chapter] OUT OF REACH FOR NOW
-
-As Time Goes By
-Copacabana (in G minor)
-Fifty Ways to Leave your Lover
-Garota de Ipanema
-Golden Years
-Life on Mars?
-MOON RIVER
-Rhiannon
-Ride Like the Wind
-Summer Breeze
-Thomas the Rhymer
-Time After Time
-Vienna
-What Is Life
-Africa (in B)
-Everybody's Talkin' 
-Livin' on a Prayer
-
-
 [chapter] NOT WORKING ON
-
-
 
 ALL THINGS ARE QUITE SILENT
 Auld Lang Syne
+Avalon
 Back, Baby (transposed)
+Black Leg Miner
 The Bones of You
 Boys of Bedlam
 Bus Stop
@@ -1801,7 +1794,6 @@ Through the cradle of the civil {B}war
 I'm {A}going to {E}Graceland, Graceland
 Memphis Tennes{B}see
 I'm {A}going to {E}Graceland  {E D A}
-
 {E}Poor boys and pilgrims with families
 And {B}we are {A}going to {E}Graceland  {E D A}
 My {E}traveling companion is nine years {B}old
@@ -1824,12 +1816,11 @@ Everybody sees the {B}wind blow
 I'm {A}going to {E}Graceland
 Memphis Tennes{B}see
 I'm {A}going to {E}Graceland  {E D A}
-{E}Poorboys and Pilgrims with families
+{E}Poor boys and pilgrims with families
 And {B}we are {A}going to {E}Graceland  {E D A}
-
 And my {E}traveling companions
-Are ghosts and empty {A}sockets
-I'm looking at ghosts and {E}empties  {E D A}
+Are ghosts and empty {B}sockets
+I'm {A}looking at {E}ghosts and empties  {E D A}
 But I've {E}reason to believe
 We all will be re{B}ceived
 {A}In {E}Graceland  {E D A}
@@ -1837,7 +1828,6 @@ We all will be re{B}ceived
 {E}There is a girl in New York City
 Who calls herself the human trampo{A}line
 And {C#m}sometimes when I'm falling, flying
-
 Or tumbling in turmoil I say
 {B}Woah, so this is what she means
 She means we're {E}bouncing into Graceland
@@ -1852,11 +1842,10 @@ I'm going to {E}Graceland  {E D A}
 For reasons I {E}cannot explain
 There's some part of me {B}wants to {A}see
 {E}Graceland  {E D A}
-
 And I may be ob{E}liged to defend
-Every love, every {A}ending
-Or maybe there's {E}no obligations now  {E D A}
-Maybe I've a {E}reason to believe
+Every love, every ending
+Or maybe there's {B}no {A}obli{E}gations now  {E D A}
+Maybe I've {E}reason to believe
 We all will be re{B}ceived
 {A}In {E}Graceland  {E D A}
 
@@ -2831,7 +2820,7 @@ My huckleberry {C/E}friend
 [title] Morgan of Mystic
 [credit] Tom Bulger
 
-{D}     A{E}hoy!  {D  E  et cetera}
+{C}     A{D}hoy!  {C  D  et cetera}
 What ship is this?
 Morgan of Mystic
 Bound for the blue
@@ -2842,7 +2831,7 @@ That anyone ever knew
 Come roaring down from the nest of the crows
 Are the waited words,
 "Thar she blows!"
-From stern to bow the heart of the ship
+From stem to stern the heart of the ship
 Beats proud and loud
 "Thar she blows!"
 Cane the struts, long boats splash down
