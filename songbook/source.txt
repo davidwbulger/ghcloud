@@ -33,6 +33,7 @@ The Call of the Mountain Thing
 America
 Boy in the Bubble
 A Different Song
+Fortress Around Your Heart
 Funny Spells
 Golden Brown
 Golden Road
@@ -1401,6 +1402,51 @@ From my {Am}own true {Am/E   Am  Am/E  Am/F#}love
 {G}Lost {G/G#}at      {Am  Am/E  Am  Am/E}sea
 
 [structure] Bridge and repeat chorus
+
+
+[title] Fortress Around Your Heart
+[credit] Sting
+
+{Gm9}Under the ruins of a walled city
+Crumbling towers and beams of yellow light
+No flags of truce, no cries of pity
+The siege guns have been pounding through the night
+{Eb13}It took a day to build the city
+We walked through its streets in the afternoon
+{F#m9}As I returned across the fields I'd known
+I recognised the walls that I'd once laid
+Had to stop in my tracks for fear
+Of {B7}walking on the mines I'd laid
+
+[structure] Chorus:
+
+And {Em}if I {D/F#}built this {G}fort{Am}ress a{D}round your heart
+En{Em}circled {D/F#}you in {G}trenches {Am}and barbed {D}wire
+Then {Em}let me {D/F#}build a {G}bridge  {Am}
+For I {D}cannot fill the chasm
+And {Cm7}let me {Dm7}set the {Ebmaj7}battle{F}ments on {Gm9}fire
+
+Then I went off to fight some battle
+That I'd invented inside my head
+{Eb13}Away so long for years and years
+You probably thought or even wished that I was dead
+{F#m9}While the armies all are sleeping
+Beneath the tattered flag we'd made
+I had to stop my tracks for fear
+Of {B7}walking on the mines I'd laid
+
+[structure] Repeat Chorus
+
+This prison has now become your home
+A sentence you seem prepared to pay
+{Eb13}It took a day to build the city
+We walked through its streets in the afternoon
+{F#m9}As I returned across the lands I'd known
+I recognised the fields where I'd once played
+Had to stop in my tracks for fear
+Of {B7}walking on the mines I'd laid
+
+[structure] Repeat Chorus
 
 
 
