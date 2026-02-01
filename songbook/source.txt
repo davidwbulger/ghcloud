@@ -44,7 +44,7 @@ Jenny Shipley is not my Sister
 New Slang
 Past Lives
 She's Not There
-STOP DRAGGIN' MY HEART AROUND
+Stop Draggin' My Heart Around
 Stuck in the Middle With You
 Walking on the Moon
 
@@ -73,7 +73,7 @@ Hungry Like the Wolf
 I Can't Go For That
 Let's Dance
 Ride Like the Wind
-ROCKET MAN
+Rocket Man
 Sister Golden Hair
 We Both Go Down Together
 White Valiant
@@ -101,7 +101,7 @@ Livin' on a Prayer
 Love Her Madly
 Making Plans for Nigel
 Meglio Stasera
-MOON RIVER
+Moon River
 Morgan of Mystic
 Raglan
 Reminiscing
@@ -119,11 +119,11 @@ A Whiter Shade of Pale
 Wichita Lineman
 Wicked Game
 Yankee Bayonet
-YOU CAN CALL ME AL
+You Can Call Me Al
 
 [chapter] NOT WORKING ON
 
-ALL THINGS ARE QUITE SILENT
+All Things Are Quite Silent
 Auld Lang Syne
 Avalon
 Back, Baby (transposed)
@@ -134,8 +134,8 @@ Bus Stop
 Cars
 Cripple Creek
 Cuckoo Bird
-DO IT AGAIN
-DON'T ASK ME WHY
+Do It Again
+Don't Ask Me Why
 Every Little Thing She Does Is Magic
 Fire & Rain
 For My Own True Love Lost at Sea (in A minor)
@@ -157,7 +157,7 @@ Oh Susanna
 A Place in the Sun
 Red River Valley
 Shady Grove
-SHE'S GOT A WAY
+She's Got a Way
 Show Me the Way
 Southern Cross
 Teardrop
@@ -195,7 +195,7 @@ The Hazards of Love 4 (The Drowning)
 
 
 [title] Africa (in B)
-[credit] TOTO
+[credit] TotO
 [structure] Intro:  A | C#m || x4
 
 {B}  I hear the drums {D#m}echoing to{G#m}night
@@ -252,8 +252,8 @@ Frightened of this {A}thing that I've be{C#m}come
       Ain't misbe{Emin7}havin', I'm {Amin7}savin' all my {D7}love for {G}you{C  D7   G  F#/D     G}
 
 
-[title] ALL THINGS ARE QUITE SILENT
-[credit] STEELEYE SPAN 
+[title] All Things Are Quite Silent
+[credit] Steeleye Span 
 
 {[Am  G  Em]x2}
 All {Am}things are quite {D}silent, each mortal at {Am}rest,
@@ -1148,8 +1148,8 @@ Are {G/B}two uni{C}verses
 {C/D}That {E7}never can {Am}meet
 
 
-[title] DO IT AGAIN
-[credit] STEELY DAN
+[title] Do It Again
+[credit] Steely Dan
 In the {Bm}mornin' you go gunnin' for the man who stole your water
 And you fire till he's done in but they catch you at the border
 And the mourners are all singin' as they drag you by your feet
@@ -1171,8 +1171,8 @@ In the land of milk and honey you must put them on the table
 
 
 
-[title] DON'T ASK ME WHY
-[credit] BILLY JOEL
+[title] Don't Ask Me Why
+[credit] Billy Joel
  
 [structure] Intro: G/B - G/C - G/Bb - x 6
 
@@ -1407,16 +1407,16 @@ From my {Am}own true {Am/E   Am  Am/E  Am/F#}love
 [title] Fortress Around Your Heart
 [credit] Sting
 
-{Gm9}Under the ruins of a walled city
+{Gm9 ( a,d  g,c  f,a )}Under the ruins of a walled city
 Crumbling towers and beams of yellow light
 No flags of truce, no cries of pity
 The siege guns have been pounding through the night
-{Eb13}It took a day to build the city
+{Eb13 ( g,db  eb,c  g,bb )}It took a day to build the city
 We walked through its streets in the afternoon
-{F#m9}As I returned across the fields I'd known
+{F#m9 ( g#,c#  f#,b  e,g# )}As I returned across the fields I'd known
 I recognised the walls that I'd once laid
 Had to stop in my tracks for fear
-Of {B7}walking on the mines I'd laid
+Of {B7/4 ( e,a  d#,g#  c#,f# )}walking on the mines I'd laid
 
 [structure] Chorus:
 
@@ -1424,7 +1424,7 @@ And {Em}if I {D/F#}built this {G}fort{Am}ress a{D}round your heart
 En{Em}circled {D/F#}you in {G}trenches {Am}and barbed {D}wire
 Then {Em}let me {D/F#}build a {G}bridge  {Am}
 For I {D}cannot fill the chasm
-And {Cm7}let me {Dm7}set the {Ebmaj7}battle{F}ments on {Gm9}fire
+And {Cm7}let me {Dm7}set the {Ebmaj7}battle - {F}ments on {Gm9}fire
 
 Then I went off to fight some battle
 That I'd invented inside my head
@@ -1456,15 +1456,15 @@ Of {B7}walking on the mines I'd laid
 
 [structure] [Structure is Intro, Verse, Chorus, Intro, Verse, Bridge, Chorus, Intro]
 
-There lives a lady old and grey, away from whom good folk all stay
+{Am} There lives a lady old and grey, away from whom good folk all stay
 No one knows her name for sure, but everybody calls her Fay
-The people of these parts have always viewed her as a bane
-But fear has struck their hearts anew since she has gone insane
-Now the biggest danger's all the spells she casts that go astray
+The people of these {C}parts have always {D}viewed her as a bane
+But {Am}fear has struck their {C}hearts anew since {D}she has gone insane
+{Am}Now the biggest danger's all the spells she casts that go astray
 
 [structure] Chorus:
-If this song cannot prevent ya from wandering where she dwells
-At least watch out for her dementia and her funny spells
+{G}If this song {C}cannot prevent ya from {Em7}wandering where she {D}dwells
+At {G}least watch out {C}for her dementia {D}and her funny {Am}spells
 
 She’s got a lot going on upstairs, but sadly it’s a vacant lot
 She thought she thought a thought, but then she thought, was that a thought, or not?
@@ -1473,7 +1473,7 @@ But even accidentally she very well may kill ya
 The safer incantations seem to be the ones that she forgot
 
 [structure] Bridge:
-When trees are chatting with the ferns
+When {Dm}trees are {C}chatting with the {F}ferns  {Cmaj7 et cetera}
 You know she's having one of her turns
 If her curses are sounding garbled
 It means that she's decreasingly marbled
@@ -2847,8 +2847,8 @@ Whoa, you're prison bound
 
 
 
-[title] MOON RIVER
-[credit] HENRY MANCINI AND JOHNNY MERCER
+[title] Moon River
+[credit] Henry Mancini and Johnny Mercer
 {C}Moon {Am}River, {F}wider than a {C/E}mile
 I'm {F}crossing you in {C/E}style some {Bø7}day     {E7}
 Old {Am}dream {C7/A}maker, you {F}heart {Bb9#11}breaker,
@@ -3425,8 +3425,8 @@ Gonna ride like the {Cm7}wind before I get {Bb}old
 
 
 
-[title] ROCKET MAN
-[credit] ELTON JOHN
+[title] Rocket Man
+[credit] Elton John
 
 {Em7}  She packed my bags last night, pre-{A9}flight,  {Em7}Zero hour, nine a.{A9}m.
 {C}And I'm gonna be {G}high as a {Am}kite by {D}then
@@ -3501,7 +3501,7 @@ Nearly drive my crazy
 
 
 
-[title] SHE'S GOT A WAY
+[title] She's Got a Way
 [credit] Billy Joel
 {C}She's got a {G/B}way a{Am}bout her {C7/G}
 I {F}don't know what it is
@@ -3799,8 +3799,8 @@ In the Southern Cross
 
 
 
-[title] STOP DRAGGIN' MY HEART AROUND
-[credit] TOM PETTY 
+[title] Stop Draggin' My Heart Around
+[credit] Tom Petty and Mike Campbell
 [structure] A  Asus4  A  Asus2  Asus4  A  Asus2  A
 [structure] Cadd9 G/B   Cadd9
 [structure] Em  G  A  Em  G  A  Em  G  A  Em  G  A 
@@ -4717,8 +4717,8 @@ But oh my love, though our bodies may be parted, though our skin may not touch s
 Look for me with the sun-bright sparrow; I will come on the breath of the wind
 
 
-[title] YOU CAN CALL ME AL
-[credit] PAUL SIMON
+[title] You Can Call Me Al
+[credit] Paul Simon
 
 {D}  A man walks down the street
 He says{Em7},  Why am I {Asus4}soft in the {A}middle now?
