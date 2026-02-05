@@ -195,7 +195,7 @@ The Hazards of Love 4 (The Drowning)
 
 
 [title] Africa (in B)
-[credit] TotO
+[credit] Toto
 [structure] Intro:  A | C#m || x4
 
 {B}  I hear the drums {D#m}echoing to{G#m}night
@@ -2328,10 +2328,10 @@ You'll wake in {A7}state
 {Asus2}     Ya toss & {Cmaj7}turn
 {Dm7}     Last light's out but {E7}you smell the steel {Fmaj7}burn
 And it's o{A7}kay
-{D7}     It may be the {G7}taste of a {G#7}new {Fmaj7}day{  F#7  Gmaj7#11/B  Cmaj7#11}
+{D7}     It may be the {G7}taste of a {G#7}new {Fmaj7}day{  F#7  Gmaj7#11  Baddb9  Cmaj7#11}
 
 When all disparate {Gmaj7#11  A7  Cmaj7#11}souls
-Up and beat their {Gmaj7#11  %/B  Cmaj7#11}wings
+Up and beat their {Gmaj7#11  Baddb9  Cmaj7#11}wings
 For the future {Gmaj7#11  A7  Cmaj7#11}holds
 But the strangest {Gmaj7#11}things
 

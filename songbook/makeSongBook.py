@@ -10,7 +10,7 @@ import sys
 
 ##  COMMAND-LINE ARGUMENTS  ###################################################
 # Allowable syntaxes should include
-#   python makeSongBook.py  #  take input from source.txt, output songbook.epub
+#   python makeSongBook.py  #  take input from source.txt, output songbook.html
 #   python makeSongBook.py source.txt  #  same
 #   python makeSongBook.py source.txt songbook  #  same
 if (len(sys.argv) > 3):
