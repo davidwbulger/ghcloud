@@ -33,6 +33,7 @@ The Call of the Mountain Thing
 America
 Boy in the Bubble
 A Different Song
+The Esoteric Temple of the Nation’s Memories
 Fortress Around Your Heart
 Funny Spells
 Golden Brown
@@ -1262,6 +1263,59 @@ Sweet dreams till sunbeams find you
 Sweet dreams that leave all worries far behind you
 But in your dreams whatever they be
 Dream a little dream of me.
+
+
+
+[title] The Esoteric Temple of the Nation’s Memories
+[credit] David Bulger
+                         
+{A}Six days of {Amaj7}riding, {E}two days of {D}climbing
+A {C}long night of {F}fighting with {G}beasts
+And we {A}came to the {Amaj7}gates of an {E}austere {D}monastery
+{C}Bustling with {F}all kinds of {D}priests
+His {C#m}majesty's {F#m}letter {C#m}earned us an {F#m}audience
+{Am}High in the abbot's {D}tower
+I {A}told him our {Amaj7}plight and {E}begged for what {D}help he could
+{C}Give in our {F}needful {G}hour  {B7}
+
+[structure] CHORUS:
+                                            
+We are the {E}Esoteric {D}Temple of the {G}Nation's Memo{Cmaj7}ries
+You've {G}never even {A}heard of most of our {C}fields of {D}exper{E}tise  {E7}
+
+For hundreds of years we have quietly gathered
+All knowledge and honed all techniques
+We'll have you trained up    and equipped for your dangerous
+Mission in just a few weeks
+You'll learn about fighting by hand and with various
+Weapons on land and at sea
+You'll work harder here than you ever imagined you could
+You'll be all you can be
+
+[structure] REPEAT CHORUS
+
+Now you've learned sailing (in theory, at least)
+And how to compute your position
+And strategy, tactics, manouvers and such
+In case fighting occurs in your mission
+You've learned how to spy, with an unnoticed eye
+To see all but be seen by none
+Remember your lessons, and keep your morale
+Though your chances be hundreds to one
+
+[structure] REPEAT CHORUS
+
+Carry this boat to the foot of the mountain
+And follow the river to sea
+Go undetected, blend in if you can
+And seize every fortuity
+Learn more of this recondite regent, and find us
+A way to avoid subjugation
+Go valiantly, whether to death or success
+                                  
+You're the {C}hope and the {F}pride {G}of the {C}nation
+
+
 
 [title] Every Little Thing She Does Is Magic
 [credit] The Police
