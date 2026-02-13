@@ -21,12 +21,13 @@
 [layout]
 
 
-[chapter] OPEN MIC PRACTICE LIST FOR 2026-02-12
+[chapter] OPEN MIC PRACTICE LIST FOR 2026-03-12
 
-Cupid
-Ride Like the Wind
+Funny Spells
 Rocket Man
-The Call of the Mountain Thing
+Jenny Shipley is not my Sister
+Gonna See Her Tonight
+Sketchy Joe's Blues (I Work in the Graveyard Now)
 
 [chapter] CURRENT FOCUS
 
@@ -35,14 +36,11 @@ Boy in the Bubble
 A Different Song
 The Esoteric Temple of the Nation’s Memories
 Fortress Around Your Heart
-Funny Spells
 Golden Brown
 Golden Road
-Gonna See Her Tonight
 Goodbye Yellow Brick Road
 Graceland
 Here Comes Your Man
-Jenny Shipley is not my Sister
 New Slang
 Past Lives
 She's Not There
@@ -54,11 +52,11 @@ Walking on the Moon
 [chapter] ORIGINALS
 
 And Death Shall Have No Dominion
+The Call of the Mountain Thing
 Chattering Fangs
 Ghost Escalator (in D)
 I'll Bring the Cheese
 Retail in December
-Sketchy Joe's Blues (I Work in the Graveyard Now)
 Three O'Clock Ghosts
 Your Hours are Numbered
 
@@ -68,6 +66,7 @@ Baker Street
 La Bamba
 Cajun Moon
 City of New Orleans
+Cupid
 Down on the Corner
 Dream a Little Dream of Me
 Get it Right Next Time
@@ -75,6 +74,7 @@ God Only Knows
 Hungry Like the Wolf
 I Can't Go For That
 Let's Dance
+Ride Like the Wind
 Sister Golden Hair
 We Both Go Down Together
 White Valiant
