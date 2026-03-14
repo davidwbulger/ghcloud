@@ -1692,7 +1692,11 @@ And I thought I heard you say
 
 {A}  God only {E/G#}knows what I'd be with{F#m7}out you. {E}
 
-{|G    Em6    Bm   Bm7  E7|  (Aah-aah-aah, Doo-doo-doo)}
+[comment] Bass: (e,e; f#,eg; cdfga) x2
+[comment] Lead: (c#,c#; a; c#b; agfed) x2
+
+{(c#/E  c#/E,  a/F#,  c#/E  b/G,  a/C  g/D  f/F  e/G  d/A) x2}  
+{|G/D    Em6    Bm/F#   Bm7/F#  E7/D|  (Aah-aah-aah, Doo-doo-doo)}
 {|A/E   Fdim    A/E   D#m7?5|  (Bah-buppa-bah, Bah-buppa-bah)}
 
 {D/A}    God only {A/C#}knows what I'd be with-{Bm7}out you.
