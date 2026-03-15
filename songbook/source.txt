@@ -24,9 +24,11 @@
 
 [chapter] CURRENT FOCUS
 
+Acacia Street
+After the Fiasco
 A Different Song
 Dream a Little Dream of Me
-The Esoteric Temple of the Nation’s Memories
+The Esoteric Temple of the Nation's Memories
 Fortress Around Your Heart
 Funny Spells
 God Only Knows
@@ -40,6 +42,7 @@ New Slang
 Past Lives
 Rocket Man
 She's Not There
+Steppin' Out (in E)
 Stop Draggin' My Heart Around
 Stuck in the Middle With You
 Walking on the Moon
@@ -193,6 +196,53 @@ The Hazards of Love 4 (The Drowning)
 
 
 
+[title] Acacia Street
+[credit] Girafferty
+
+<i>(Work in progress)</i>
+
+[structure] Intro:
+{|E7sus4| Gm7  | Am7  |  %   | x3}
+{|  A   | A  C |  A   | A  C |  G   |E7sus4|  D   |  C   | x2}
+
+{E}  Munching your way down {Esus4}A  -  ca {E}- cia Street{ Esus4}
+{E}  Sky at your head, {Esus4}       {E}ground at your feet, {Esus4}well
+An{Bm}other lazy day, as the {D}branches gently sway
+And you {A}look down on ever{Asus4}y   -   {A}thing
+
+{E}  The Serengeti {Esus4}makes you {E}feel so bold, it's {Esus4}got
+{E}  Not many people, {Esus4}and it's {E}well patrolled, and {Esus4}your
+{Bm}Neck is very long, so you me{D}ander along
+As if {A}trying to look {Asus4}temp   -   {A}ting
+
+{Am7}    They used to think that you were {Em}part  {Esus2}leo  -  {Em}pard
+{Am7}    They used to say that you were {Em}part  {Esus2}ca  -  {Em}mel
+But {G}you're giraffing, {D}you're giraffing {A  Asus2  A  Asus4  A}now
+{Am7}    Another leaf and then you'll {Em}be  {Esus2}hap -  {Em}py
+{Am7}    Munch one more leaf and then you'll {Em}be  {Esus2}hap -  {Em}py
+And {G}you're laughing, {D}you're laughing {E}now   {C}
+
+[structure] Instrumental: last 16 bars of Intro
+
+{E}  Swaying through the trees {Esus4}  you {E}move with grace  {Esus4}
+Though you've {E}got knobbly knees {Esus4}and a {E}silly face {Esus4}
+Your {Bm}spots and patches mean that you {D}can't be seen
+And you're {A}hiding from eve{Asus4}ry   -   {A}thing
+
+{E}  When you find water on {Esus4}that   {E}dusty land, you've {Esus4}gotta
+{E} Bend and fold {Esus4} and {E}work out how to stand   {Esus4}
+{Bm}Stretch that long neck down, but {D}don't fall in and drown
+Watch out for {A}lions and ever{Asus4}y   -   {A}thing
+
+{Am7}    When you drink it isn't {Em}so {Esus2}ea  -  {Em}sy
+With {Am7}legs akimbo it ain't {Em}so {Esus2}ea  -  {Em}sy
+But {G}you're quaffing, {D}you're quaffing {A  Asus2  A  Asus4  A}now
+{Am7}    And when you wake up it's a {Em}new {Esus2}mor -  {Em}ning
+{Am7}    The sun is shining it's a {Em}new  {Esus2}mor  -  {Em}ning
+And {G}you're giraffing, {D}you're giraffing {E}now  {C}
+
+
+
 [title] Africa (in B)
 [credit] Toto
 [structure] Intro:  A | C#m || x4
@@ -223,6 +273,44 @@ Frightened of this {A}thing that I've be{C#m}come
 {B  D#7    G#m}    Hurry, boy, it's {A}waiting there for you{ C#m}
 
 [structure] Repeat chorus
+
+
+
+[title] After the Fiasco
+[credit] David Bulger
+
+<i>(Work in progress)</i>
+
+{Cø7} After the fi{Eø7}asco
+{Cø7} We didn't learn {Eø7}jack
+{F9} Events were miscon{Bb}strued
+It was {F9}too much to un{Bb}pack
+We blamed one another
+Hypocritically
+And further polarised ourselves
+Politically
+
+After the fiasco
+Nothing felt clean
+Every surface blotchy
+With an oily sheen
+No one condescended
+To listen to their equals
+The studios filmed only
+Reboots and sequels
+
+Chorus (just the title again?)
+
+After the fiasco
+Every day another dictum
+Everyone you talked to, somehow
+Was the biggest victim
+After all the damage
+When it all had come apart
+We just put it back together
+Like it had been at the start
+
+Repeat chorus
 
 
 
@@ -1264,7 +1352,7 @@ Dream a little dream of me.
 
 
 
-[title] The Esoteric Temple of the Nation’s Memories
+[title] The Esoteric Temple of the Nation's Memories
 [credit] David Bulger
                          
 {A}Six days of {Amaj7}riding, {E}two days of {D}climbing
@@ -1518,7 +1606,7 @@ But {Am}fear has struck their {C}hearts anew since {D}she has gone insane
 {G}If this song {C}cannot prevent ya from {Em7}wandering where she {D}dwells
 At {G}least watch out {C}for her dementia {D}and her funny {Am}spells
 
-She’s got a lot going on upstairs, but sadly it’s a vacant lot
+She's got a lot going on upstairs, but sadly it's a vacant lot
 She thought she thought a thought, but then she thought, was that a thought, or not?
 Half the time her cat will strike the witch as unfamiliar
 But even accidentally she very well may kill ya
@@ -2908,7 +2996,7 @@ Whoa, you're prison bound
 {C}Moon {Am}River, {F}wider than a {C/E}mile
 I'm {F}crossing you in {C/E}style some {Bø7}day     {E7}
 Old {Am}dream {C7/A}maker, you {F}heart {Bb9#11}breaker,
-Wher  {Am}ev - {Am/G}er you're {F#ø7}go   -   {B7}ing, I'm {Em7}go - {A7}ing your {Dm7}way  {G9}
+Wher - {Am}ev - {Am/G}er you're {F#ø7}go   -   {B7}ing, I'm {Em7}go - {A7}ing your {Dm7}way  {G9}
 
 {C}Two {Am}drifters {F}off to see the {C/E}world
 There's {F}such a lot of {C/E}world to {Bø7}see    {E7}
@@ -3852,6 +3940,57 @@ Somebody fine will come along
 Make me forget about losing you
 
 In the Southern Cross
+
+
+
+[title] Steppin' Out (in E)
+[credit] Joe Jackson
+
+<i>(Haven't really worked out the chords yet)</i>
+
+{E}Now
+The {C}mist across the {D}window hides the {E}lines
+But {C}nothing hides the {D}colour of the {Bb}lights that {C}shine  {D}
+Electrici{Bb}ty so {C}fine
+Look and {D}dry your {Emaj7}eyes
+We
+So tired of all the darkness in our lives
+With no more angry words to say
+Can come alive
+Get into a car and drive
+To the other side
+Me babe, steppin' out
+Into the night
+Into the light
+You babe, steppin' out
+Into the night
+Into the light
+We
+Are young but getting old before our time
+We'll leave the T.V. and the radio behind
+Don't you wonder what we'll find
+Steppin' out tonight
+You
+Can dress in pink and blue just like a child
+And in a yellow taxi turn to me and smile
+We'll be there in just a while
+If you follow me
+Me babe, steppin' out
+Into the night
+Into the light
+You babe, steppin' out
+Into the night
+Into the light
+Me babe, steppin' out
+Into the night
+Into the light
+You babe, steppin' out
+Into the night
+Into the light
+Me babe, steppin' out
+Into the night
+Into the light
+
 
 
 
