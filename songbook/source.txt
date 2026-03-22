@@ -21,42 +21,42 @@
 [layout]
 
 
+[chapter] ORIGINALS
+
+After the Fiasco
+And Death Shall Have No Dominion
+The Call of the Mountain Thing
+Chattering Fangs
+A Different Song
+The Esoteric Temple of the Nation's Memories
+Funny Spells
+Ghost Escalator (in D)
+Golden Road
+I'll Bring the Cheese
+Past Lives
+Retail in December
+Sketchy Joe's Blues (I Work in the Graveyard Now)
+Three O'Clock Ghosts
+Your Hours are Numbered
+
 
 [chapter] CURRENT FOCUS
 
 Acacia Street
-After the Fiasco
-A Different Song
 Dream a Little Dream of Me
-The Esoteric Temple of the Nation's Memories
 Fortress Around Your Heart
-Funny Spells
 God Only Knows
-Golden Road
 Graceland
 I Can't Go For That
-I'll Bring the Cheese
 Jenny Shipley is not my Sister
 Life on Mars?
 New Slang
-Past Lives
 Rocket Man
 She's Not There
 Steppin' Out (in E)
 Stop Draggin' My Heart Around
 Stuck in the Middle With You
 Walking on the Moon
-
-[chapter] ORIGINALS
-
-And Death Shall Have No Dominion
-The Call of the Mountain Thing
-Chattering Fangs
-Ghost Escalator (in D)
-Retail in December
-Sketchy Joe's Blues (I Work in the Graveyard Now)
-Three O'Clock Ghosts
-Your Hours are Numbered
 
 [chapter] CURRENT LONGLIST (TRY OCCASIONALLY)
 
@@ -3313,6 +3313,7 @@ It was the usual schtick: I'd been a pharaoh, or an inventor
 It never seems to be anything boring
 But maybe we only remember the interesting lives
 
+{Vamp becomes Cm, G7, Eb7}
 One past life was different though
 I was a being on another world
 The world was flat
@@ -3324,6 +3325,8 @@ Through familiar places
 Then places you'd heard about
 Then places you hadn't
 
+
+{Time signature changes to 7/8; vamp changes to Cdim, Gmadd#11, Ebadd#9,#11}
 I was a restless soul
 One time I wandered so far
 I lost my way
@@ -3333,7 +3336,7 @@ But I only ever saw new places
 And now
 Here I am
 
-{Outro is C5, D5, Eb5, F5, G5, A5 (x4)}
+{TS changes back to 4/4; Outro is C5, D5, Eb5, F5, G5, A5 (x4), Dm}
 
 
 
