@@ -3313,7 +3313,7 @@ It was the usual schtick: I'd been a pharaoh, or an inventor
 It never seems to be anything boring
 But maybe we only remember the interesting lives
 
-{Vamp becomes Cm, G7, Eb7}
+{Vamp becomes Cm, G7, Ebmaj7}
 One past life was different though
 I was a being on another world
 The world was flat
