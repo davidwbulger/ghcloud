@@ -37,6 +37,7 @@ Past Lives
 Retail in December
 Sketchy Joe's Blues (I Work in the Graveyard Now)
 Three O'Clock Ghosts
+Utopia
 Your Hours are Numbered
 
 
@@ -4493,6 +4494,58 @@ And I could feel the {Bm}reaction
  
 [structure] Repeat Chorus
  
+
+
+
+[title] Utopia
+[credit] David Bulger
+
+[structure] Verse:
+{Bb}Crystal city {Eb7}on a hill {Ab}
+{Bb}High above the {Eb7}sea {Ab}
+{Bb}Every whistle, {Eb7}bell and frill {Ab}
+{Bb}Every luxur{Eb7}y {Ab}
+{Ab}Every street and {Gm}edifice {F7}
+In {Bb}gleaming marble {Eb7}tiled {Ab}
+{Bb}Fruit trees lush and {Eb7}pendulous {Ab}
+{Bb}Climate fair and {Eb7}mild {D7}
+
+[structure] Chorus in 4:
+Gm   Eb    Bb
+Exquisite Utopia
+Dm     F        Gm
+What a glorious view
+
+[structure] Verse:
+We don't work, or remember how
+Robots do our chores
+We have no patience now
+For anything that bores
+Robots keep us safe and warm
+And, given long enough,
+They can make our dreams take form
+And build all kinds of stuff
+
+[structure] Chorus in 4:
+Exquisite Utopia
+Home of the fortunate few
+
+[structure] Bridge:
+{C}Paradise {Bb}comes with {Gm}a  {C}price, and it's {Bb}steep
+{Gm}There's {Ab/C}only room {Ebmaj7}now for {Ab/C}wolves, and not {Ebmaj7}sheep
+Now there are just a few thousand alive
+Few enough that we can really thrive
+Exploiting the Earth at a sustainable rate
+Our way of life is not up for debate
+
+[structure] Chorus in 3, x2:
+{C}Ex{Bb}quisite {Eb}Uto{F}pia
+{C}Won't have {Bb}a home {F}for you {D7}
+
+[structure] Chorus in 4, x2:
+Exquisite Utopia
+Won't have a home for you
+
 
 
 
