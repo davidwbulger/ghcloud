@@ -21,23 +21,29 @@
 [layout]
 
 
-[chapter] ORIGINALS
+
+[chapter] KITSCH OMEN
 
 After the Fiasco
-And Death Shall Have No Dominion
-The Call of the Mountain Thing
 Chattering Fangs
 A Different Song
-The Esoteric Temple of the Nation's Memories
 Funny Spells
 Ghost Escalator (in D)
+Little Birds
+Past Lives
+Sketchy Joe's Blues (I Work in the Graveyard Now)
+Utopia
+
+
+[chapter] OTHER ORIGINALS
+
+And Death Shall Have No Dominion
+The Call of the Mountain Thing
+The Esoteric Temple of the Nation's Memories
 Golden Road
 I'll Bring the Cheese
-Past Lives
 Retail in December
-Sketchy Joe's Blues (I Work in the Graveyard Now)
 Three O'Clock Ghosts
-Utopia
 Your Hours are Numbered
 
 
@@ -590,6 +596,8 @@ Cause {G}he's rollin', {D}he's a rolling {A  Asus2  A  Asus4  A}stone
 {Am7}    The sun is shining it's a {Em}new  {Esus2}mor  -  {Em}ning
 And {G}you're going, {D}you're going {E}home  {C}
 
+
+
 [title] La Bamba
 
 Para bailar la {C}Bamba {F     G}
@@ -610,6 +618,8 @@ Una escalera larga y otra cosita ay arriba y arriba
 Ay arriba y arriba contigo ire, contigo ire, contigo ire
 
 [structure] Repeat Capitan section and Chorus
+
+
 
 [title] Black Leg Miner
 [structure] Slow
@@ -2807,6 +2817,17 @@ Nothing can {Db}change it
 {Dbs4}Life's what you {Ab}make it
 
 [structure] Repeat Intro
+
+
+
+[title] Little Birds
+[credit] Miloš Obradovic
+
+{Fm  Edim}
+{Fm}Words, they are like birds {Edim}
+They can {Fm}fly across a ravine {Edim} to reach the other side and the thick and thin
+They {Fm}breathe the sky, they {Edim}wing, they fly
+{Fm}Listen up, the {Edim}small bird perched on your {Fm}lips today in a {Edim}moment slips into the {Ab}fray {C  Ab  G}
 
 
 
