@@ -3818,7 +3818,7 @@ Well I {Em}tried to fake it I {F#m}don't mind saying I {G}just can't make it
 
 
 [title] Sittin' on the Dock of the Bay
-[title] Otis Redding
+[credit] Otis Redding
 
 {G}Sittin' in the mornin' {B7}sun
 I'll be {C}sittin' when the evenin' {A}comes
@@ -4009,50 +4009,42 @@ In the Southern Cross
 [title] Steppin' Out (in E)
 [credit] Joe Jackson
 
-<i>(Haven't really worked out the chords yet)</i>
+[structure] Intro is chords for half of chorus
 
 {E}Now
 The {C}mist across the {D}window hides the {E}lines
-But {C}nothing hides the {D}colour of the {Bb}lights that {C}shine  {D}
-Electrici{Bb}ty so {C}fine
-Look and {D}dry your {Emaj7}eyes
+But {C}nothing hides the {D}colour of the {Bm}lights that {C}shine  {D}
+Electrici{Bm}ty so {C}fine
+Look and {D}dry your {Emaj7 + rest of Intro chords}eyes
+
 We
 So tired of all the darkness in our lives
 With no more angry words to say
 Can come alive
 Get into a car and drive
 To the other side
-Me babe, steppin' out
+
+[structure] Chorus:
+{Emaj7}Me babe, steppin' {Dmaj7/E}ou    -    {Amaj9}ut
+{Em7}In - {A}to {D}the {A}night
+{C/E}In - {D}to {G/B}the {D}light
+{Emaj7 etc.}You babe, steppin' out
 Into the night
 Into the light
-You babe, steppin' out
-Into the night
-Into the light
+
 We
 Are young but getting old before our time
 We'll leave the T.V. and the radio behind
 Don't you wonder what we'll find
 Steppin' out tonight
+
 You
 Can dress in pink and blue just like a child
 And in a yellow taxi turn to me and smile
 We'll be there in just a while
-If you follow me
-Me babe, steppin' out
-Into the night
-Into the light
-You babe, steppin' out
-Into the night
-Into the light
-Me babe, steppin' out
-Into the night
-Into the light
-You babe, steppin' out
-Into the night
-Into the light
-Me babe, steppin' out
-Into the night
-Into the light
+If you follow (me)
+
+[structure] Repeat Chorus
 
 
 
