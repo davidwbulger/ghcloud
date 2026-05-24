@@ -21,6 +21,13 @@
 [layout]
 
 
+[chapter] JUNE L&P SET
+
+After Midnight
+After the Fiasco
+Past Lives
+America
+
 
 [chapter] KITSCH OMEN
 
@@ -49,26 +56,22 @@ Your Hours are Numbered
 
 [chapter] CURRENT FOCUS
 
-Acacia Street
-Dream a Little Dream of Me
+America
+After Midnight
 Fortress Around Your Heart
 God Only Knows
 Graceland
 I Can't Go For That
 Jenny Shipley is not my Sister
 Life on Mars?
-New Slang
-Rocket Man
 She's Not There
 Sittin' on the Dock of the Bay
 Steppin' Out (in E)
 Stop Draggin' My Heart Around
-Stuck in the Middle With You
-Walking on the Moon
 
 [chapter] CURRENT LONGLIST (TRY OCCASIONALLY)
 
-America
+Acacia Street
 Baker Street
 La Bamba
 Boy in the Bubble
@@ -76,6 +79,7 @@ Cajun Moon
 City of New Orleans
 Cupid
 Down on the Corner
+Dream a Little Dream of Me
 Get it Right Next Time
 Golden Brown
 Gonna See Her Tonight
@@ -83,9 +87,13 @@ Goodbye Yellow Brick Road
 Here Comes Your Man
 Hungry Like the Wolf
 Let's Dance
+New Slang
 Ride Like the Wind
+Rocket Man
 Sister Golden Hair
 Son of a Preacher Man
+Stuck in the Middle With You
+Walking on the Moon
 We Both Go Down Together
 White Valiant
 
@@ -281,6 +289,27 @@ Frightened of this {A}thing that I've be{C#m}come
 {B  D#7    G#m}    Hurry, boy, it's {A}waiting there for you{ C#m}
 
 [structure] Repeat chorus
+
+
+
+[title] After Midnight
+[credit] JJ Cale
+
+[structure] Intro:  (D  G/D  D7/F#  D7/G  G/A  D) x2
+
+{D} After midnight, {F} we're gonna {G} let it all hang {(D  G/D  D7/F#  D7/G  G/A  D) x2}out
+{D} After midnight, {F} we're gonna {G} chug-a-lug and {(D  G/D  D7/F#  D7/G  G/A  D) x2}shout
+
+[structure] Chorus:
+We're gonna {D}cause talk and suspicion
+{F}Give an exhibition
+{A}Find out what it is all about
+{D} After midnight, {F} we're gonna {G} let it all hang {(D  G/D  D7/F#  D7/G  G/A  D) x2}out
+
+{D} After midnight, {F} we're gonna {G}shake your tambou{(D  G/D  D7/F#  D7/G  G/A  D) x2}rine
+{D} After midnight, {F} it's gonna be {G}peaches and cream{(D  G/D  D7/F#  D7/G  G/A  D) x2}
+
+[structure] Repeat Chorus
 
 
 
