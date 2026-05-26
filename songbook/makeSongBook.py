@@ -13,11 +13,10 @@ import sys
 #   python makeSongBook.py  #  take input from source.txt, output songbook.html
 #   python makeSongBook.py source.txt  #  same
 #   python makeSongBook.py source.txt songbook  #  same
-if (len(sys.argv) > 3):
+if (len(sys.argv) > 2):
   raise ValueError(
-    f"Usage: python {sys.argv[0]} sourcefile targetfile")
+    f"Usage: python {sys.argv[0]} sourcefile")
 sourcefile = "source.txt" if len(sys.argv) < 2 else sys.argv[1]
-targetfile = "songbook" if len(sys.argv) < 3 else sys.argv[2]
 
 ##  SET UP THE FILES & FOLDERS  ###############################################
 if not os.path.isfile(sourcefile):
@@ -121,5 +120,5 @@ def replace_lookup(match):
 schtmlInnards = pattern.sub(replace_lookup, schtmlInnards)
 
 ##  WRITE THE SELF-CONTAINED HTML VERSION  ####################################
-with open('SongBook.html', 'w', encoding="utf-8") as f:
+with open('../docs/SongBook.html', 'w', encoding="utf-8") as f:
   f.write(schtml.replace("[[SONG CONTENT]]", schtmlInnards))
