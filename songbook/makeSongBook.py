@@ -120,5 +120,5 @@ def replace_lookup(match):
 schtmlInnards = pattern.sub(replace_lookup, schtmlInnards)
 
 ##  WRITE THE SELF-CONTAINED HTML VERSION  ####################################
-with open('../docs/SongBook.html', 'w', encoding="utf-8") as f:
+with open('../docs/index.html', 'w', encoding="utf-8") as f:
   f.write(schtml.replace("[[SONG CONTENT]]", schtmlInnards))
