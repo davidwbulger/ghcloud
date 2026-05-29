@@ -39,6 +39,7 @@ Ghost Escalator (in D)
 Little Birds
 Past Lives
 Sketchy Joe's Blues (I Work in the Graveyard Now)
+Total Destruction
 Utopia
 
 
@@ -4482,6 +4483,32 @@ At this time tomorrow, where do you reckon I'll be?
 Away down yonder in the holler, hangin' on a white oak tree
 
 [structure] Repeat chorus
+
+
+
+[title] Total Destruction
+[credit] Miloš Obradovic
+
+{B5}Sitting on top of a hill
+Over{E5}looking the {D#m}glistening {D}city
+{B5}The sky got brighter, still
+As {E5}time went {D#m}by  {D}
+
+{F#5}Many thoughts passed through my head
+{E5}And I could clearly fore{B5}see
+Total destruction
+{E5}For you and {D#m}me  {D}
+[structure] Repeat last two lines x4
+
+A few tears shed since the day
+Those fearful words faded away
+The heavy clouds began to clear
+It's a sunny day out here
+
+Many thoughts passed through my head
+And I could clearly foresee
+Total destruction
+It's up to you and me
 
 
 
