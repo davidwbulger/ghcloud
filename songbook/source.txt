@@ -36,11 +36,12 @@ Chattering Fangs
 A Different Song
 Funny Spells
 Ghost Escalator (in D)
-Little Birds
+I'll Bring the Cheese
 Past Lives
 Sketchy Joe's Blues (I Work in the Graveyard Now)
 Total Destruction
 Utopia
+Words
 
 
 [chapter] OTHER ORIGINALS
@@ -49,7 +50,6 @@ And Death Shall Have No Dominion
 The Call of the Mountain Thing
 The Esoteric Temple of the Nation's Memories
 Golden Road
-I'll Bring the Cheese
 Retail in December
 Three O'Clock Ghosts
 Your Hours are Numbered
@@ -57,14 +57,13 @@ Your Hours are Numbered
 
 [chapter] CURRENT FOCUS
 
-America
-After Midnight
 Fortress Around Your Heart
 God Only Knows
 Graceland
 I Can't Go For That
 Jenny Shipley is not my Sister
 Life on Mars?
+One Thing Leads to Another
 She's Not There
 Sittin' on the Dock of the Bay
 Steppin' Out (in E)
@@ -73,6 +72,8 @@ Stop Draggin' My Heart Around
 [chapter] CURRENT LONGLIST (TRY OCCASIONALLY)
 
 Acacia Street
+After Midnight
+America
 Baker Street
 La Bamba
 Boy in the Bubble
@@ -317,8 +318,6 @@ We're gonna {D}cause talk and suspicion
 [title] After the Fiasco
 [credit] David Bulger
 
-<i>(Work in progress)</i>
-
 {Cø7} After the fi{Eø7}asco
 {Cø7} We didn't learn {Eø7}jack
 {F9} Events were miscon{Bbm}strued
@@ -337,8 +336,6 @@ To listen to their equals
 The studios greenlit only
 Reboots and sequels
 
-Chorus (just the title again?)
-
 After the fiasco
 Every day another dictum
 Everyone you talked to, somehow
@@ -348,7 +345,6 @@ When it all had come apart
 We just put it back together
 Like it had been at the start
 
-Repeat chorus
 
 
 
@@ -2851,7 +2847,7 @@ Nothing can {Db}change it
 
 
 
-[title] Little Birds
+[title] Words
 [credit] Miloš Obradovic
 
 {Fm  Edim}
@@ -3349,6 +3345,56 @@ I said to her Susanna dear, Susanna don't you cry
 
 [structure] Repeat chorus x2
 
+
+
+
+[title] One Thing Leads to Another
+[credit] The Fixx
+
+
+{Bbm7}  The deception with tact, just what are you trying to say?
+You've got a blank face, which irritates
+Communicate, pull out your party piece
+You see dimensions in two
+State your case with black or white
+But when one little cross leads to shots, grit your teeth
+You run for cover so discreet, why don't they
+
+Do what they say, say what you mean, and baby
+One thing leads to another
+You told me something wrong, I know I listen too long but then
+One thing leads to another
+
+The impression that you sell
+Passes in and out like a scent
+But the long face that you see comes from living close to your fears
+If this is up then I'm up but you're running out of sight
+You've seen your name on the walls
+And when one little bump leads to shock miss a beat
+You run for cover and there's heat, why don't they
+
+Do what they say, say what they mean
+One thing leads to another
+You told me something wrong, I know I listen too long but then
+One thing leads to another, yeah, yeah, yeah
+
+One thing (one thing) leads to another
+
+Then it's easy to believe
+Somebody's been lying to me
+But when the wrong word goes in the right ear
+I know you've been lying to me
+It's getting rough, off the cuff I've got to say enough's enough
+Bigger the harder he falls
+But when the wrong antidote is like a bulge in the throat
+You run for cover in the heat why don't they
+
+Do what they say, say what they mean
+One thing leads to another
+You told me something wrong, I know I listen too long but then
+One thing leads to another, yeah, yeah
+
+One thing (one thing) leads to another
 
 
 
@@ -4492,12 +4538,12 @@ Away down yonder in the holler, hangin' on a white oak tree
 {B5}Sitting on top of a hill
 Over{E5}looking the {D#m}glistening {D}city
 {B5}The sky got brighter, still
-As {E5}time went {D#m}by  {D}
+As {E5}time went {D#m}by     {D}
 
 {F#5}Many thoughts passed through my head
 {E5}And I could clearly fore{B5}see
 Total destruction
-{E5}For you and {D#m}me  {D}
+{E5}For you and {D#m}me    {D}
 [structure] Repeat last two lines x4
 
 A few tears shed since the day
