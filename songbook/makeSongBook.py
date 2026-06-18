@@ -4,8 +4,11 @@
 ##  PREAMBLE  #################################################################
 #==============================================================================
 
+import hashlib
 import os
+import pathlib
 import re
+import subprocess
 import sys
 
 ##  COMMAND-LINE ARGUMENTS  ###################################################
@@ -24,7 +27,7 @@ if not os.path.isfile(sourcefile):
     f"Source file '{sourcefile}' not found.")
 
 ##  ALSO READ THE TEMPLATE FOR THE SELF-CONTAINED HTML VERSION  #############
-with open("schtmlTemplate.html", encoding="utf-8") as fid:
+with open("schtmlTemplate.html", 'r', encoding="utf-8") as fid:
   schtml = fid.read()
 schtmlInnards = ""
 title = ""
@@ -40,6 +43,22 @@ def dispatchSong(html, title):
 def flushSong():
   if mode == "songdefs" and songnum >= 0:
     dispatchSong(innards, title)
+
+def LilypondToSvg(lpprog):
+  name = hashlib.sha256(lpprog.encode()).hexdigest()
+  cachedir = pathlib.Path('svgcache')
+  basepath = cachedir / ('lp' + name)
+  if not os.path.isfile(basepath.with_suffix('.cropped.svg')):
+    basepath.with_suffix('.lp').write_text(lpprog, encoding='utf-8')
+    try:
+      subprocess.run(['lilypond', '--svg', '-dcrop', '-o', str(basepath),
+        str(basepath)+'.lp'], check=True)
+    except:
+      raise ValueError(f'Lilypond commands incompilable: {lpprog}')
+  with open(basepath.with_suffix('.cropped.svg'), 'r', encoding="utf-8") as fid:
+    svg = fid.read()
+  return f"<div class='sheetmusic'>\n{svg}\n</div>\n"
+
 
 ##  PROCESS THE SOURCE FILE  ##################################################
 
@@ -91,6 +110,16 @@ with open(sourcefile, 'r', encoding='utf-8') as source_fid:
           if mode != "songdefs":
             raise ValueError("[structure] tag used out of songdefs mode")
           innards += f"<p class='structure'>{content}</p>\n"
+        case "sheetmusic":
+          if mode != "songdefs":
+            raise ValueError("[sheetmusic] tag used out of songdefs mode")
+          mode = "sheetmusic"
+          lilypondProg = ''
+        case "endsheetmusic":
+          if mode != "sheetmusic":
+            raise ValueError("[endsheetmusic] tag doesn't match a [sheetmusic] tag")
+          innards += LilypondToSvg(lilypondProg)
+          mode = "songdefs"
         case _:
           raise ValueError(
             f"Unknown command [{command}] in {sourcefile}.")
@@ -103,6 +132,8 @@ with open(sourcefile, 'r', encoding='utf-8') as source_fid:
         csscl = 'lyric chords' if re.search(r'{.*}', line) else 'lyric'
         lyric = re.sub(r'{([^}]*)}', r'<sup class="chord">\1</sup>', line)
         innards += f"<p class='{csscl}'>{lyric}</p>\n"
+    elif mode == "sheetmusic":
+      lilypondProg += line
 
 ##  ADD THE LAST SONG TO THE DICT  ############################################
 flushSong()

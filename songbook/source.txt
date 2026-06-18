@@ -3351,6 +3351,56 @@ I said to her Susanna dear, Susanna don't you cry
 [title] One Thing Leads to Another
 [credit] The Fixx
 
+[sheetmusic]
+\version "2.26.0"
+\header {tagline=##f}
+\paper {indent=0}
+\score {
+  <<
+    \new Staff = "RH" {
+      \clef treble
+      \key bes \minor
+      \time 4/4
+
+      \repeat volta 2 {
+        \relative {
+          <des' f aes bes>4
+          <des f aes bes>8 r8
+          r8 <des f aes bes>8
+          r8 <des f aes>8~ |
+          <des f aes>4 g4
+          <des f aes>8 g4
+          <des f aes bes>8~ |
+          <des f aes bes>4
+          <des f aes bes>8 r8
+          r8 <des f aes bes>8
+          r8 <des f aes bes>8~ |
+          <des f aes bes>4
+          <des f aes bes>8 r8
+          r8 <des f aes bes>8
+          r8 <des f aes bes>8~
+        }
+      }
+    }
+
+    \new Staff = "LH" {
+      \clef bass
+      \key bes \minor
+      \time 4/4
+
+      \repeat volta 2 {
+        \relative {
+          bes,4 r8 bes8 des4 bes8 r8 |
+          r2 r8 ees8 des4 |
+          bes4 des8 bes8 r2 |
+          r2 r4 r8 aes8
+        }
+      }
+    }
+  >>
+  \layout { }
+}
+[endsheetmusic]
 
 {Bbm7}  The deception with tact, just what are you trying to say?
 You've got a blank face, which irritates
