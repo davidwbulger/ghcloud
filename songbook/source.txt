@@ -21,22 +21,12 @@
 [layout]
 
 
-[chapter] JUNE L&P SET
 
-After Midnight
-After the Fiasco
-Past Lives
-America
-
-
-[chapter] KITSCH OMEN
+[chapter] CORGI BOULEVARD BAND (practising)
 
 After the Fiasco
 Chattering Fangs
-A Different Song
-Funny Spells
 Ghost Escalator (in D)
-I'll Bring the Cheese
 Past Lives
 Sketchy Joe's Blues (I Work in the Graveyard Now)
 Total Destruction
@@ -44,25 +34,29 @@ Utopia
 Words
 
 
-[chapter] OTHER ORIGINALS
+[chapter] CORGI BOULEVARD BAND (possibilities)
 
 And Death Shall Have No Dominion
-The Call of the Mountain Thing
-The Esoteric Temple of the Nation's Memories
+A Different Song
+Funny Spells
 Golden Road
+I'll Bring the Cheese
 Retail in December
 Three O'Clock Ghosts
 Your Hours are Numbered
 
 
+[chapter] OTHER ORIGINALS
+
+The Call of the Mountain Thing
+The Esoteric Temple of the Nation's Memories
+
+
 [chapter] CURRENT FOCUS
 
 Fortress Around Your Heart
-God Only Knows
 Graceland
-I Can't Go For That
 Jenny Shipley is not my Sister
-Life on Mars?
 One Thing Leads to Another
 She's Not There
 Sittin' on the Dock of the Bay
@@ -90,6 +84,7 @@ Here Comes Your Man
 Hungry Like the Wolf
 Let's Dance
 New Slang
+Raglan
 Ride Like the Wind
 Rocket Man
 Sister Golden Hair
@@ -111,19 +106,21 @@ Copacabana (in G minor)
 Everybody's Talkin' 
 Fifty Ways to Leave your Lover
 Garota de Ipanema
+God Only Knows
 Golden Years
 Gypsy
 How 'Bout Us
+I Can't Go For That
 Jane Says
 Jet
 Leather and Lace
+Life on Mars?
 Livin' on a Prayer
 Love Her Madly
 Making Plans for Nigel
 Meglio Stasera
 Moon River
 Morgan of Mystic
-Raglan
 Reminiscing
 Rhiannon
 Smooth Operator
