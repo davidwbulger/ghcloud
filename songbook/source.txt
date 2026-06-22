@@ -52,18 +52,13 @@ The Call of the Mountain Thing
 The Esoteric Temple of the Nation's Memories
 
 
-[chapter] CURRENT FOCUS
+[chapter] COVERS: LEARNING
 
-Fortress Around Your Heart
 Graceland
-Jenny Shipley is not my Sister
 One Thing Leads to Another
-She's Not There
-Sittin' on the Dock of the Bay
-Steppin' Out (in E)
-Stop Draggin' My Heart Around
+Sittin' on the Dock of the Bay (in D)
 
-[chapter] CURRENT LONGLIST (TRY OCCASIONALLY)
+[chapter] COVERS: REPERTOIRE
 
 Acacia Street
 After Midnight
@@ -76,19 +71,24 @@ City of New Orleans
 Cupid
 Down on the Corner
 Dream a Little Dream of Me
+Fortress Around Your Heart
 Get it Right Next Time
 Golden Brown
 Gonna See Her Tonight
 Goodbye Yellow Brick Road
 Here Comes Your Man
 Hungry Like the Wolf
+Jenny Shipley is not my Sister
 Let's Dance
 New Slang
 Raglan
 Ride Like the Wind
 Rocket Man
+She's Not There
 Sister Golden Hair
 Son of a Preacher Man
+Steppin' Out (in E)
+Stop Draggin' My Heart Around
 Stuck in the Middle With You
 Walking on the Moon
 We Both Go Down Together
@@ -3940,40 +3940,40 @@ Well I {Em}tried to fake it I {F#m}don't mind saying I {G}just can't make it
 
 
 
-[title] Sittin' on the Dock of the Bay
+[title] Sittin' on the Dock of the Bay (in D)
 [credit] Otis Redding
 
-{G}Sittin' in the mornin' {B7}sun
-I'll be {C}sittin' when the evenin' {A}comes
-{G}Watching the ships roll {B7}in
-Then I'll {C}watch 'em roll away a{A}gain, yeah
+{D}Sittin' in the mornin' {F#7}sun
+I'll be {G}sittin' when the evenin' {E}comes
+{D}Watching the ships roll {F#7}in
+Then I'll {G}watch 'em roll away a{E}gain, yeah
 
 [structure] CHORUS:
-I'm {G}sittin' on the dock of the {E}bay
-Watching the {G}tide roll a{E}way
-I'm just {G}sittin' on the dock of the {A}bay
-Wasting {G}time  {E}
+I'm {D}sittin' on the dock of the {B}bay
+Watching the {D}tide roll a{B}way
+I'm just {D}sittin' on the dock of the {E}bay
+Wasting {D}time  {B}
 
-I {G}left my home in {B7}Georgia
-{C}Headed for the Frisco {A}Bay
-{G}I've had nothing to {B7}live for
-Look like {C}nothing's gonna come my {A}way
-
-[structure] Repeat Chorus
-
-{G} Look {D}like {C}nothing's gonna change
-{G} Eve{D}rything {C}still remains the same
-{G} I can't {D}do what {C}ten people {G}tell me to do
-{F} So I guess I'll re{D}main the same, yes
-
-{G}Sittin' here resting my {B7}bones
-And this {C}loneliness won't leave me a{A}lone
-{G}It's two thousand miles I {B7}roam
-Just to {C}make this dock my {A}home
+I {D}left my home in {F#7}Georgia
+{G}Headed for the Frisco {E}Bay
+{D}I've had nothing to {F#7}live for
+Look like {G}nothing's gonna come my {E}way
 
 [structure] Repeat Chorus
 
-[structure] Whisting outro over |:G|G|G|E:|
+{D} Look {A}like {G}nothing's gonna {D}change
+{A}Everything {G}still remains the {D}same
+I can't {A}do what {G}ten people {D}tell me to do
+{C} So I guess I'll re{A}main the same, yes
+
+{D}Sittin' here resting my {F#7}bones
+And this {G}loneliness won't leave me a{E}lone
+{D}It's two thousand miles I {F#7}roam
+Just to {G}make this dock my {E}home
+
+[structure] Repeat Chorus
+
+[structure] Whisting outro over |:D|D|D|B:|
 
 
 
