@@ -76,7 +76,7 @@ Get it Right Next Time
 Golden Brown
 Gonna See Her Tonight
 Goodbye Yellow Brick Road
-Here Comes Your Man
+Here Comes Your Man (in G)
 Hungry Like the Wolf
 Jenny Shipley is not my Sister
 Let's Dance
@@ -221,7 +221,7 @@ The Hazards of Love 4 (The Drowning)
 {|  A   | A  C |  A   | A  C |  G   |E7sus4|  D   |  C   | x2}
 
 {E}  Munching your way down {Esus4}A  -  ca {E}- cia Street{ Esus4}
-{E}  Sky at your head, {Esus4}       {E}ground at your feet, {Esus4}well
+{E}  Sky at your head, {Esus4}          {E}ground at your feet, {Esus4}well
 An{Bm}other lazy day, as the {D}branches gently sway
 As if {A}trying to look {Asus4}temp   -   {A}ting
 
@@ -247,14 +247,14 @@ And you're {A}hiding from eve{Asus4}ry   -   {A}thing
 {E}  When you find water on {Esus4}that   {E}dusty land, you've {Esus4}gotta
 {E} Bend and fold {Esus4} and {E}work out how to stand   {Esus4}
 {Bm}Stretch that long neck down, but {D}don't fall in and drown
-And watch out for {A}lions and ever{Asus4}y   -   {A}thing
+And watch out for {A}crocodiles sur{Asus4}fa   -   {A}cing
 
 {Am7}    When you drink it isn't {Em}so {Esus2}ea  -  {Em}sy
 With {Am7}legs akimbo it ain't {Em}so {Esus2}ea  -  {Em}sy
 But {G}you're quaffing, {D}you're quaffing {A  Asus2  A  Asus4  A}now
 {Am7}    And when you wake up it's a {Em}new {Esus2}mor -  {Em}ning
-{Am7}    The sun is shining it's a {Em}new  {Esus2}mor  -  {Em}ning
-And {G}you're giraffing, {D}you're giraffing {E}now  {C}
+{Am7}    If lions attack you'll see them with {Em}plenty of  {Esus2}war  -  {Em}ning
+'Cause {G}you're giraffing, {D}you're giraffing {E}now  {C}
 
 
 
@@ -294,19 +294,19 @@ Frightened of this {A}thing that I've be{C#m}come
 [title] After Midnight
 [credit] JJ Cale
 
-[structure] Intro:  (D  G/D  D7/F#  D7/G  G/A  D) x2
+[structure] Intro:  (D  G/D  D7/F#  D7/G  G/A) x2
 
-{D} After midnight, {F} we're gonna {G} let it all hang {(D  G/D  D7/F#  D7/G  G/A  D) x2}out
-{D} After midnight, {F} we're gonna {G} chug-a-lug and {(D  G/D  D7/F#  D7/G  G/A  D) x2}shout
+{D} After midnight, {F} we're gonna {G} let it all hang {(D  G/D  D7/F#  D7/G  G/A) x2}out
+{D} After midnight, {F} we're gonna {G} chug-a-lug and {(D  G/D  D7/F#  D7/G  G/A) x2}shout
 
 [structure] Chorus:
 We're gonna {D}cause talk and suspicion
 {F}Give an exhibition
 {G}Find out what it is all a{A7}bout
-{D} After midnight, {F} we're gonna {G} let it all hang {(D  G/D  D7/F#  D7/G  G/A  D) x2}out
+{D} After midnight, {F} we're gonna {G} let it all hang {(D  G/D  D7/F#  D7/G  G/A) x2}out
 
-{D} After midnight, {F} we're gonna {G}shake your tambou{(D  G/D  D7/F#  D7/G  G/A  D) x2}rine
-{D} After midnight, {F} it's gonna be {G}peaches and cream{(D  G/D  D7/F#  D7/G  G/A  D) x2}
+{D} After midnight, {F} we're gonna {G}shake your tambou{(D  G/D  D7/F#  D7/G  G/A) x2}rine
+{D} After midnight, {F} it's gonna be {G}peaches and cream{(D  G/D  D7/F#  D7/G  G/A) x2}
 
 [structure] Repeat Chorus
 
@@ -426,7 +426,7 @@ I'm {C}empty and {C/B}aching and {Am7}I don't know why
 They've {D}all {G}come to {D}look for A{Cmaj7}meri - {C}ca   [x3]
 
 [title] And Death Shall Have No Dominion
-[credit] Words by Dylan Thomas		Music by David Bulger
+[credit] Words by Dylan Thoma, Music by David Bulger
 {Emin}     And death shall {Asus2}have no dominion
 {Emin}     Dead men {Asus2}naked they shall be one
 {Emin}     With the man in the {Asus2}wind and the west moon
@@ -627,11 +627,11 @@ And {G}you're going, {D}you're going {E}home  {C}
 Para bailar la {C}Bamba {F     G}
 Para bailar la {C}Bamba se {F}nece{G}sita una poca de {C}gracia {F   G}
 Una poca de {C}gracia y {F}otra {G}cosita ay arriba y a{C}rriba {F   G}
-Ay arriba y a{C}rriba por {F}ti se{G}re, por ti se{C}re, por {F}ti se{G}re
+Ay arriba y a{C}rriba por {F}ti se{G}ré, por ti se{C}ré, por {F}ti se{G}ré
 
-[structure] Capitan section and Chorus:
+[structure] Capitán section and Chorus:
 Yo no soy mari{C}nero {F   G}
-Yo no soy mari{C}nero soy {F}capi{G}tan, soy capi{C}tan, soy {F}capi{G}tan
+Yo no soy mari{C}nero soy {F}capi{G}tán, soy capi{C}tán, soy {F}capi{G}tán
 
 {C}La, {F}la {G}Bamba  x3
 Bam{C}ba  {F   G}
@@ -641,7 +641,7 @@ Para subir al cielo se necesita una escalera larga
 Una escalera larga y otra cosita ay arriba y arriba
 Ay arriba y arriba contigo ire, contigo ire, contigo ire
 
-[structure] Repeat Capitan section and Chorus
+[structure] Repeat Capitán section and Chorus
 
 
 
@@ -982,7 +982,7 @@ If anybody strayed uphill, the creature got 'em
 And all was misery and fear
 
 [structure] Chorus ('call' is d,eb,d,bb,a; b,ab,g,f,e):
-{Gmaddm13}  The {Gm}call {Asus2}of the {Fm}Mountain {Gmaddm13 Gm Asus2 Fm}Thing
+{Gmaddm13}  The         {Gm}call   {Asus2}of the {Fm}Mountain {Gmaddm13  Gm  Asus2  Fm}Thing
 A bad tiding does it bring
 When you hear it start to sing
 The call of the Mountain Thing
@@ -1864,7 +1864,7 @@ And I thought I heard you say
 [credit] David Bulger
 
 {E5}  I've knocked my knuckles {A6/9}raw  {D/F#}
-{E5}  From here to Arkan{Amaj9}sas{     D/F#}
+{E5}  From here to Arkan{Amaj9}sas{       D/F#}
 {E5}  But I'm cheerful to a {A6/9}flaw  {D/F#}
 {Asus2}  On the Golden Road  {C   D/F#}
 
@@ -1972,35 +1972,35 @@ She gives me good loving and I don't mean maybe
 [credit] Elton John & Bernie Taupin
 INTRO:  |F C |Dm C |Bb C7 |F   
 
-{|Gm}|When are you gonna come{|C7}|down
+{|Gm}|When are you gonna come {|C7}|down
 {|F}|When are you going to land {|Bb}|
-{|Gm}|I should have stayed on the{|C7}|farm, should have
+{|Gm}|I should have stayed on the {|C7}|farm, should have
 {|F}|listened to my old man {|F}|
-You{|Gm}|know you can't hold me for{|C7}|ever
-I{|F}|didn't sign up with you {|Bb}|
-{|Eb}|I'm not a present for your{|C7}|friends to open
-This{|F}|boy's too young to be{|F}|singing the
-{|Db}|blues {|Eb}|   {|Ab}|Ah {|Db}|   {|Bbm}|Ah  {|C7}|
+You {|Gm}|know you can't hold me for-{|C7}|ever
+I {|F}|didn't sign up with you {|Bb}|
+{|Eb}|I'm not a present for your {|C7}|friends to open
+This {|F}|boy's too young to be {|F}| singing the
+{|Db}|blues {|Eb}|      {|Ab}|Ah {|Db}|       {|Bbm}|Ah   {|C7}|
 
-So{|F}|Goodbye yellow brick{|A7}|road
-where the{|Bb}|dogs of society{|F}|howl
-You{|D7}|can't plant me in your{|Gm}|penthouse
-I'm{|C7}|going back to my{|F}|plow {A7}
-{|Dm}|Back to the howling old{|A7}|owl in the woods
-{|Bb}|Hunting the horny black{|Db}|toad
-{|Db}|    {Eb}Oh I've{|F}|finally de{Am/E}cided my{|Dm}|future lies {C}
-Be{|Bb}|yond the {C7}yellow brick
-{|Db}|road {|Eb}|   {|Ab}|Ah {|Db}|   {|Bbm}|Ah  {|C7}|   {|F}|
+So {|F}|Goodbye yellow brick {|A7}|road
+where the {|Bb}|dogs of society {|F}|howl
+You {|D7}|can't plant me in your {|Gm}|penthouse
+I'm {|C7}|going back to my {|F}|plow {A7}
+{|Dm}|Back to the howling old {|A7}|owl in the woods
+{|Bb}|Hunting the horny black {|Db}|toad
+{|Db}|    {Eb}Oh I've {|F}|finally de{Am/E}cided my {|Dm}|future lies {C}
+Be-{|Bb}|yond the {C7}yellow brick
+{|Db}|road {|Eb}|      {|Ab}|Ah {|Db}|       {|Bbm}|Ah  {|C7}|      {|F}|
 
-|What do you think you'll do|then?
-I|bet you'll shoot down your|plane
-It'll|take you a couple of|vodka and tonics
-to|set you on your feet again|
-|Maybe you'll get a re|placement
-There's|plenty like me to be|found
-|Mongrels who|ain't got a penny
-|Sniffing for tidbits like|you on the 
-|ground |  |Ah |  |Ah |  
+What do you think you'll do then?
+I bet you'll shoot down your plane
+It'll take you a couple of vodka and tonics
+to set you on your feet again
+Maybe you'll get a replacement
+There's plenty like me to be found
+Mongrels who ain't got a penny
+Sniffing for tidbits like you on the 
+ground   Ah   Ah
 
 [structure] REPEAT CHORUS
 
@@ -2152,22 +2152,22 @@ Poor boy, I been all around this world
 
 
 
-[title] Here Comes Your Man
+[title] Here Comes Your Man (in G)
 [credit] The Pixies
 
-{D} Outside there's a {A}boxcar waitin'
-{Em} Outside the {G}family stew
-{D} Out by the {A}fire breathin'
-{Em} Outside we {G}wait 'til face turns {D}blue
-I know the {A}nervous walkin'
-{Em} I know the {G}dirty beard hangs
-{D} Out by the {A}boxcar waitin'
-{Em} Take me away to {A}Nowhere Plains
+{G} Outside there's a {D}boxcar waitin'
+{Am} Outside the {C}family stew
+{G} Out by the {D}fire breathin'
+{Am} Outside we {C}wait 'til face turns {G}blue
+I know the {D}nervous walkin'
+{Am} I know the {C}dirty beard hangs
+{G} Out by the {D}boxcar waitin'
+{Am} Take me away to {D}Nowhere Plains
 
-{Bm} There is a wait so {G}long (so long, so {A}long)
-You'll never wait so {D} long
+{Em} There is a wait so {C}long (so long, so {D}long)
+You'll never wait so {G} long
 
-{G}  {A}Here comes your {D}man [x3]
+{C}    {D}Here comes your {G}man [x3]
 
 Big shake on the boxcar movin'
 Big shake to the land that's fallin' down
@@ -2177,7 +2177,7 @@ A big, big stone fall and break my crown
 There is a wait so long (so long, so long)
 You'll never wait so long
 
-{G}  {A}Here comes your {D}man [x4]
+{C}    {D}Here comes your {G}man [x4]
 
 [structure] Verse chords again
 Ay-yeah; Ay-yeah; Ah-ooh; Ah-ooh
@@ -2185,7 +2185,7 @@ Ay-yeah; Ay-yeah; Ah-ooh; Ah-ooh
 There is a wait so long (so long, so long)
 You'll never wait so long
 
-{G}  {A}Here comes your {D}man [x13]
+{C}    {D}Here comes your {G}man [x13]
 
 
 
@@ -2507,7 +2507,7 @@ You'll wake in {A7}state
 {Asus2}     Ya toss & {Cmaj7}turn
 {Dm7}     Last light's out but {E7}you smell the steel {Fmaj7}burn
 And it's o{A7}kay
-{D7}     It may be the {G7}taste of a {G#7}new {Fmaj7}day{  F#7  Gmaj7#11  Baddb9  Cmaj7#11}
+{D7}     It may be the {G7}taste of a {G#7}new {Fmaj7}day{    F#7  Gmaj7#11  Baddb9  Cmaj7#11}
 
 When all disparate {Gmaj7#11  A7  Cmaj7#11}souls
 Up and beat their {Gmaj7#11  Baddb9  Cmaj7#11}wings
@@ -2519,7 +2519,7 @@ But the strangest {Gmaj7#11}things
 {Gm,b9/Bb}     This is the {A7}wisdom of the saints and the in{Abmaj7}sane
 You'll hear them {Gmaj7#11}calling     {F#7  Fmaj7}
 
-She's a {E5}drea {G#5}-    {D5}mer  {A5}     [repeat to fade]
+She's a {E5}drea {G#5}-      {D5}mer  {A5}     [repeat to fade]
 
 
 
@@ -2722,11 +2722,10 @@ Take from me my lace
 [title] Let's Dance
 [credit] David Bowie
 
-Eb7
-Ah, Ah, Ah, Ah
+{Eb7}Ah, Ah, Ah, Ah
 
-Bb7sus4 / Bb7sus4 / Bbm6 / Bbm6
-Gb / Gb / Bbm7 / Bbm
+{Bb7sus4  Bb7sus4  Bbm6  Bbm6}
+{Gb  Gb  Bbm7  Bbm}
 
 Let's {Bb7sus4}dance, put on your red shoes and {Bbm6}dance the blues
 Let's {Gb}dance, to the song they're playin' on the {Bbm7}radio
@@ -2735,7 +2734,7 @@ Let's {Gb}sway, sway through the crowd to an {Bbm7}empty space
 
 [structure] Chorus:
 {Ab}   If you say run, I'll {Db}run with {Eb}you  {Db   Eb}
-{Ab}   If you say hide, we'll {Db/Eb}hide {Eb   Db/Eb   Eb}
+{Ab}   If you say hide, we'll {Db/Eb}hide    {Eb   Db/Eb   Eb}
 Be{Ab}cause my love for {Fm}you would {Db}break my heart in {Eb7}two
 If you should fall into my arms and tremble like a
 
@@ -3472,7 +3471,7 @@ Then places you'd heard about
 Then places you hadn't
 
 
-{Time signature changes to 7/8; vamp changes to Cdim, Gmadd#11, Ebadd#9,#11}
+{Time signature changes to 7/8; vamp changes to Cm, Gmadd#11, Ebadd#9,#11}
 I was a restless soul
 One time I wandered so far
 I lost my way
@@ -3612,9 +3611,9 @@ Spending the hours reminiscing
 [credit] David Bulger
 
 {Abm7}  You {Gm}gotta get {Emaj7}ready  {Eb7}
-You {Abm7}gotta {Gm}   {Emaj7}stock the shelves  {Eb7}
+You {Abm7}gotta {Gm}      {Emaj7}stock the shelves  {Eb7}
 {Abm7}San - {B}ta's {Db9}co - {Fbmaj7}ming
-You {Abm7}gotta {Gm}   {Emaj7}dress like elves  {Eb7}
+You {Abm7}gotta {Gm}      {Emaj7}dress like elves  {Eb7}
 
 [structure] Chorus:
 {Gb6/Ab5}Retail in December  {Fbsus2/Db5  Bbm/Ebm}
