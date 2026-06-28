@@ -22,19 +22,30 @@
 
 
 
-[chapter] CORGI BOULEVARD BAND (practising)
+[chapter] Planned set for L&P 2026-07-09
+
+Total Destruction
+Words/Birds
+Past Lives
+Sketchy Joe's Blues (I Work in the Graveyard Now)
+Steppin' Out (in E)
+
+
+
+[chapter] KITSCH OMEN (practising)
 
 After the Fiasco
 Chattering Fangs
+Cloud Formations
 Ghost Escalator (in D)
 Past Lives
 Sketchy Joe's Blues (I Work in the Graveyard Now)
 Total Destruction
 Utopia
-Words
+Words/Birds
 
 
-[chapter] CORGI BOULEVARD BAND (possibilities)
+[chapter] KITSCH OMEN (possibilities)
 
 And Death Shall Have No Dominion
 A Different Song
@@ -1131,6 +1142,16 @@ The con{Em}ductor sings his songs again, the {Bm}passengers will please refrain
 This {D}train got the disappearing {D7}railroad {G}blues
 
 [structure] Repeat chorus (but with "Good night" and "when the night is done")
+
+
+
+[title] Cloud Formations
+[credit] Miloš Obradovic
+
+{E  Emaj7  Amaj7  x3}
+{E  Emaj7  Bm}
+
+
 
 [title] Copacabana (in G minor)
 [credit] Barry Manilow
@@ -2843,7 +2864,7 @@ Nothing can {Db}change it
 
 
 
-[title] Words
+[title] Words/Birds
 [credit] Miloš Obradovic
 
 {Fm  Edim}
@@ -3352,6 +3373,7 @@ I said to her Susanna dear, Susanna don't you cry
 \header {tagline=##f}
 \paper {indent=0}
 \score {
+  \layout { \context { \Score proportionalNotationDuration=#1/12 } }
   <<
     \new Staff = "RH" {
       \clef treble
@@ -3394,7 +3416,6 @@ I said to her Susanna dear, Susanna don't you cry
       }
     }
   >>
-  \layout { }
 }
 [endsheetmusic]
 
@@ -4592,7 +4613,7 @@ Total destruction
 {E5}For you and {D#m}me    {D}
 [structure] Repeat last two lines x4
 
-A few tears shed since the day
+It's been a while since the day
 Those fearful words faded away
 The heavy clouds began to clear
 It's a sunny day out here
