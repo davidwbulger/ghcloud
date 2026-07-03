@@ -32,6 +32,15 @@ Steppin' Out (in E)
 
 
 
+[chapter] Likely to play soon with someone
+
+After Midnight
+Down on the Corner
+I Shall Be Released
+When My Ship Comes In
+
+
+
 [chapter] KITSCH OMEN (practising)
 
 After the Fiasco
@@ -2183,7 +2192,7 @@ Poor boy, I been all around this world
 I know the {D}nervous walkin'
 {Am} I know the {C}dirty beard hangs
 {G} Out by the {D}boxcar waitin'
-{Am} Take me away to {D}Nowhere Plains
+{Am} Take me away to {C}Nowhere Plains
 
 {Em} There is a wait so {C}long (so long, so {D}long)
 You'll never wait so {G} long
@@ -2201,7 +2210,7 @@ You'll never wait so long
 {C}    {D}Here comes your {G}man [x4]
 
 [structure] Verse chords again
-Ay-yeah; Ay-yeah; Ah-ooh; Ah-ooh
+Ay-yeah; ay-yeah; ah-ooh; ah-ooh
 
 There is a wait so long (so long, so long)
 You'll never wait so long
@@ -2420,6 +2429,33 @@ Use the body now you want my soul
 Do forget about it say no go  (Yeah)
  
 [structure] Repeat Chorus
+
+
+
+[title] I Shall Be Released
+[credit] Bob Dylan
+
+{A} They say every man must need pro{Bm}tection
+{C#m} They say every man must fall{A}
+Yet I swear I see my re{Bm}flection
+{C#m} Someplace so high above the wall{A}
+
+[structure] Chorus:
+I see my light come {Bm}shining
+{C#m} From the west down to the {A}east
+Any day now, {Bm} any day now
+{C#m} I shall be re{A}leased
+
+[structure] Harmonica Solo
+
+Down here next to me in this lonely crowd
+There's a man who swears he's not to blame
+All day long I hear him cry so loud
+Calling out that he's been framed
+
+[structure] Repeat Chorus
+
+
 
 
 
@@ -5030,6 +5066,48 @@ everything succeed
 [structure] Repeat Chorus
  
 [structure] Repeat Intro, Verse 1 & Chorus
+
+
+
+[title] When My Ship Comes In
+[credit] Matt Ellers
+
+{D Dmaj7 D7 G Gm D A D}
+Looked {D}out across the {Dsus4/C}water, a{D}cross the white capped {Dsus4/C}waves
+{D}Asking myself {Dsus4/C}what went wrong, {D}felt I was in a {Dsus4/C}cave
+Although the {Dsus4/B}wind did blow, and I wish my {Dsus4/Bb}life would slow
+They're {D}in a home we {Dsus4/C}still don't own, my {D}children and my {Dsus4/C}wife
+And {D}I'm out here on {Dsus4/C}this damn ship, {D}working away my {Dsus4/C}life
+Working up a {Dsus4/B}sweat, and I hope they {Dsus4/Bb}don't forget what I look {D7}like {G/D  Am/D  G/D}
+
+[structure] CHORUS 1
+{D}Always done {Dmaj7}everything to be the {D7}one who's in con{G}trol
+But {Gm}deep inside I {D}know, I know I've {A}got an empty {D}soul
+
+Each day is like the last one, I lose all track of time
+But captain says we'll be in port September 29
+I wonder what's goin' down, in my home town, in my home town
+
+[structure] CHORUS 2
+{D}Always done {Dmaj7}everything to be the {D7}one who's in con{G}trol
+But {Gm}deep inside I {D}know I've got an {A}empty soul
+{D}Once, the most im{Dmaj7}portant thing was the {D7}day that I got {G}paid
+But {Gm}now I feel im{D}prisoned by de{A}cisions that I've {D}made
+
+[structure] INSTRUMENTAL
+
+Now the ship is getting closer to the place I call my home
+Wonder how they're feeling? So long they've been alone
+Without their dad around, Oh, how my heart does pound
+For my wife hear it poundin’ for my wife
+
+[structure] Repeat CHORUS 2 twice
+
+Is it guilt, or is it fear that drives me to the bone?
+That makes me want to prove myself and make it on my own
+And forsake my home, oh, how I need my home
+
+
 
 
 [title] White Valiant
