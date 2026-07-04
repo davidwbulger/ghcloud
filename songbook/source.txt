@@ -4240,7 +4240,7 @@ And {Em}I said yeah, well, {G}what am I supposed to {A}do?
 {Em}I didn't know what I was {G}getting in{A}to
 {C}  So you've had a little {D}trouble in town
 {C}  Now you're keeping some {D}demons down
-{C}  Stop draggin' my,{D}  stop draggin' my,{Cadd9}  stop {G/B}  draggin' {Cadd9}my heart around
+{C}  Stop draggin' my,{D}  stop draggin' my,{Cadd9}  stop {G/B}  draggin' my {Cadd9}heart around
 {Em  G  A  Em  G  A}
 
 It's hard to think about what you've wanted
