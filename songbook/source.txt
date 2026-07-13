@@ -74,6 +74,7 @@ The Esoteric Temple of the Nation's Memories
 
 [chapter] COVERS: LEARNING
 
+Brothers in Arms
 Graceland
 One Thing Leads to Another
 Sittin' on the Dock of the Bay (in D)
@@ -907,6 +908,59 @@ And when we hear the voices sing, the book of love will open up and let us in
 Yeah {F#sus2}yeah yeah, yeah {C#}yeah
 
 [structure] Repeat Double Chorus
+
+
+
+[title] Brothers in Arms
+[credit] Dire Straits
+
+[structure] Intro:
+{| C#m |}
+{| G#m  E  | C#m  E  | G#m  E  | C#m   | x2}
+{| G#m     | G#m     |}
+
+These mist covered {E}moun{F#}tains
+Are home now for {B}me  {Bsus4  B}
+But my {D#m/A#}home is the {G#m}low {D#m}lands
+And always will {E}be  {F#sus4}
+Some{F#}day you'll re{G#m}turn {D#m}to
+Your valleys and your {E}farms  {C#m7  F#sus4}
+And you'll {F#}no longer {G#m}burn
+To be {E}brothers {F#sus4}in {F#}arms
+ 
+{| G#m  E  | C#m  E  | G#m  E  | C#m     | G#m     | G#m     |}
+ 
+Through these {F#}fields of de{E}struc{F#}tion
+Baptisms of fire
+I've witnessed your suffering
+As the battle raged higher
+And though they did hurt me so bad
+In the fear and alarm
+You did not desert me
+My brothers in arms
+ 
+{| G#m  E  | C#m  E  | G#m  E  | C#m     | G#m     | G#m     |}
+ 
+There's so {F#}many different {G#m}worlds  {B  F#}
+So {B}many different {E}suns  {F#}
+And we have just one {G#m}world  {B  F#}
+But we {B}live in different {E} ones
+ 
+{| G#m  E  | C#m  E  | G#m  E  | C#m   | x2}
+{| G#m  E  F#   | G#m     |}
+ 
+Now the sun's gone to hell   and
+The moon's riding high
+Let me bid you farewell
+Every man has to die
+But it's written in the starlight
+And every line in your palm
+We're fools to make war
+On our brothers in arms
+ 
+{| G#m  E | C#m  E | G#m  E | C#m | G#m  E | C#m  E  F# | G#m  E | C#m |}
+ 
+
 
 
 
