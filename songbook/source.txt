@@ -22,39 +22,21 @@
 
 
 
-[chapter] Planned set for L&P 2026-07-09
-
-Total Destruction
-Words/Birds
-Past Lives
-Sketchy Joe's Blues (I Work in the Graveyard Now)
-Steppin' Out (in E)
-
-
-
-[chapter] Likely to play soon with someone
-
-After Midnight
-Down on the Corner
-I Shall Be Released
-When My Ship Comes In
-
-
-
-[chapter] KITSCH OMEN (practising)
+[chapter] Pelican Boulevard (practising)
 
 After the Fiasco
 Chattering Fangs
 Cloud Formations
 Ghost Escalator (in D)
 Past Lives
+Plaza de Armas
 Sketchy Joe's Blues (I Work in the Graveyard Now)
 Total Destruction
 Utopia
 Words/Birds
 
 
-[chapter] KITSCH OMEN (possibilities)
+[chapter] Pelican Boulevard (possibilities)
 
 And Death Shall Have No Dominion
 A Different Song
@@ -76,8 +58,10 @@ The Esoteric Temple of the Nation's Memories
 
 Brothers in Arms
 Graceland
+I Shall Be Released
 One Thing Leads to Another
 Sittin' on the Dock of the Bay (in D)
+When My Ship Comes In
 
 [chapter] COVERS: REPERTOIRE
 
@@ -1211,8 +1195,27 @@ This {D}train got the disappearing {D7}railroad {G}blues
 [title] Cloud Formations
 [credit] Miloš Obradovic
 
-{E  Emaj7  Amaj7  x3}
-{E  Emaj7  Bm}
+{E} Cloud formations
+{Emaj7} Their lightness gives me re{Amaj7}lief
+{E} Floating silently
+{Emaj7} Their debut is {Amaj7}brief
+{E}Sailing like foam ships
+While we {Emaj7}play in the shadows they {Amaj7}cast
+E{E}lectric light rips
+A {Emaj7}flash, reminder of their {Bm}powers
+
+[structure] Instrumental:
+{G#m7   G#sus4add9   Em   E5add9}
+
+{E}Sometimes they descend
+To ca{Emaj7}ress the {Amaj7}flowers
+{E} And they send rain
+Dancing {Emaj7}droplets to ease our {Amaj7}pain
+E{E}lectric light rips
+A {Emaj7}flash, reminder of their {Bm}powers
+
+[structure] Instrumental:
+{G#m7   G#sus4add9   Em   E5add9}
 
 
 
@@ -3622,6 +3625,12 @@ Like this {Dm7}tired troubled {G7}earth, I've been {C}rollin' {C/B}since my {Am7
 
 [structure] Repeat chorus
 
+
+
+[title] Plaza de Armas
+[credit] Unknown/Trad, arr. Tom Csatari
+
+[structure] Instrumental
 
 
 
