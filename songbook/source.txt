@@ -38,11 +38,11 @@ Words/Birds
 
 [chapter] Pelican Boulevard (possibilities)
 
-And Death Shall Have No Dominion
+And Death Shall Have No Dominion (in D)
 A Different Song
 Funny Spells
 Golden Road
-I'll Bring the Cheese
+I'll Bring the Cheese (in Bb)
 Retail in December
 Three O'Clock Ghosts
 Your Hours are Numbered
@@ -430,19 +430,19 @@ I'm {C}empty and {C/B}aching and {Am7}I don't know why
 {G}Counting the cars on the New Jersey Turnpike
 They've {D}all {G}come to {D}look for A{Cmaj7}meri - {C}ca   [x3]
 
-[title] And Death Shall Have No Dominion
-[credit] Words by Dylan Thoma, Music by David Bulger
-{Emin}     And death shall {Asus2}have no dominion
-{Emin}     Dead men {Asus2}naked they shall be one
-{Emin}     With the man in the {Asus2}wind and the west moon
-{Emin}     When their bones are picked {Asus2}clean and the clean bones gone
-{Emin}     They shall have {Asus2}stars at elbow and foot
-{Emin}     Though they go {Asus2}mad they shall be sane
-{Emin}     Though they sink through the {Asus2}sea they shall rise again
-{Emin}     Though lovers be {Asus2}lost love shall not
+[title] And Death Shall Have No Dominion (in D)
+[credit] Words by Dylan Thomas, Music by David Bulger
+{Dmin}     And death shall {Gsus2}have no dominion
+{Dmin}     Dead men {Gsus2}naked they shall be one
+{Dmin}     With the man in the {Gsus2}wind and the west moon
+{Dmin}     When their bones are picked {Gsus2}clean and the clean bones gone
+{Dmin}     They shall have {Gsus2}stars at elbow and foot
+{Dmin}     Though they go {Gsus2}mad they shall be sane
+{Dmin}     Though they sink through the {Gsus2}sea they shall rise again
+{Dmin}     Though lovers be {Gsus2}lost love shall not
 
 [structure] Chorus:
-{Cadd9} And death shall {Dsus2}have no dominion	x4
+{Bbadd9} And death shall {Csus2}have no dominion	x4
 
 And death shall have no dominion
 Under the windings of the sea
@@ -2527,6 +2527,19 @@ The {Em}rain could fall and {Bm}soak me through
 I {Am}wouldn't care at {G/B}all on a {C}picnic with {D7}you
 {G} But I {Em7}think the {Cm}day will be {Ao}fine
 {B7}Knowing our {Em}luck, the {D}sun's gon{D7}na {G}shine!
+
+
+[title] I'll Bring the Cheese (in Bb)
+[credit] David Bulger
+
+{Bb} Whack some {Gm7}sandwiches {Ebm}into a {Co}pack
+{D7}Come along {Gm}girl, let's {Co}hit the {F7}track
+{Bb} Even {Bb7}if the {Eb}weather is {Eo}grey
+We'll {F}go any{F+}way, {F7}what do you {F}say? {F7}
+The {Gm}rain could fall and {Dm}soak me through
+I {Cm}wouldn't care at {Bb/D}all on a {Eb}picnic with {F7}you
+{Bb} But I {Gm7}think the {Ebm}day will be {Co}fine
+{D7}Knowing our {Gm}luck, the {F}sun's gon{F7}na {Bb}shine!
 
 
 
