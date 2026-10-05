@@ -27,7 +27,8 @@
 After the Fiasco
 Chattering Fangs
 Cloud Formations
-Ghost Escalator (in D)
+Ghost Escalator (in Eb)
+Mbira Intro
 Past Lives
 Plaza de Armas
 Sketchy Joe's Blues (I Work in the Graveyard Now)
@@ -42,7 +43,7 @@ And Death Shall Have No Dominion (in D)
 A Different Song
 Funny Spells
 Golden Road
-I'll Bring the Cheese (in Bb)
+I'll Bring the Cheese (in G)
 Retail in December
 Three O'Clock Ghosts
 Your Hours are Numbered
@@ -1881,6 +1882,44 @@ And I thought I heard you say
 
 [structure] Repeat Chorus
 
+[title] Ghost Escalator (in Eb)
+[credit] David Bulger
+
+{Eb} I remember {Cm}when {Bb}we first met
+You were {Ab}hanging with your {Eb}cousin {Cm}at the {Bb}shopping mall
+{Eb} And your cousin {Cm}played {Bb}clarinet
+In the {Ab}jazz band with my {Eb}buddy {Cm}Zach from {Bb}volleyball
+{Ab} We got {Bb}talking, you {Eb}thought I was {Eb7}sweet,
+We {Ab}lost Zach and {Bb}Hannah and {Eb}found a bite to {Eb7}eat
+{Ab} You looked so cute, I was as {Bb}charming as I'm able to {Cm}be
+At what became our {Bb/D}usual table at the {Eb}Asian food court
+Where {Fm}now I sit a{Bb7}lone
+
+If only we hadn't got stuck
+With that creepy old janitor in the elevator
+Maybe it was just really bad luck,
+'Cause that's when we heard about the escalator
+He got talking, he told us about
+That grim conveyance, he freaked us right out
+Most people only ever see it in the distance
+To ride you'd have to hunt it down with great persistence
+And no one has ever got off
+
+[structure] Chorus:
+{Cm} Don't {Fm}ride {Ab} the {Bb}Ghost Esca{Cm}lator{ (x4)}
+
+Well I scoffed but you were fascinated
+And reluctantly I joined your paranormal quest
+We watched, we searched, we theorised and waited
+You talked of little else; you became obsessed
+Sometimes we saw it, but only from afar
+One day you vanished, but I know where you are
+Yesterday I saw the Ghost Escalator again
+I saw you riding it and called your name but then you turned around sadly,
+And I thought I heard you say
+
+[structure] Repeat Chorus
+
 
 
 [title] God Only Knows
@@ -2516,7 +2555,7 @@ Calling out that he's been framed
 
 
 
-[title] I'll Bring the Cheese
+[title] I'll Bring the Cheese (in G)
 [credit] David Bulger
 
 {G} Whack some {Em7}sandwiches {Cm}into a {Ao}pack
@@ -3075,6 +3114,16 @@ And he {C}loves to be spoken {G}to
 (His world!)
  
 [structure] Repeat Verse 1 & Chorus
+
+
+
+[title] Mbira Intro
+[credit] Trad?
+
+{C  Em  Am}
+{C  F  Am}
+{Dm  F  Am}
+{C  Em  Gm}
 
 
 
