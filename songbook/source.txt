@@ -40,7 +40,9 @@ Words/Birds
 
 [chapter] Pelican Boulevard (possibilities)
 
+All I Remember
 And Death Shall Have No Dominion (in D)
+Antique Tile
 A Different Song
 Funny Spells
 Golden Road
@@ -376,6 +378,43 @@ Like it had been at the start
       Ain't misbe{Emin7}havin', I'm {Amin7}savin' all my {D7}love for {G}you{C  D7   G  F#/D     G}
 
 
+[title] All I Remember
+[credit] David Bulger
+
+
+{Am7} It feels like maybe a week or two ago
+I ran for the train. I was a moment too slow
+"Mate, where ya headed?" asked a voice at my side
+I told her where I live, and she offered me a ride
+Her {Cm7}friend who picked us up had to stop along the way,
+He asked "Is that alright?" I said "Yeah, sure, okay."
+We {Dm7}parked illegally in the bohemian neighbourhood
+"Come {Em7}up and see his place," they said, "The view is really good." {E7}
+
+We met an older guy with an accent hard to place
+An unsettling, whimsical look upon his face
+After introductions, he insisted on a tour
+"These statues are of ivory; you can't buy them anymore.
+My collection, I believe, is unrivaled in Australia
+This Euclid was da Vinci's; see his marginalia?
+Look closer," he insisted, "The work is so detailed"
+But my vision grew dark as soon as I inhaled
+
+[structure] Chorus:
+{Dm7}Any{Am7}way, that's {Em}all I can {Fmaj7}remem{Em7}ber  [x4]
+
+I gradually came to, in an unfamiliar bed
+Blinking at the light, with a pain in my head
+My joints and muscles ached; I was thirsty and dry-eyed
+I heard heavy footsteps in the corridor outside
+"Otvorte dvere! Polícia!" someone yelled
+"I don't understand!" I said, as my panic swelled
+"Where you were last night?" a cop asked, busting through the door
+"And why there is a bloody knife behind you on the floor?"
+
+[structure] Repeat Chorus
+
+
 [title] All Things Are Quite Silent
 [credit] Steeleye Span 
 
@@ -466,6 +505,50 @@ Heads of the characters hammer through daisies
 Break in the sun till the sun breaks down
 
 [structure] Repeat chorus
+
+
+[title] Antique Tile
+[credit] David Bulger
+
+{E5}Dust sus{G}pended in {Aadd9}shafts of sun
+{E5} Kicked up by {G}idle {Aadd9 etc.}sightseers
+Each piece of junk will appeal to someone
+Though some of it sits here for years
+I'm shelving new stock my boss has got
+From some deceased estate
+Watercolours, a kitch teapot,
+A {E}tile that's {G#m7}hard to {C#7}date
+
+There are {F#}symbols on the {E}tile
+With a {G}goddess in {F#}profile
+{G}In an {G#m}ancient {E5}style
+
+A couple come in with a two-year-old kid
+We trade perfunctory smiles
+I dust a ceramic giant squid
+As the young family wanders the aisles
+The kid starts shouting something arcane
+Near the shelf where the tile is stored
+It's the same strange sounds again and again
+As she stretches her arms toward
+
+Those symbols on the tile
+And the goddess in profile
+In that ancient style
+
+That night I dream of elder days
+And ancient things reborn
+Fido won't return my gaze
+When I feed him in the morn
+At the shop my fingers fumble
+As I work the key
+I'm not sure quite what it is I start to mumble
+As I rush to see
+
+That message on the tile
+And the goddess in profile
+In that ancient style
+
 
 [title] As Time Goes By
 [credit] Herman Hupfeld 
