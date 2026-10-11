@@ -42,7 +42,6 @@ Words/Birds
 
 All I Remember
 And Death Shall Have No Dominion (in D)
-Antique Tile
 A Different Song
 Funny Spells
 Golden Road
@@ -53,6 +52,7 @@ Your Hours are Numbered
 
 [chapter] OTHER ORIGINALS
 
+Antique Tile
 The Call of the Mountain Thing
 The Esoteric Temple of the Nation's Memories
 
@@ -513,7 +513,7 @@ Break in the sun till the sun breaks down
 {E5}Dust sus{G}pended in {Aadd9}shafts of sun
 {E5} Kicked up by {G}idle {Aadd9 etc.}sightseers
 Each piece of junk will appeal to someone
-Though some of it sits here for years
+Though some of it's been here for years
 I'm shelving new stock my boss has got
 From some deceased estate
 Watercolours, a kitch teapot,
