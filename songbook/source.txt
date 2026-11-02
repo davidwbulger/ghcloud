@@ -1288,8 +1288,7 @@ While we {Emaj7}play in the shadows they {Amaj7}cast
 E{E}lectric light rips
 A {Emaj7}flash, reminder of their {Bm}powers
 
-[structure] Instrumental:
-{G#m7   G#sus4add9   Em   E5add9}
+{Fsus2add6no5   Fsus2   Bm7/E}
 
 {E}Sometimes they descend
 To ca{Emaj7}ress the {Amaj7}flowers
@@ -1298,8 +1297,12 @@ Dancing {Emaj7}droplets to ease our {Amaj7}pain
 E{E}lectric light rips
 A {Emaj7}flash, reminder of their {Bm}powers
 
-[structure] Instrumental:
-{G#m7   G#sus4add9   Em   E5add9}
+{Fsus2add6no5   Fsus2   Bm7/E}
+
+{(E   Emaj7   Amaj7) x3}
+{E   Emaj7   Bm}
+
+{(Fsus2add6no5   Fsus2   Bm7/E) x2}
 
 
 
