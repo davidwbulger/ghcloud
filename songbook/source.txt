@@ -5519,6 +5519,57 @@ But oh my love, though our bodies may be parted, though our skin may not touch s
 Look for me with the sun-bright sparrow; I will come on the breath of the wind
 
 
+
+[title] Year of the Cat
+[credit] Al Stewart
+
+[structure] Intro:
+{((Cmaj7  D6  Em)x3  Am7  D)x2}
+{(Gmaj7  Cmaj7)x2  Emaj7  Am7  D}
+{(Cmaj7  D6  Em)x3  Am7  D}
+
+On a {Cmaj7}morning from a {Bm}Bogart {Em}movie
+In a {Cmaj7}country where they {Bm}turned back {Em}time
+You go {Cmaj7}strolling through the {Bm}crowd like {Em} Peter Lorre
+Contem{Am7}plating a crime {D}
+She comes {Cmaj7}out of the {Bm}sun in a {Em}silk dress
+Running like a {B}watercolor in the {C}rain
+Don't bother {B7}asking for {Em}explanations
+She'll just {Am7}tell you that she came {D}
+
+In the year of the {Cmaj7}cat
+
+She doesn't give you time for questions
+As she locks up your arm in hers
+And you follow 'til your sense of which direction
+Completely disappears
+By the blue tiled walls near the market stalls
+There's a hidden door she leads you to
+These days, she says, I feel my life
+Just like a river running through
+
+The year of the cat
+
+Well she {B}looks at you so {C}coolly
+And her {G}eyes shine like the {D}moon in the sea
+She comes in {B}incense and pat{C}chouli
+So you {G}take her to {F}find what's {C/E}waiting in{D}side
+
+The year of the cat
+
+Well morning comes and you're still with her
+And the bus and the tourists are gone
+And you've thrown away your choice and lost your ticket
+So you have to stay on
+But the drumbeat strains of the night remain
+In the rhythm of the newborn day
+You know sometime you're bound to leave her
+But for now you're gonna stay
+
+In the year of the cat
+
+
+
 [title] You Can Call Me Al
 [credit] Paul Simon
 
